@@ -14,7 +14,7 @@ carousel-slides:
 ---
 
 # Maker Faire Orlando Can’t Happen Without Makers!
-We need people willing to share the things they create and their passion for making. **Join us November 13th & 14th** and help inspire thousands in our community.
+We need people willing to share the things they create and their passion for making. **Join us {{site.event_date_descr_month_day}}** and help inspire thousands in our community.
 
 There is no fee for individuals or community groups to exhibit at Maker Faire Orlando. There is a $100 seller fee for individuals and lifestyle businesses to sell products you make at the event. Established companies and those looking to advertise are encouraged to [sponsor Maker Faire Orlando](/become-a-sponsor) which includes significant sponsor benefits.
 Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com> so that we can work with you to determine the best way to feature you based on size and startup phase.
@@ -22,8 +22,11 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 ---
 
 ## Exhibit Applications
-Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
+**We have not yet opened the Call For Makers exhibit application process for 2022. Check back later this summer and follow us on social media for announcements!**
 
+{%comment%}
+Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
+{%endcomment%}
 &nbsp;  
 
 **COMBAT ROBOT COMPETITORS:** You will be emailed a special form just for Combat Robots after you register on buildersdb and are accepted into the competition - you do not need to complete this form.

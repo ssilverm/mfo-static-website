@@ -2,12 +2,13 @@
 title: Maker Faire Orlando Sponsors
 layout: default
 permalink: /sponsors/
+
 ---
 <div class="container sponsors-landing">
 
   <div class="row padbottom">
     <div class="col-xs-12">
-      <h2 class="pull-left">2021 Sponsors</h2>
+      <h2 class="pull-left">{{site.event_year}} Sponsors</h2>
       <a class="sponsors-btn-top" href="/become-a-sponsor/">BECOME A SPONSOR</a>
     </div>
   </div>

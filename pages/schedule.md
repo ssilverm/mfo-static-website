@@ -8,8 +8,13 @@ redirect_from: "/event-schedule/"
 
 # Event Schedule
 
-Most exhibits and hands-on experiences at Maker Faire Orlando run continuously throughout the event. For competition times and more, check out our [event program](/program) below which has additional details. Click the images below for a PDF version of the program.
+We will publish the Maker Faire Orlando 2022 event schedule in the months leading up to the event. Check back for updates and follow us on social media for announcements.
 
+Check out the 2021 program and schedule below for examples of Maker Faire activities and events.
+
+{%comment%}
+Most exhibits and hands-on experiences at Maker Faire Orlando run continuously throughout the event. For competition times and more, check out our [event program](/program) below which has additional details. Click the images below for a PDF version of the program.
+{%endcomment%}
 
 <br><br>
 
@@ -24,10 +29,12 @@ Most exhibits and hands-on experiences at Maker Faire Orlando run continuously t
 ## Need Tickets?
 Hop over to our [tickets](/attend) page for more information including our free ticket programs for first responders, educators, and veterans and details on how to win a professional 3D printer package from DeltaMaker 3D!
 
+{%comment%}
 ___
 
 ## Looking for an Exclusive Experience with BattleBots Teams?
 Check out the [Robot Ruckus VIP Fundraiser](https://ruckusvip.eventbrite.com) happening after-hours on Saturday the 13th after the first day of Maker Faire Orlando. This event requires a separate ticket. [Learn More](https://ruckusvip.eventbrite.com)
+{%endcomment%}
 
 ---
 
