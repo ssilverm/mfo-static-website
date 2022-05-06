@@ -83,10 +83,7 @@ footernav:
         url: /about/
       - page: Privacy Policy
         url: https://www.themakereffect.org/privacy/
-      - page: Maker Login
-        url: /maker-login/
-      - page: Create Maker Account
-        url: /maker-login/
+
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaireorlando/
