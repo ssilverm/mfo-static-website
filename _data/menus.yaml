@@ -29,6 +29,9 @@ topnav:
         url: /volunteer/
       - page: Become a Sponsor
         url: /become-a-sponsor/
+      - page: Help Promote Maker Faire Orlando
+        url: /promote/
+
   - title: Attend
     subfolderitems:
       - page: Tickets & Info
