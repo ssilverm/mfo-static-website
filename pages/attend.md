@@ -79,16 +79,16 @@ ___
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
-**Homeschool educators receive free admission** to Maker Faire Orlando 2022 with identification and documentation.
+**Homeschool educators receive free admission** to Maker Faire Orlando 2021 with identification and documentation.
 Please see our [Homeschool Programs page](/homeschool) for more information including requirements and restrictions.
 
-**Employees of schools, colleges, universities, and libraries** receive free admission to Maker Faire Orlando 2022 with identification.
+**Employees of schools, colleges, universities, and libraries** receive free admission to Maker Faire Orlando 2021 with identification.
 Please see our [Educators page](/educators) for more information including requirements and restrictions.
 
-**Registered groups from Title I schools receive free admission** to Maker Faire Orlando 2022.
+**Registered groups from Title I schools receive free admission** to Maker Faire Orlando 2021.
 Please see our [Educators page](/educators) for more information.
 
-**First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2022 with identification. Simply bring your identification to the ticket booth at the event to receive a free ticket per eligible person with identification.
+**First Responders, Active Military and Veterans receive free admission** to Maker Faire Orlando 2021 with identification. Simply bring your identification to the ticket booth at the event to receive a free ticket per eligible person with identification.
 
 **Anti-Harassment Policy** Maker Faire Orlando has a zero-tolerance policy for harassment of any kind. Please see our [Anti-Harassment Policy](/anti-harassment) for more information.
 
