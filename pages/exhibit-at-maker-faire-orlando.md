@@ -26,7 +26,7 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 
 {%comment%}
 Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
-{%endcomment%}
+
 &nbsp;  
 
 **COMBAT ROBOT COMPETITORS:** You will be emailed a special form just for Combat Robots after you register on buildersdb and are accepted into the competition - you do not need to complete this form.
@@ -54,16 +54,8 @@ Exhibits are not approved in the order received, and it will be several weeks be
 
 Unfortunately, we do not have space at the event for all exhibit applications. Please ensure that you highlight your exhibit with good photos / video / description when you submit. We also maintain a balance between selling / non-selling exhibits and a good mix of the type of exhibits.
 
+{%endcomment%}
 ---
-<!--
-### Getting started when our Call For Makers is open:
-
-Step 1: Register for the Maker Faire Orlando Website. If you created an account to exhibit in a prior year, you do not need to create a new account, just login (and you can reset your password if needed).
-
-Step 2: Create a Maker Profile on the Maker Dashboard on the My Account menu. Note: this page is only available once you’ve registered, verified, and logged in.
-
-Step 3: Create an Exhibit Proposal attached to your Maker Profile. We will notify you about your proposal status as we do our rounds of approvals. The status of your exhibit proposals is visible on the Maker Dashboard. Please note that exhibits are approved by a curation process in several rounds, and are not approved based on submission date order.
--->
 ***Have any questions? Email us at <makers@makerfaireorlando.com>***
 
 Maker Faire Orlando is a curated event. We reserve the right to select exhibits based on proposal completeness, exhibit content, content diversity, items sold, and other factors.

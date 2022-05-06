@@ -97,6 +97,10 @@ footernav:
       - title: Instagram
         url: https://www.instagram.com/makerfaireorlando/
         icon: fa fa-instagram
+      - title: YouTube
+        url: https://www.youtube.com/channel/UCXGb__jIZ6vlAcqoePyX5lg
+        icon: fa fa-youtube
+
   - title: Maker Faire
     image: https://global.makerfaire.com/wp-content/themes/MiniMakerFaire/img/Maker-Faire-Logo.png
     imagealt: Maker Faire logo
