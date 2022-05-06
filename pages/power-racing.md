@@ -39,7 +39,7 @@ carousel-slides:
     url: /power-racing/
 ---
 
-# Power Racing is back at Maker Faire Orlando 2021!
+# Power Racing is back at Maker Faire Orlando 2022!
 
 ![Power Racing Teams group shot 2018](/assets/images/power-racing-group-shot-2018.jpg){:width="100%"}
 
