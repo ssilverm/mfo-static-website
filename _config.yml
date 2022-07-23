@@ -22,11 +22,13 @@ defaults:
       path: ""
     values:
       image: /assets/images/site-branding/mfo_two_line_border.png
-  -
-    scope:
-      path: "/assets/**/*.pdf"
-    values:
-      sitemap: false
+# WTF was this for? It is called a "glob" pattern and it causes 90k+ lines of trace output
+#on the GH pages build console - https://docs.w3cub.com/jekyll/configuration/index
+#  -
+#    scope:
+#      path: "/assets/**/*.pdf"
+#    values:
+#      sitemap: false
   -
     scope:
       path: ""
