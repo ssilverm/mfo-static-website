@@ -39,14 +39,47 @@ Central Florida Expo Center & Fairgrounds
 
 **Parking is FREE!**
 
-{%comment%}
-Tickets available on [Eventbrite](https://makerfaireorlando.eventbrite.com)
+---
+Tickets available on [Humanitix](https://events.humanitix.com/makerfaireorlando) or use the ticket form below - Humanitix donates 100% of profits to children's charities!
 
+{%comment%}
 Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https://ruckusvip.eventbrite.com) after hours on Saturday, November 13th.
 {%endcomment%}
 ---
-
+{%comment%}
 **Tickets will go on sale later this summer. Check back for updates and follow us on social media for updates!**
+{%endcomment%}
+
+<iframe id="iframe-container" src="https://events.humanitix.com/makerfaireorlando/tickets?w=true&p=%23353337" width="100%" height="600px" frameborder="0"></iframe>
+
+<script>
+    var humanitix = {
+        findPos: function(obj) {
+            var curtop = 0;
+            if (obj.offsetParent) {
+            do {
+                curtop += obj.offsetTop;
+            } while ((obj = obj.offsetParent));
+            return [curtop];
+            }
+        }
+    };
+    window.addEventListener('message', function (e) {
+        if (e.origin !== "https://events.humanitix.com"){
+            return;
+        }   
+        var messageData = e.data;
+        var iframeEl = document.getElementById('iframe-container');
+        if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){
+            iframeEl.style.height = messageData.scrollHeight + 'px';
+        }
+        if (iframeEl && messageData && messageData.pageChange) {
+          window.scroll(0, humanitix.findPos(iframeEl));
+      }
+
+    }, false);
+</script>
+
 
 {%comment%}
 <div id="eventbrite-widget-container-164640154133"></div>
