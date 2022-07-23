@@ -25,7 +25,7 @@ sponsors:
     url: https://www.bocabearings.com/
     logo: boca_bearings_small.png
     level: 3
-    active: false
+    active: true
   - name: TLC Engineering
     url: https://tlc-engineers.com/
     logo: tlc-engineering.jpg
