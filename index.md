@@ -40,9 +40,9 @@ carousel-slides:
 {% include explore-meet-makers.html %}
 {% endcomment %}
 
-{% comment %}
+
 {% include call-for-makers-widget.html %}
-{% endcomment %}
+
 
 {% comment %}
 
