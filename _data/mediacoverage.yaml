@@ -1,5 +1,14 @@
 mediacoverage:
   - event:
+      title: Maker Faire Orlando 2021
+      stories:
+        - title: "Save the Date: Maker Faire Orlando Returns November 9-10"
+          publisher: Come See Orlando
+          date: August 6, 2019
+          url: http://www.comeseeorlando.com/2019/08/save-date-maker-faire-orlando-returns.html
+        
+
+  - event:
       title: Maker Faire Orlando 2019
       stories:
         - title: "Save the Date: Maker Faire Orlando Returns November 9-10"
