@@ -30,7 +30,7 @@ sponsors:
     url: https://tlc-engineers.com/
     logo: tlc-engineering.jpg
     level: 5
-    active: false
+    active: true
   - name: DeltaMaker 3D Printers
     url: https://www.deltamaker.com
     logo: deltamaker-logo-3d-printers.png
@@ -80,12 +80,12 @@ sponsors:
     url: https://www.brasfieldgorrie.com/
     logo: Brasfield-Gorrie-Logo-Blue-JPG.jpg
     level: 5
-    active: false
+    active: true
   - name: Amphenol Custom Cable
     url: http://www.customcable.com/amph
     logo: amphenol.jpg
     level: 5
-    active: false
+    active: true
   - name: Tylted Art
     url: https://www.tyltedart.com
     logo: Tylted-Art-Logo-300x177.png
