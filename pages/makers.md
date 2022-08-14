@@ -8,8 +8,8 @@ redirect-from:
 scrolltop: true
 ---
 <div class="container">
-<h1>Maker Exhibits from Maker Faire Orlando 2021</h1>
-<p>We haven't started accepting Maker Exhibit applications for 2022, check back later this summer and follow us on social media for announcements!</p>
+<h1>Maker Exhibits</h1>
+
 
 <p>Interested in Exhibiting at Maker Faire Orlando? <a href="/exhibit-at-maker-faire-orlando/">Learn more about exhibiting!</a> </p>
 
