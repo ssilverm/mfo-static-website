@@ -32,10 +32,11 @@
         <a href="/makers/?category={{-category.slug-}}">{{- category.name -}}</a>
         {%- endif -%}{%- endfor -%}
       </div>
+      {% comment %}
       <p><b>Exhibit Zone:</b> {{page.exhibit-zone}}</p>
 
       <p><b>Exhibit Space:</b> {{page.space-number}} {% if page.space-number != "Unassigned" %}(Subject to Change){%endif%}</p>
-
+      {% endcomment %}
       <p><b>Exhibit Number:</b> {{page.exhibit-id}}</p>
 
 
