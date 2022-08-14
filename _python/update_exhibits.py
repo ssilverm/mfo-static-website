@@ -30,9 +30,9 @@ import os.path
 from os import path
 
 #settings
-eventYear = 2021
-formCFM = "Call For Makers MFO2021"
-formRuckus = "CFM - Ruckus - MFO2021"
+eventYear = 2022
+formCFM = "Call For Makers MFO2022"
+formRuckus = "CFM - Ruckus - MFO2022"
 
 
 outputAll = False #this is now set with a command line param, don't change it here
@@ -123,10 +123,15 @@ def processImage(eid, eslug, type, url):
     url = urllib.parse.urlunsplit(url)
     print(url)
 
+    #print (fullFn)
+    #resource = urllib.request.urlopen(url)
+    import requests
+    r = requests.get(url)
+    #print (r)
 
-    resource = urllib.request.urlopen(url)
+    #print (resource)
     output = open(fullFn,"wb")
-    output.write(resource.read())
+    output.write(r.content)
     output.close()
 
   if not path.exists(smallFn):
