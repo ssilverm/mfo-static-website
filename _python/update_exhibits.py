@@ -508,85 +508,87 @@ def export(outputAll):
             outfile.close()
 
 
-    #output our illustrator space plan file
+    if countExhibitsRemoved or countExport:
+        print ("Exporting CSV files for Illustrator")
+        #output our illustrator space plan file
 
-    #order the list
+        #order the list
 
-    spaceplanList = sorted(spaceplanList, key=lambda x:x[0])
-    #print (spaceplanList)
+        spaceplanList = sorted(spaceplanList, key=lambda x:x[0])
+        #print (spaceplanList)
 
-    #init the rows
-    csvrowC = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
-    csvrowS = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
-    csvrowO = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+        #init the rows
+        csvrowC = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+        csvrowS = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
+        csvrowO = [["View"],["SpaceExhibitID"],["SpaceExhbit"],["SpaceExhibitMaker"],["Exhibit"]]
 
-    #add blank spaces
-    cRows = ['A','B','C','D','E','F','G','H','I','J']
-    sRows = ['A','B','C','D','E','F','G','H','I','J','K','L']
-    oRows = ['A','B','C','D','E','F','G']
-    cNumCols = 6
-    sNumCols = 36
-    oNumCols = 29
+        #add blank spaces
+        cRows = ['A','B','C','D','E','F','G','H','I','J']
+        sRows = ['A','B','C','D','E','F','G','H','I','J','K','L']
+        oRows = ['A','B','C','D','E','F','G']
+        cNumCols = 6
+        sNumCols = 36
+        oNumCols = 29
 
-    for curRow in cRows:
-      for curCol in range(1,cNumCols + 1):
-        curSpace = "C" + curRow + str(curCol)
+        for curRow in cRows:
+          for curCol in range(1,cNumCols + 1):
+            curSpace = "C" + curRow + str(curCol)
 
-        if any(e[0] == curSpace for e in spaceplanList) is False:
-          csvrowC[0].append(curSpace)
-          csvrowC[1].append("")
-          csvrowC[2].append("")
-          csvrowC[3].append("")
-          csvrowC[4].append("")
+            if any(e[0] == curSpace for e in spaceplanList) is False:
+              csvrowC[0].append(curSpace)
+              csvrowC[1].append("")
+              csvrowC[2].append("")
+              csvrowC[3].append("")
+              csvrowC[4].append("")
 
-    for curRow in sRows:
-      for curCol in range(1,sNumCols + 1):
-        curSpace = "S" + curRow + str(curCol)
+        for curRow in sRows:
+          for curCol in range(1,sNumCols + 1):
+            curSpace = "S" + curRow + str(curCol)
 
-        if any(e[0] == curSpace for e in spaceplanList) is False:
-          csvrowS[0].append(curSpace)
-          csvrowS[1].append("")
-          csvrowS[2].append("")
-          csvrowS[3].append("")
-          csvrowS[4].append("")
+            if any(e[0] == curSpace for e in spaceplanList) is False:
+              csvrowS[0].append(curSpace)
+              csvrowS[1].append("")
+              csvrowS[2].append("")
+              csvrowS[3].append("")
+              csvrowS[4].append("")
 
-    for curRow in oRows:
-      for curCol in range(1,oNumCols + 1):
-        curSpace = "O" + curRow + str(curCol)
+        for curRow in oRows:
+          for curCol in range(1,oNumCols + 1):
+            curSpace = "O" + curRow + str(curCol)
 
-        if any(e[0] == curSpace for e in spaceplanList) is False:
-          csvrowO[0].append(curSpace)
-          csvrowO[1].append("")
-          csvrowO[2].append("")
-          csvrowO[3].append("")
-          csvrowO[4].append("")
+            if any(e[0] == curSpace for e in spaceplanList) is False:
+              csvrowO[0].append(curSpace)
+              csvrowO[1].append("")
+              csvrowO[2].append("")
+              csvrowO[3].append("")
+              csvrowO[4].append("")
 
-    unow = datetime.datetime.now()
-    updated = unow.strftime("%Y-%m-%d-%-H:%M:%S")
-    updatedList = ["updated", updated, updated, updated, updated]
+        unow = datetime.datetime.now()
+        updated = unow.strftime("%Y-%m-%d-%-H:%M:%S")
+        updatedList = ["updated", updated, updated, updated, updated]
 
 
-    #output by iterating the spaces
-    for spc in spaceplanList:
-      for row in range (0,5):
-        #split by building
-        if spc[0][0] == "C":
-          csvrowC[row].append(spc[row])
-        elif spc[0][0] == "S":
-          csvrowS[row].append(spc[row])
-        elif spc[0][0] == "O":
-          csvrowO[row].append(spc[row])
+        #output by iterating the spaces
+        for spc in spaceplanList:
+          for row in range (0,5):
+            #split by building
+            if spc[0][0] == "C":
+              csvrowC[row].append(spc[row])
+            elif spc[0][0] == "S":
+              csvrowS[row].append(spc[row])
+            elif spc[0][0] == "O":
+              csvrowO[row].append(spc[row])
 
-    #add update time to end
-    for urow in range (0,5):
-      csvrowC[urow].append(updatedList[urow])
-      csvrowS[urow].append(updatedList[urow])
-      csvrowO[urow].append(updatedList[urow])
+        #add update time to end
+        for urow in range (0,5):
+          csvrowC[urow].append(updatedList[urow])
+          csvrowS[urow].append(updatedList[urow])
+          csvrowO[urow].append(updatedList[urow])
 
-    writeCSVFile("curiosity.csv", csvrowC);
-    writeCSVFile("spirit.csv", csvrowS);
-    writeCSVFile("opportunity.csv", csvrowO);
-
+        writeCSVFile("curiosity.csv", csvrowC);
+        writeCSVFile("spirit.csv", csvrowS);
+        writeCSVFile("opportunity.csv", csvrowO);
+    #end if changes then write export files
 
     #todo: count regular CFM vs Ruckus CFM separately and also give total
     print("Submissions Found: " + str(countSubmissions))
