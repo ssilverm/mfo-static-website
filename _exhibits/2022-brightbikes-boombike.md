@@ -8,12 +8,12 @@ exhibit-id: 22-44
 space-number: Unassigned
 description: "A giant, functional 80&#039;s style boombox. That is also a bike!"
 description-long: "We took a standard bicycle, modified it, and mounted a giant, functional 80&#039;s style boombox to the front. The BoomBike features a 900 watt sound system, and more than 16,000 LEDS!"
-image: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike-large.PNG
+image: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-large.png
 image-primary: 
-  small: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike-small.PNG
-  medium: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike-medium.PNG
-  large: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike-large.PNG
-  full: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike-full.PNG
+  small: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-small.png
+  medium: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-medium.png
+  large: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-large.png
+  full: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-full.png
 additional-images: 
   - 1:
     small: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-21-180-exhibit-addl1-brightbikes-boombike-immerse-boombike-orlando-weekly-large-small.jpg
@@ -48,8 +48,8 @@ categories:
   - slug: metalworking
     name: Metalworking
 created-jotform: "2022-08-05 13:56:47"
-last-modified-jotform: "2022-08-13 13:39:42"
-last-exported: "2022-08-14 13:20:17"
+last-modified-jotform: "2022-08-21 09:32:36"
+last-exported: "2022-08-21 10:12:17"
 sitemap: false
 
 ---
