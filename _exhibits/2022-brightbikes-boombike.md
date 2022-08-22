@@ -8,23 +8,23 @@ exhibit-id: 22-44
 space-number: Unassigned
 description: "A giant, functional 80&#039;s style boombox. That is also a bike!"
 description-long: "We took a standard bicycle, modified it, and mounted a giant, functional 80&#039;s style boombox to the front. The BoomBike features a 900 watt sound system, and more than 16,000 LEDS!"
-image: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-large.png
+image: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike1-large.png
 image-primary: 
-  small: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-small.png
-  medium: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-medium.png
-  large: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-large.png
-  full: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-21-180-exhibit-brightbikes-boombike-photo-oct-15-7-33-16-pm-1-2-large-full.png
+  small: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike1-small.png
+  medium: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike1-medium.png
+  large: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike1-large.png
+  full: /assets/images/exhibit-images/22-44-exhibit-brightbikes-boombike-boombike1-full.png
 additional-images: 
   - 1:
-    small: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-21-180-exhibit-addl1-brightbikes-boombike-immerse-boombike-orlando-weekly-large-small.jpg
-    medium: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-21-180-exhibit-addl1-brightbikes-boombike-immerse-boombike-orlando-weekly-large-medium.jpg
-    large: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-21-180-exhibit-addl1-brightbikes-boombike-immerse-boombike-orlando-weekly-large-large.jpg
-    full: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-21-180-exhibit-addl1-brightbikes-boombike-immerse-boombike-orlando-weekly-large-full.jpg
+    small: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-boombike2-small.jpg
+    medium: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-boombike2-medium.jpg
+    large: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-boombike2-large.jpg
+    full: /assets/images/exhibit-images/22-44-exhibit-addl1-brightbikes-boombike-boombike2-full.jpg
   - 2:
-    small: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-21-180-exhibit-addl2-brightbikes-boombike-img-3226-large-small.jpg
-    medium: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-21-180-exhibit-addl2-brightbikes-boombike-img-3226-large-medium.jpg
-    large: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-21-180-exhibit-addl2-brightbikes-boombike-img-3226-large-large.jpg
-    full: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-21-180-exhibit-addl2-brightbikes-boombike-img-3226-large-full.jpg
+    small: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-boombike3-small.jpg
+    medium: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-boombike3-medium.jpg
+    large: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-boombike3-large.jpg
+    full: /assets/images/exhibit-images/22-44-exhibit-addl2-brightbikes-boombike-boombike3-full.jpg
 video: "https://www.youtube.com/watch?v=z4a22uanFdU"
 video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/z4a22uanFdU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Experience the BoomBike at Maker Faire Orlando 2021"></iframe>'
 maker: 
@@ -48,8 +48,8 @@ categories:
   - slug: metalworking
     name: Metalworking
 created-jotform: "2022-08-05 13:56:47"
-last-modified-jotform: "2022-08-21 09:32:36"
-last-exported: "2022-08-21 10:12:17"
+last-modified-jotform: "2022-08-21 21:33:25"
+last-exported: "2022-08-21 21:35:48"
 sitemap: false
 
 ---

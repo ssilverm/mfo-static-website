@@ -24,35 +24,40 @@ image-primary:
   full: /assets/images/exhibit-images/22-63-exhibit-tampa-deep-sea-xplorers-43-baracuda-banner-1600x1200-v3-6002-full.jpg
 additional-images: 
   - 1:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-auv-on-bench-small.JPG
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-auv-on-bench-medium.JPG
-    large: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-auv-on-bench-large.JPG
-    full: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-auv-on-bench-full.JPG
+    small: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-zerak-the-robot-small.JPG
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-zerak-the-robot-medium.JPG
+    large: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-zerak-the-robot-large.JPG
+    full: /assets/images/exhibit-images/22-63-exhibit-addl1-tampa-deep-sea-xplorers-zerak-the-robot-full.JPG
   - 2:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-ed-and-terry-on-boat-small.gif
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-ed-and-terry-on-boat-medium.gif
-    large: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-ed-and-terry-on-boat-large.gif
-    full: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-ed-and-terry-on-boat-full.gif
+    small: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-auv-on-bench-small.JPG
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-auv-on-bench-medium.JPG
+    large: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-auv-on-bench-large.JPG
+    full: /assets/images/exhibit-images/22-63-exhibit-addl2-tampa-deep-sea-xplorers-auv-on-bench-full.JPG
   - 3:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-noaa-tampa-1200x800-small.jpg
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-noaa-tampa-1200x800-medium.jpg
-    large: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-noaa-tampa-1200x800-large.jpg
-    full: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-noaa-tampa-1200x800-full.jpg
+    small: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-ed-and-terry-on-boat-small.gif
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-ed-and-terry-on-boat-medium.gif
+    large: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-ed-and-terry-on-boat-large.gif
+    full: /assets/images/exhibit-images/22-63-exhibit-addl3-tampa-deep-sea-xplorers-ed-and-terry-on-boat-full.gif
   - 4:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-pool-test-small.JPG
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-pool-test-medium.JPG
-    large: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-pool-test-large.JPG
-    full: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-pool-test-full.JPG
+    small: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-noaa-tampa-1200x800-small.jpg
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-noaa-tampa-1200x800-medium.jpg
+    large: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-noaa-tampa-1200x800-large.jpg
+    full: /assets/images/exhibit-images/22-63-exhibit-addl4-tampa-deep-sea-xplorers-noaa-tampa-1200x800-full.jpg
   - 5:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-makerfaire-small.JPG
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-makerfaire-medium.JPG
-    large: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-makerfaire-large.JPG
-    full: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-makerfaire-full.JPG
+    small: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-pool-test-small.JPG
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-pool-test-medium.JPG
+    large: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-pool-test-large.JPG
+    full: /assets/images/exhibit-images/22-63-exhibit-addl5-tampa-deep-sea-xplorers-pool-test-full.JPG
   - 6:
-    small: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-small.jpg
-    medium: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-medium.jpg
-    large: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-large.jpg
-    full: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-full.jpg
+    small: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-makerfaire-small.JPG
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-makerfaire-medium.JPG
+    large: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-makerfaire-large.JPG
+    full: /assets/images/exhibit-images/22-63-exhibit-addl6-tampa-deep-sea-xplorers-makerfaire-full.JPG
+  - 7:
+    small: /assets/images/exhibit-images/22-63-exhibit-addl7-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-small.jpg
+    medium: /assets/images/exhibit-images/22-63-exhibit-addl7-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-medium.jpg
+    large: /assets/images/exhibit-images/22-63-exhibit-addl7-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-large.jpg
+    full: /assets/images/exhibit-images/22-63-exhibit-addl7-tampa-deep-sea-xplorers-xprize-a5-rs46405-odxp-20190124-20190201-noaa-testing-round-2-puerto-rico-photos-6371-lpr-full.jpg
 website: "tampadeepsea.com"
 maker: 
   name: "Tampa Deep Sea Xplorers"
@@ -71,8 +76,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-13 16:31:58"
-last-modified-jotform: "2022-08-21 08:50:54"
-last-exported: "2022-08-21 10:12:07"
+last-modified-jotform: "2022-08-21 13:21:48"
+last-exported: "2022-08-21 21:35:47"
 sitemap: false
 
 ---
