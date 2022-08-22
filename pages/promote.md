@@ -37,19 +37,19 @@ Suggested and Common Maker Faire Hashtags
 #GreatestShow&(Tell)onEarth\
 #MakeSomething
 
-{%comment%}
+
 Postcards, Flyers & Social Images
 ---------------------------------
 
 ### Postcards
 
-Postcards are available at MakerFX Makerspace, FamiLAB, Skycraft, Tampa Hackerspace, Rockler Woodworking and more.  [Email us](mailto:makers@makerfaireorlando.com) if you need a large quantity of postcards for your school, office, group, or location. Postcard images are linked to high-res PDFs.
+Postcards available at MakerFX Makerspace, FamiLAB, Skycraft, Tampa Hackerspace, Rockler Woodworking and more.  [Email us](mailto:makers@makerfaireorlando.com) if you need a large quantity of postcards for your school, office, group, or location. Postcard images are linked to high-res PDFs.
 
-<a href="/assets/pdf/2021/2021-mfo-card1.pdf"><img src="/assets/images/site-branding/2021/mfo2021-postcard-side1.jpg" alt="Maker Faire Orlando postcard  - front" width="600" /></a>
+<a href="/assets/pdf/2022/MFO22-card-front-v1-7-web.pdf"><img src="/assets/pdf/2022/MFO22-card-front.jpg" alt="Maker Faire Orlando postcard  - front" width="600" /></a>
 
-<a href="/assets/pdf/2021/2021-mfo-card2.pdf"><img src="/assets/images/site-branding/2021/mfo2021-postcard-side2.jpg" alt="Maker Faire Orlando postcard  - back" width="600"/></a>
+<a href="/assets/pdf/2022/MFO22-card-back-v2.pdf"><img src="/assets/pdf/2022/MFO22-card-back-v2.jpg" alt="Maker Faire Orlando postcard - back" width="600"/></a>
 
-
+{%comment%}
 ### Flyers, Posters & More
 
 <a href="/assets/pdf/2021/2021-mfo-poster-full.pdf"><img src="/assets/images/site-branding/2021/mfo2021-poster.jpg" alt="Maker Faire Orlando poster" width="600"/></a>
@@ -62,12 +62,14 @@ Poster image is linked to high-res PDF.
 
 Looking for photos of Maker Faire Orlando? Check out the [Maker Faire Orlando Flickr group](https://www.flickr.com/groups/makerfaireorlando/ "Maker Faire Orlando on Flickr"). If you have photos of Maker Faire Orlando, please share them with us by joining the Flickr group, or [Email us](mailto:makers@makerfaireorlando.com) if you would transfer them using a different method.
 
+
+{%comment%}
+
 ---
-
-
 ### Facebook Cover Photo
 
 <a href="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png"><img src="/assets/images/site-branding/2021/MFO2021-FB-header-v2.png" alt="Maker Faire Orlando facebook cover photo" width="600"/></a>
+{%endcomment%}
 
 ---
 
