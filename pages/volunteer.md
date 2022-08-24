@@ -38,8 +38,9 @@ Check back later this summer to volunteer for Maker Faire Orlando 2022 and follo
 ### Sign up to Volunteer
 You can register for open volunteer shifts by scrolling to the list of available shifts (General Volunteer, Greeter, etc.) at the bottom of this page. If you have any challenges registering, or if your availability changes, email us at <makers@makerfaireorlando.com>.
 
-Note, we are using the Humanitix platform to register volunteers with a "ticket", but there is no cost involved. 
-
+Notes:
+* We are using the Humanitix platform to register volunteers with a "ticket", but there is no cost involved.
+* The Learn to Solder activity will be staffed by a FIRST robotics team this year and does not have any available volunteer shifts.
 
 ---
 ### Volunteer Shifts
