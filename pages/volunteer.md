@@ -22,22 +22,52 @@ Volunteering at Maker Faire Orlando is a great way to give back to your local co
 
 Volunteers who work at least a 4 hour shift will receive free admission for the day they volunteer (if you volunteer late in the day, you are welcome to enjoy the event before your volunteer shift, and if you volunteer for setup day, you can come back for a full day on either Saturday or Sunday). Volunteers also receive a Maker Faire Orlando volunteer t-shirt.
 
+{%comment%}
 Check back later this summer to volunteer for Maker Faire Orlando 2022 and follow-us on social media for announcements!
+{%endcomment%}
+
 ---
 
 ### More Details
-* Maker Faire Orlando volunteers must be 13 years of age or older.
+* Maker Faire Orlando volunteers must be 13 years of age or older. (Some roles require 16+ or 18+)
 * Community service hours are available from The Maker Effect Foundation, a 501(c)(3) public charity.
-* If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at <volunteers@themakereffect.org>
+* If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at <makers@makerfaireorlando.com>
 
 ---
-{%comment%}
+
 ### Sign up to Volunteer
-You can register for open volunteer shifts by scrolling to the list of available shifts at the bottom of this page. If you have any challenges registering, or if you availability changes, email us at <volunteers@themakereffect.org>
+You can register for open volunteer shifts by scrolling to the list of available shifts (General Volunteer, Greeter, etc.) at the bottom of this page. If you have any challenges registering, or if your availability changes, email us at <makers@makerfaireorlando.com>.
+
+Note, we are using the Humanitix platform to register volunteers with a "ticket", but there is no cost involved. 
 
 
 ---
 ### Volunteer Shifts
 
-<iframe id="advanced_iframe" name="advanced_iframe" src="https://themakereffect.secure.force.com/volunteers/GW_Volunteers__VolunteersJobListingFS?ShowSkills=1&amp;ShowDescription=1&amp;ShowShifts=1" width="100%" height="2500" scrolling="auto" frameborder="0" allowtransparency="true" style=";width:100%;height:2000px;"></iframe>
-{%endcomment%}
+<iframe id="iframe-container" src="https://events.humanitix.com/mfo-volunteer-signup/tickets?w=true&p=%23353337" width="100%" height="600px" frameborder="0"></iframe>
+<script>
+    var humanitix = {
+        findPos: function(obj) {
+            var curtop = 0;
+            if (obj.offsetParent) {
+            do {
+                curtop += obj.offsetTop;
+            } while ((obj = obj.offsetParent));
+            return [curtop];
+            }
+        }
+    };
+    window.addEventListener('message', function (e) {
+        if (e.origin !== "https://events.humanitix.com"){
+            return;
+        }   
+        var messageData = e.data;
+        var iframeEl = document.getElementById('iframe-container');
+        if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){
+            iframeEl.style.height = messageData.scrollHeight + 'px';
+        }
+        if (iframeEl && messageData && messageData.pageChange) {
+          window.scroll(0, humanitix.findPos(iframeEl));
+      }
+
+    }, false);</script>
