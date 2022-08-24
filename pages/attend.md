@@ -127,7 +127,7 @@ Please see our [Educators page](/educators) for more information.
 
 ---
 
-**Questions? Email <tickets@makerfaireorlando.com>**
+**Questions? Email <makers@makerfaireorlando.com>**
 
 ---
 {%comment%}
