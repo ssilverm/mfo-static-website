@@ -7,9 +7,9 @@ permalink: /exhibits/the-dragons-horde/
 exhibit-id: 22-71
 space-number: Unassigned
 description: "Handmade fantasy art sculptures."
-description-long: "Welcome to The Dragonâ€™s Horde! An army of handmade dragons, fantasy creatures, and accessories specially and lovingly crafted by hand by artist Cid Snook.
-
-Each figurine has been made by hand by the artist. The process starts with a sketch on paper, then it is sculpted in clay, molded in silicone and cast in resin where it is then hand painted.
+description-long: "Welcome to The Dragon’s Horde! An army of handmade dragons, fantasy creatures, and accessories specially and lovingly crafted by hand by artist Cid Snook.
+
+Each figurine has been made by hand by the artist. The process starts with a sketch on paper, then it is sculpted in clay, molded in silicone and cast in resin where it is then hand painted.
 "
 image: /assets/images/exhibit-images/22-71-exhibit-the-dragons-horde-img-20211112-195402509-large.jpg
 image-primary: 
@@ -36,8 +36,8 @@ additional-images:
 website: "Snookdragon.com"
 maker: 
   name: "Cid Snook"
-  description: "Welcome to The Dragonâ€™s Horde! An army of handmade dragons, fantasy creatures, and accessories specially and lovingly crafted by hand.
-
+  description: "Welcome to The Dragon’s Horde! An army of handmade dragons, fantasy creatures, and accessories specially and lovingly crafted by hand.
+
 The process starts by designing on paper, then sculpting in clay, making a mold with silicone, casting in resin and hand painting."
   image-primary: /assets/images/exhibit-images/22-71-maker-the-dragons-horde-dragonhordelogostarrysky-medium.jpg
   website: http://www.snookdragon.com
@@ -49,8 +49,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-15 17:26:32"
-last-modified-jotform: "2022-08-21 08:36:26"
-last-exported: "2022-08-21 08:42:48"
+last-modified-jotform: "2022-08-22 17:44:51"
+last-exported: "2022-09-02 11:33:27"
 sitemap: false
 
 ---
