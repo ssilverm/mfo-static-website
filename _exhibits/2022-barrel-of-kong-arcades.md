@@ -7,20 +7,20 @@ permalink: /exhibits/barrel-of-kong-arcades/
 exhibit-id: 22-83
 space-number: Unassigned
 description: "Vintage Arcade Games built inside of repurposed whiskey and wine barrels."
-description-long: "These are custom made Arcade Machine from repurposed Whiskey and Wine Barrels. 
-
-Great for a man cave or she shed or bonus room, etc.
-
-It is Called a \"Barrel of Kong\" and this has 60 games on it. All components are new...the only thing used is the barrel.
-
-It is 36 inches tall.
-
-It is setup for freeplay as well as the screen flips from player 1 to player 2.
-
-It has LED lights around the barrel that change color with a remote control.
-
-GAMES INCLUDE:
-1942,1943, Amidar, Arkanoid, Bomb Jack, Burger Time, Centipede, Congo Bongo, Crush Roller, Dig Dug, Dig Dug 2, Donkey Kong, Donkey Kong 3, Donkey Kong Junior, Frogger, Galaga, Galaga (Rapid Fire Mode), Galaga 3, Galaxian, Gun Smoke, Gyruss, Hustler, Jumping Jack, Juno First, King & Ballon, Ladybug, Mappy, Millipede, Moon Cresta, Do, Do’s Castle,,Ms PacMan, Ms Pac-Man (Fast Mode), New Rally X, Pacman, Pacman (Fast Mode), Pacman Jr., Pac-Man Jr. (Fast Mode), Pac-Man Plus, Pac-Man Plus (Fast Mode), Pengo, Phoenix, Pinball Action, Pleiads, Pooyan, Qix, Scramble, Shao-Lin’s Road, Space Invaders, Space Panic, Super Breakout, Super Cobra, Super Pacman, Tank Battalion, The End, Time Pilot, Van-Van Car, Xevious and Zaxxon
+description-long: "These are custom made Arcade Machine from repurposed Whiskey and Wine Barrels. 
+
+Great for a man cave or she shed or bonus room, etc.
+
+It is Called a \"Barrel of Kong\" and this has 60 games on it. All components are new...the only thing used is the barrel.
+
+It is 36 inches tall.
+
+It is setup for freeplay as well as the screen flips from player 1 to player 2.
+
+It has LED lights around the barrel that change color with a remote control.
+
+GAMES INCLUDE:
+1942,1943, Amidar, Arkanoid, Bomb Jack, Burger Time, Centipede, Congo Bongo, Crush Roller, Dig Dug, Dig Dug 2, Donkey Kong, Donkey Kong 3, Donkey Kong Junior, Frogger, Galaga, Galaga (Rapid Fire Mode), Galaga 3, Galaxian, Gun Smoke, Gyruss, Hustler, Jumping Jack, Juno First, King & Ballon, Ladybug, Mappy, Millipede, Moon Cresta, Do, Doâ€™s Castle,,Ms PacMan, Ms Pac-Man (Fast Mode), New Rally X, Pacman, Pacman (Fast Mode), Pacman Jr., Pac-Man Jr. (Fast Mode), Pac-Man Plus, Pac-Man Plus (Fast Mode), Pengo, Phoenix, Pinball Action, Pleiads, Pooyan, Qix, Scramble, Shao-Linâ€™s Road, Space Invaders, Space Panic, Super Breakout, Super Cobra, Super Pacman, Tank Battalion, The End, Time Pilot, Van-Van Car, Xevious and Zaxxon
 "
 image: /assets/images/exhibit-images/22-83-exhibit-barrel-of-kong-arcades-image000004-large.jpg
 image-primary: 
@@ -42,8 +42,8 @@ additional-images:
 website: "http://www.barrelofkong.com"
 maker: 
   name: "Barrel of Kong Arcades"
-  description: "Barrel of Kong Arcades was started with the goal of bringing fan favorite arcade machines into both home and business settings. 
-
+  description: "Barrel of Kong Arcades was started with the goal of bringing fan favorite arcade machines into both home and business settings. 
+
 I make arcade machines from repurposed whiskey and wine barrels.  The arcades come with 60 classic games like Galaga, Donkey Kong, Burger Time, Pac Man, Frogger, etc."
   image-primary: /assets/images/exhibit-images/22-83-maker-barrel-of-kong-arcades-logo-bok-medium.png
   website: http://www.barrelofkong.com
@@ -53,8 +53,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2022-08-20 17:51:56"
-last-modified-jotform: "2022-08-22 17:46:02"
-last-exported: "2022-09-02 11:33:27"
+last-modified-jotform: "2022-08-21 08:30:32"
+last-exported: "2022-08-21 08:42:00"
 sitemap: false
 
 ---
