@@ -1,3 +1,4 @@
+
 #make sure you install the jotform-api-python from github not just with pip vanilla
 #the vanilla pip install doesnt support python3
 #pip install git+git://github.com/jotform/jotform-api-python.git
@@ -52,16 +53,15 @@ outputAll = False #this is now set with a command line param, don't change it he
 def getYouTubeEmbed (url):
   reqURL = "https://www.youtube.com/oembed?url=" + url + "&format=json&maxwidth=1024&maxheight=1024"
   response = requests.get(reqURL)
-  print (response.text)
+  print ("Printing YouTube Response: ", response.text)
   if (response.text=="Not Found"):
     return None
   rjson = response.json()
-  #print (rjson["html"])
-  return rjson["html"]
+  return (rjson["html"].replace("'", ""))
 
 #output csv file from list
 def writeCSVFile (fn, data):
-  with open(fn, mode='w') as csvFile:
+  with open(fn, mode='w', encoding="utf-8") as csvFile:
     csvWriter = csv.writer(csvFile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL)
 
     for row in data:
@@ -77,7 +77,7 @@ def getAnswer (sub, id):
   #sanitize any quotes in the answer
   #but don't do it if variable is List or None
   if isinstance(answer, str):
-    answer = answer.replace('"', '\\"')
+    answer = answer.replace('"', '')
 
   return answer
 
@@ -87,8 +87,7 @@ def getAnswerByName (aDict, id):
     #sanitize any quotes in the answer
     #but don't do it if variable is List or None
     if isinstance(answer, str):
-      answer = answer.replace('"', '\\"')
-
+      answer = answer.replace('"', '')
     return answer
   except :
     print ("Error: getAnswerByName - " + id)
@@ -287,10 +286,7 @@ def export(outputAll):
           print(mfoID + " " + exhibitName + ": " + str(viz))
 
           descShort       = getAnswerByName(ans,"exhibitShort")
-          #descShort = descShort.replace('"', '\\"')
-
           descLong        = getAnswerByName(ans,"exhibitLong")
-          #descLong = descLong.replace('"', '\\"')
 
           if isRuckus:
             spaceNumber = ""
@@ -349,7 +345,7 @@ def export(outputAll):
           export = True
 
           if path.exists(fName):
-            with open(fName) as yFile:
+            with open(fName, encoding="utf-8") as yFile:
               yData = yaml.load_all(yFile, Loader = yaml.FullLoader)
               #print (yData)
               #parse(yData)
@@ -630,8 +626,8 @@ def main():
         export(outputAll)
 
     except getopt.error as err:
-    	# output error, and return with an error code
-    	print (str(err))
+        # output error, and return with an error code
+        print (str(err))
 
 
 if __name__ == "__main__":
