@@ -28,14 +28,16 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 
 &nbsp;
 
+{%comment%}
 #### Our Call For Makers deadline is August 31st.
 
 &nbsp;
-
-{%comment%}
-Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
 {%endcomment%}
 
+
+Our application deadline has passed, and we've begun our approval and space planning process. **You are welcome to continue to submit applications and they will be reviewed as we have space available.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
+
+&nbsp;
 
 #### What You Will Need to Apply
 
