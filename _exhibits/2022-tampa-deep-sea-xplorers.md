@@ -13,9 +13,9 @@ Our flagship product is named the Barracuda, which is a small man-portable auton
 
 Our research and design has provided us with some innovative products such as a mobile underwater LiDAR system that is compact enough to be carried by our Barracuda AUV.
 
-The National Oceanic & Atmospheric Administration’s (NOAA) participation in the Nippon Foundation-GEBCO Seabed 2030 Project desires to synthesize bathymetry data to map all of the world’s ocean floors by the year 2030. TDSX is excited to participate in developing the technologies to accomplish the goals of the Seabed 2030 Initiative. If this challenge is to be realized within the designated time frame, thousands of Autonomous Underwater Vehicles will be required, that are capable of collecting data at a rate that is an order of magnitude greater than what is currently on the market. TDSX’s motto of “Deeper, Faster, and Cheaper” recognizes that new technologies will be required that far exceed the capabilities of existing systems.
+The National Oceanic & Atmospheric Administration’s (NOAA) participation in the Nippon Foundation-GEBCO Seabed 2030 Project desires to synthesize bathymetry data to map all of the world’s ocean floors by the year 2030. TDSX is excited to participate in developing the technologies to accomplish the goals of the Seabed 2030 Initiative. If this challenge is to be realized within the designated time frame, thousands of Autonomous Underwater Vehicles will be required, that are capable of collecting data at a rate that is an order of magnitude greater than what is currently on the market. TDSX’s motto of 'Deeper, Faster, and Cheaper' recognizes that new technologies will be required that far exceed the capabilities of existing systems.
 
-Our current engineering development has progressed to the point that we will be field testing our latest Barracuda design. TDSX is currently in the process of contacting potential partners who would benefit from our technology. TDSX is currently partnered with NOAA. We are seeking partners engaged in deep water exploration operations who will permit TDSX to operate our AUV in parallel with their current technology or to supplement their data collection processes. We intend to test the maximum data collection capability of a single Barracuda AUV which we project to be around 1 – 2 km² per day of operation. We also intend to test the swarm capabilities of the Barracuda and the sub-sea LiDAR system. Compared to existing commercially available systems our Barracuda system should prove to be capable of collecting several times more data per day of operation than what is currently available for small low powered AUVs."
+Our current engineering development has progressed to the point that we will be field testing our latest Barracuda design. TDSX is currently in the process of contacting potential partners who would benefit from our technology. TDSX is currently partnered with NOAA. We are seeking partners engaged in deep water exploration operations who will permit TDSX to operate our AUV in parallel with their current technology or to supplement their data collection processes. We intend to test the maximum data collection capability of a single Barracuda AUV which we project to be around 1 – 2 km^2 per day of operation. We also intend to test the swarm capabilities of the Barracuda and the sub-sea LiDAR system. Compared to existing commercially available systems our Barracuda system should prove to be capable of collecting several times more data per day of operation than what is currently available for small low powered AUVs."
 image: /assets/images/exhibit-images/22-63-exhibit-tampa-deep-sea-xplorers-43-baracuda-banner-1600x1200-v3-6002-large.jpg
 image-primary: 
   small: /assets/images/exhibit-images/22-63-exhibit-tampa-deep-sea-xplorers-43-baracuda-banner-1600x1200-v3-6002-small.jpg
@@ -76,8 +76,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-13 16:31:58"
-last-modified-jotform: "2022-08-21 13:21:48"
-last-exported: "2022-08-21 21:35:47"
+last-modified-jotform: "2022-09-03 13:27:23"
+last-exported: "2022-09-09 20:02:03"
 sitemap: false
 
 ---

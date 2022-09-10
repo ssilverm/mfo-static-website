@@ -11,7 +11,7 @@ description-long: "These are custom made Arcade Machine from repurposed Whiskey 
 
 Great for a man cave or she shed or bonus room, etc.
 
-It is Called a \"Barrel of Kong\" and this has 60 games on it. All components are new...the only thing used is the barrel.
+It is Called a Barrel of Kong and this has 60 games on it. All components are new...the only thing used is the barrel.
 
 It is 36 inches tall.
 
@@ -53,8 +53,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2022-08-20 17:51:56"
-last-modified-jotform: "2022-08-21 08:30:32"
-last-exported: "2022-08-21 08:42:00"
+last-modified-jotform: "2022-08-22 17:46:02"
+last-exported: "2022-09-09 20:02:02"
 sitemap: false
 
 ---

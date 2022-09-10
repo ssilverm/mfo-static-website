@@ -6,7 +6,7 @@ slug: 3-dimensional-can-crusher
 permalink: /exhibits/3-dimensional-can-crusher/
 exhibit-id: 22-42
 space-number: Unassigned
-description: "A machine that crushes soda cans into a 1 1/4\" cube!"
+description: "A machine that crushes soda cans into a 1 1/4 cube!"
 description-long: "Come check out the MakerFX Makerspace booth and crush your own souvenir can."
 image: /assets/images/exhibit-images/22-42-exhibit-3-dimensional-can-crusher-21-95-exhibit-3-dimensional-can-crusher-img-20210806-085939058-hdr-large-large.jpg
 image-primary: 
@@ -44,7 +44,7 @@ categories:
     name: Handmade
 created-jotform: "2022-08-05 11:11:23"
 last-modified-jotform: "2022-08-13 13:39:59"
-last-exported: "2022-08-14 13:20:20"
+last-exported: "2022-09-09 20:02:04"
 sitemap: false
 
 ---
