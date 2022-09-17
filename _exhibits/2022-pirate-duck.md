@@ -26,9 +26,9 @@ maker:
   description: "Pirate Duck creates pop culture designs for shirts and other garments. Our designs range from comics, sci-fi, and superheroes. We have also created a process for individuals to create their own custom garments on demand from our library of images. "
   image-primary: /assets/images/exhibit-images/22-102-maker-pirate-duck-6b358ae8-3aa3-4fcd-8afd-2f4462737ff7-medium.jpeg
   website: http://pirate-duck.com
-  twitter: https://www.twitter.com/pirateducktees 
-  instagram: https://www.instagram.com/pirateducktees 
-  facebook: https://www.facebook.com/pirateducktees
+  twitter: https://www.twitter.com/PirateDuckTees 
+  instagram: https://www.instagram.com/Www.Instagram.com/PirateDuckTees 
+  facebook: https://www.facebook.com/Www.Facebook.com/PirateDuckTees
 categories: 
   - slug: art
     name: Art
@@ -42,7 +42,7 @@ categories:
     name: SteamPunk
 created-jotform: "2022-08-28 15:54:49"
 last-modified-jotform: "2022-09-10 12:53:39"
-last-exported: "2022-09-10 13:09:32"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

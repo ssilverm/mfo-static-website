@@ -68,7 +68,7 @@ maker:
 While my main passion is original work with my own stories, I enjoy drawing some fan art as well! "
   image-primary: /assets/images/exhibit-images/22-20-maker-galactic-problems-new-icon-medium.png
   website: https://tapas.io/series/galactic-problems
-  twitter: https://www.twitter.com/galacticproblem
+  twitter: https://www.twitter.com/GalacticProblem
   instagram: https://www.instagram.com/galactic_problems_/
 categories: 
   - slug: art
@@ -79,7 +79,7 @@ categories:
     name: Illustration
 created-jotform: "2022-07-24 21:44:30"
 last-modified-jotform: "2022-08-22 17:38:04"
-last-exported: "2022-09-09 20:02:04"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

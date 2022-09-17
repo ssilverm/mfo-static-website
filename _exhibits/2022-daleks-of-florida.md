@@ -30,7 +30,7 @@ maker:
   description: "Group of Dr Who fans who build Daleks for fun. We use multiple types of building materials and processes for the builds.  We love to talk to to people about our builds and hope to get more fans to build one."
   image-primary: /assets/images/exhibit-images/22-23-maker-daleks-of-florida-dalek-builders-v3-01-medium.jpg
   instagram: https://www.instagram.com/daleks.of.florida
-  facebook: https://www.facebook.com/fldaleks
+  facebook: https://www.facebook.com/FLDaleks
 categories: 
   - slug: cosplay
     name: Cosplay
@@ -44,7 +44,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-07-25 20:22:53"
 last-modified-jotform: "2022-09-12 07:17:05"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

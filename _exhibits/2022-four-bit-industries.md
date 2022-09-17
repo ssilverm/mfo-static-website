@@ -37,7 +37,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-22-maker-four-bit-industries-logobwhires-medium.png
   website: https://fourbitindustries.com
   twitter: https://www.twitter.com/fourbitind
-  youtube: https://www.youtube.com/channel/uceekkryv-3_mpfjom2uh1mq/featured
+  youtube: https://www.youtube.com/channel/UCeEkKryv-3_mpfjOm2uH1MQ/featured
 categories: 
   - slug: education
     name: Education
@@ -47,7 +47,7 @@ categories:
     name: Kits
 created-jotform: "2022-07-24 22:18:00"
 last-modified-jotform: "2022-08-22 17:38:27"
-last-exported: "2022-09-09 20:02:04"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

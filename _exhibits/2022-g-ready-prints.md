@@ -74,10 +74,10 @@ maker:
 "
   image-primary: /assets/images/exhibit-images/22-17-maker-g-ready-prints-profile-pic-medium.PNG
   website: https://www.greadyprints.com/
-  twitter: https://www.twitter.com/g_ready978
+  twitter: https://www.twitter.com/G_Ready978
   instagram: https://www.instagram.com/g_ready_prints/
   facebook: https://www.facebook.com/in/gilberto-velez-2a733b1a8/
-  youtube: https://www.youtube.com/c/greadyprints/about
+  youtube: https://www.youtube.com/c/GReadyPrints/about
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -87,7 +87,7 @@ categories:
     name: Props
 created-jotform: "2022-07-24 20:45:33"
 last-modified-jotform: "2022-09-12 07:17:55"
-last-exported: "2022-09-12 10:52:48"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

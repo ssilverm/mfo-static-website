@@ -22,10 +22,10 @@ maker:
   description: "Pawlowski Pinball is a new pinball manufacturing company out of Longwood, FL. We are bringing our first full run pinball game to market in 2022 as well as opening our own custom shop."
   image-primary: /assets/images/exhibit-images/22-21-maker-pawlowski-pinball-supa-logo-medium.png
   website: https://www.pawlowskipinball.com
-  twitter: https://www.twitter.com/pawlowskipin
+  twitter: https://www.twitter.com/PawlowskiPin
   instagram: https://www.instagram.com/pawlowskipinball/
-  facebook: https://www.facebook.com/pawlowskipinball
-  youtube: https://www.youtube.com/channel/uccn9ihjsibipujx2pv1_rtg
+  facebook: https://www.facebook.com/PawlowskiPinball
+  youtube: https://www.youtube.com/channel/UCcn9iHJSIbiPuJX2pV1_rtg
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -39,7 +39,7 @@ categories:
     name: Manufacturing
 created-jotform: "2022-07-24 22:16:04"
 last-modified-jotform: "2022-08-22 17:38:22"
-last-exported: "2022-09-09 20:02:04"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

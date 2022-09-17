@@ -18,7 +18,7 @@ maker:
   name: "Matthew Sutton "
   description: "I am a professional illustrator and comic book artist! I draw traditionally using pencil, ink, brush, marker and watercolor. I sell originals and prints of my work as well. "
   image-primary: /assets/images/exhibit-images/22-60-maker-matthew-sutton-art-img-20211210-103822-465-medium.jpg
-  instagram: https://www.instagram.com/sketchbooks
+  instagram: https://www.instagram.com/Sketchbooks
 categories: 
   - slug: art
     name: Art
@@ -28,7 +28,7 @@ categories:
     name: Illustration
 created-jotform: "2022-08-13 14:55:33"
 last-modified-jotform: "2022-08-22 17:41:13"
-last-exported: "2022-09-09 20:02:03"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

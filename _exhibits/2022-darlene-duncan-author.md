@@ -30,13 +30,13 @@ maker:
   description: "I am a published author of several books in various genres. I not only write the books, I design the covers and I&#039;m in the process of reading my books for Audible."
   image-primary: /assets/images/exhibit-images/22-34-maker-darlene-duncan-author-img-0779-cropped-revised-medium.jpg
   website: https://darleneduncan.com
-  facebook: https://www.facebook.com///dardunauthor
+  facebook: https://www.facebook.com///DarDunAuthor
 categories: 
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2022-08-01 15:58:33"
 last-modified-jotform: "2022-08-13 14:32:58"
-last-exported: "2022-09-09 20:02:04"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

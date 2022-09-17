@@ -21,13 +21,13 @@ maker:
   image-primary: /assets/images/exhibit-images/22-105-maker-teas-treasure-inbound3736828611882601862-medium.jpg
   website: https://www.teastreasure.com
   instagram: https://www.instagram.com/teas.treasure
-  facebook: https://www.facebook.com/teastreasure 
+  facebook: https://www.facebook.com/TeasTreasure 
 categories: 
   - slug: jewelry
     name: Jewelry
 created-jotform: "2022-08-29 11:24:54"
 last-modified-jotform: "2022-09-12 20:11:15"
-last-exported: "2022-09-14 07:05:21"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

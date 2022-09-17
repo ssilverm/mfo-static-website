@@ -23,9 +23,9 @@ Since its inception in 2016, the Orlando Urban Sketchers Chapter, a member of th
 We document Orlando&#039;s and Central Florida community life via Sketch-Reportage art form and share our stories with the world, One Drawing at a Time."
   image-primary: /assets/images/exhibit-images/22-88-maker-urban-sketchers-orlando-276307359-10223040695980648-7963149689352397086-n-medium.jpg
   website: https://uskorlando.blogspot.com/2022/
-  twitter: https://www.twitter.com/uskorlando
+  twitter: https://www.twitter.com/USKorlando
   instagram: https://www.instagram.com/urbansketchersorlando
-  facebook: https://www.facebook.com/groups/uskorlando
+  facebook: https://www.facebook.com/groups/USkOrlando
 categories: 
   - slug: art
     name: Art
@@ -35,7 +35,7 @@ categories:
     name: Writing and Publishing
 created-jotform: "2022-08-23 20:48:41"
 last-modified-jotform: "2022-09-12 07:17:07"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

@@ -77,8 +77,8 @@ Orlando Math Circle was founded in the tradition of Eastern European math circle
   website: https://www.orlandomathcircle.org/
   twitter: https://www.twitter.com/orlandomathcir
   instagram: https://www.instagram.com/orlandomathcircle/
-  facebook: https://www.facebook.com/orlandomathcircle
-  youtube: https://www.youtube.com/orlandomathcircle
+  facebook: https://www.facebook.com/OrlandoMathCircle
+  youtube: https://www.youtube.com/OrlandoMathCircle
 categories: 
   - slug: art
     name: Art
@@ -92,7 +92,7 @@ categories:
     name: Handmade
 created-jotform: "2022-08-18 10:07:14"
 last-modified-jotform: "2022-08-21 08:32:05"
-last-exported: "2022-09-09 20:02:02"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

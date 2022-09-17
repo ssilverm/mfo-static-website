@@ -36,7 +36,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-31-maker-tinkering-turtle-crafts-tinkering-turtle-crafts-medium.jpg
   website: https://www.facebook.com/tinkeringturtlecrafts
   instagram: https://www.instagram.com/tinkeringturtlecrafts
-  facebook: https://www.facebook.com/tinkeringturtlecrafts
+  facebook: https://www.facebook.com/TinkeringTurtleCrafts
 categories: 
   - slug: art
     name: Art
@@ -46,7 +46,7 @@ categories:
     name: Handmade
 created-jotform: "2022-07-31 15:03:24"
 last-modified-jotform: "2022-09-11 12:01:36"
-last-exported: "2022-09-11 12:02:19"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

@@ -28,7 +28,7 @@ maker:
   website: https://tkylegentry.com/
   instagram: https://www.instagram.com/tkgentryart/
   facebook: https://www.facebook.com/tkgentryart/
-  youtube: https://www.youtube.com/channel/ucgwb89vlnyrthzyxtcgtavw/featured
+  youtube: https://www.youtube.com/channel/UCgwB89VLnYrTHzYXtcgTAVw/featured
 categories: 
   - slug: art
     name: Art
@@ -38,7 +38,7 @@ categories:
     name: Illustration
 created-jotform: "2022-07-24 14:04:21"
 last-modified-jotform: "2022-08-22 17:37:40"
-last-exported: "2022-09-09 20:02:07"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

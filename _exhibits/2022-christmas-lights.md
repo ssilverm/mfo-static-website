@@ -19,7 +19,7 @@ maker:
   description: "Ever wonder how people make their houses Christmas lights dance to music? This is how!"
   image-primary: /assets/images/exhibit-images/22-130-maker-christmas-lights-261335926-128204649642040-5868732420577011714-n-medium.jpg
   website: https://www.facebook.com/eaglepointelights
-  facebook: https://www.facebook.com/eaglepointelights
+  facebook: https://www.facebook.com/EaglePointeLights
   youtube: https://www.youtube.com/drswando
 categories: 
   - slug: electronics
@@ -28,7 +28,7 @@ categories:
     name: Special Effects
 created-jotform: "2022-09-04 08:42:42"
 last-modified-jotform: "2022-09-12 07:17:11"
-last-exported: "2022-09-12 10:52:42"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

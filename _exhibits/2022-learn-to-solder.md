@@ -41,7 +41,7 @@ maker:
   twitter: https://www.twitter.com/orlmakerfaire
   instagram: https://www.instagram.com/makerfaireorlando/?hl=en
   facebook: https://www.facebook.com/makerfaireorlando/
-  youtube: https://www.youtube.com/c/makerfaireorlando
+  youtube: https://www.youtube.com/c/Makerfaireorlando
 categories: 
   - slug: electronics
     name: Electronics
@@ -49,7 +49,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2022-08-03 13:54:19"
 last-modified-jotform: "2022-09-11 14:29:01"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

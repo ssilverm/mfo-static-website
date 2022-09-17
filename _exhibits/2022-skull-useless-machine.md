@@ -23,7 +23,7 @@ maker:
   twitter: https://www.twitter.com/makerfx
   instagram: https://www.instagram.com/makerfxspace/
   facebook: https://www.facebook.com/makerfxspace
-  youtube: https://www.youtube.com/c/makerfx-channel/videos
+  youtube: https://www.youtube.com/c/MakerFX-Channel/videos
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -37,7 +37,7 @@ categories:
     name: Handmade
 created-jotform: "2022-08-05 11:18:38"
 last-modified-jotform: "2022-09-12 07:18:43"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

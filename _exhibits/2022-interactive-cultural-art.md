@@ -56,7 +56,7 @@ maker:
   description: "I&#039;m a creative technologist with a love of practical and digital interactive experiences. By day, I work as a software engineer at Universal Creative bringing immersive interactive experiences to life. By night, I channel my skills to create socially and/or culturally inspired interactive entertainment. "
   image-primary: /assets/images/exhibit-images/22-128-maker-interactive-cultural-art-am-primarycolor-8-medium.png
   instagram: https://www.instagram.com/playnation94/
-  youtube: https://www.youtube.com/channel/ucg5lllfciwuec70rj4hafnw
+  youtube: https://www.youtube.com/channel/UCG5LLLFCiwueC70rJ4HAFNw
 categories: 
   - slug: art
     name: Art
@@ -70,7 +70,7 @@ categories:
     name: Software
 created-jotform: "2022-09-02 01:31:21"
 last-modified-jotform: "2022-09-11 14:28:23"
-last-exported: "2022-09-12 10:52:42"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

@@ -36,8 +36,8 @@ maker:
   name: "Green Ellipsis"
   description: "Green Ellipsis reduces waste through technological innovation."
   image-primary: /assets/images/exhibit-images/22-108-maker-autotruder-upcycling-beverage-bottles-greenellipsisforward640trans-medium.png
-  facebook: https://www.facebook.com/greenellipsis
-  youtube: https://www.youtube.com/channel/ucdjgfwgxhcmgk5gvkxjvtea
+  facebook: https://www.facebook.com/GreenEllipsis
+  youtube: https://www.youtube.com/channel/UCDjgFWgxhcmGK5GvkxJVteA
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -51,7 +51,7 @@ categories:
     name: Upcycling
 created-jotform: "2022-08-29 23:21:15"
 last-modified-jotform: "2022-09-12 07:16:57"
-last-exported: "2022-09-12 10:52:43"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

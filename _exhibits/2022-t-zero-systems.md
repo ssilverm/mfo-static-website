@@ -66,7 +66,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-99-maker-t-zero-systems-z8p2kikq-400x400-medium.jpg
   twitter: https://www.twitter.com/systems_zero
   instagram: https://www.instagram.com/makofpv
-  youtube: https://www.youtube.com/c/tzerosystems
+  youtube: https://www.youtube.com/c/TZeroSystems
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -80,7 +80,7 @@ categories:
     name: Space
 created-jotform: "2022-08-27 22:40:58"
 last-modified-jotform: "2022-09-10 10:24:44"
-last-exported: "2022-09-10 10:25:37"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

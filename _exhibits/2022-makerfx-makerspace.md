@@ -60,7 +60,7 @@ MakerFX Makerspace, a local makerspace here in Orlando. The group that produces 
   twitter: https://www.twitter.com/makerfx
   instagram: https://www.instagram.com/makerfxspace/
   facebook: https://www.facebook.com/makerfxspace
-  youtube: https://www.youtube.com/c/makerfx-channel/videos
+  youtube: https://www.youtube.com/c/MakerFX-Channel/videos
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -74,7 +74,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-08-09 13:10:59"
 last-modified-jotform: "2022-09-12 07:18:00"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

@@ -45,7 +45,7 @@ maker:
   twitter: https://www.twitter.com/orlmakerfaire
   instagram: https://www.instagram.com/makerfaireorlando/?hl=en
   facebook: https://www.facebook.com/makerfaireorlando/
-  youtube: https://www.youtube.com/c/makerfaireorlando
+  youtube: https://www.youtube.com/c/Makerfaireorlando
 categories: 
   - slug: drones
     name: Drones
@@ -59,7 +59,7 @@ categories:
     name: Virtual Reality
 created-jotform: "2022-08-08 10:48:16"
 last-modified-jotform: "2022-09-12 19:35:18"
-last-exported: "2022-09-12 20:00:12"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

@@ -35,7 +35,7 @@ maker:
   twitter: https://www.twitter.com/makerfx
   instagram: https://www.instagram.com/makerfxspace/
   facebook: https://www.facebook.com/makerfxspace
-  youtube: https://www.youtube.com/c/makerfx-channel/videos
+  youtube: https://www.youtube.com/c/MakerFX-Channel/videos
 categories: 
   - slug: arduino
     name: Arduino
@@ -49,7 +49,7 @@ categories:
     name: Metalworking
 created-jotform: "2022-08-05 13:56:47"
 last-modified-jotform: "2022-09-12 07:18:46"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

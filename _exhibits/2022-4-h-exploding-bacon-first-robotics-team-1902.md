@@ -40,10 +40,10 @@ maker:
   description: "Exploding Bacon Robotics Team 1902, is a Central Florida 4-H club for High School aged students that builds 125 lb robots to compete in the FIRST Robotics Competition. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
   image-primary: /assets/images/exhibit-images/22-126-maker-4-h-exploding-bacon-first-robotics-team-1902-1902-exploding-bacon-logo-medium.jpg
   website: https://explodingbacon.com/
-  twitter: https://www.twitter.com/frcbacon1902
+  twitter: https://www.twitter.com/FRCBacon1902
   instagram: https://www.instagram.com/frcbacon1902/?hl=en
-  facebook: https://www.facebook.com/frcbacon1902/
-  youtube: https://www.youtube.com/user/explodingbacon1902
+  facebook: https://www.facebook.com/FRCBacon1902/
+  youtube: https://www.youtube.com/user/ExplodingBacon1902
 categories: 
   - slug: craft
     name: Craft
@@ -57,7 +57,7 @@ categories:
     name: Robotics
 created-jotform: "2022-08-31 22:36:05"
 last-modified-jotform: "2022-09-11 14:28:43"
-last-exported: "2022-09-12 10:52:42"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

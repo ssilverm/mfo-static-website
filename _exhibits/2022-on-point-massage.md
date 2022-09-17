@@ -27,13 +27,13 @@ maker:
   image-primary: /assets/images/exhibit-images/22-129-maker-on-point-massage-11960139-765311596913559-1128015743949356004-n-medium.jpg
   website: https://www.onpointmassagefl.com/
   instagram: https://www.instagram.com/on_point_massage/
-  facebook: https://www.facebook.com/onpointmassagefl
+  facebook: https://www.facebook.com/OnPointMassagefl
 categories: 
   - slug: education
     name: Education
 created-jotform: "2022-09-02 14:44:51"
 last-modified-jotform: "2022-09-10 09:47:18"
-last-exported: "2022-09-10 10:12:02"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

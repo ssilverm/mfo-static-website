@@ -28,7 +28,7 @@ Central Florida Woodturners meet monthly and host a variety of special events th
   image-primary: /assets/images/exhibit-images/22-52-maker-woodturning-is-fun-cfwt-logo-medium.jpg
   website: https://centralfloridawoodturners.org/
   facebook: https://www.facebook.com/groups/115448048547826
-  youtube: https://www.youtube.com/channel/ucgfg_lejb6mytg9ecnlhduq
+  youtube: https://www.youtube.com/channel/UCgfG_LEjB6MYtg9eCNlHdUQ
 categories: 
   - slug: art
     name: Art
@@ -42,7 +42,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-08-10 19:54:56"
 last-modified-jotform: "2022-09-12 07:16:59"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

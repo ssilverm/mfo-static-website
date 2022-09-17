@@ -26,7 +26,7 @@ maker:
   description: "Be sure to come out and see where realistic fantasy and comic art collide as artists Graven & Monica RavenWolf show you their imagination. Watch the creation take fold in real-time as one specializes in creating on matte board with color pencils and acrylics while the other shows you how digital art and traditional can work together! This is an exhibit you won&#039;t want to miss."
   image-primary: /assets/images/exhibit-images/22-66-maker-art-of-ravenwolf-graven-monica-ravenwolf-medium.jpg
   website: https://www.artofravenwolf.com
-  twitter: https://www.twitter.com/artofravenwolf
+  twitter: https://www.twitter.com/ArtofRavenwolf
   instagram: https://www.instagram.com/artofravenwolf/
   facebook: https://www.facebook.com/artofravenwolf/
 categories: 
@@ -38,7 +38,7 @@ categories:
     name: Illustration
 created-jotform: "2022-08-13 20:09:14"
 last-modified-jotform: "2022-08-22 17:43:24"
-last-exported: "2022-09-09 20:02:03"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

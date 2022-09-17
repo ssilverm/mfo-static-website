@@ -42,7 +42,7 @@ maker:
   website: https://robotics.ucf.edu/
   twitter: https://www.twitter.com/roboticsclubcfl?lang=en
   instagram: https://www.instagram.com/ucf_robotics/
-  youtube: https://www.youtube.com/channel/uczepdnufzkcic7miii-ypkg/featured
+  youtube: https://www.youtube.com/channel/UCZEPdNUFzkciC7MIiI-yPKg/featured
 categories: 
   - slug: arduino
     name: Arduino
@@ -56,7 +56,7 @@ categories:
     name: Software
 created-jotform: "2022-08-31 21:12:15"
 last-modified-jotform: "2022-09-10 10:33:55"
-last-exported: "2022-09-10 12:08:05"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

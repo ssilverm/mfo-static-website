@@ -28,7 +28,7 @@ maker:
   description: "Animated 3d printed dragons and gators. Combining microprocessors, 3d printed parts, and crafted bodies to animate robotic creatures. These robotic creatures have been also used to make animated cakes."
   image-primary: /assets/images/exhibit-images/22-61-maker-animate-it-animate-it-8112815-std-medium.jpg
   website: http://gerisues.org/animate_it_by_gerisues
-  youtube: https://www.youtube.com/channel/ucopdmb44pyp6pzdc-f9uc8g
+  youtube: https://www.youtube.com/channel/UCoPDmB44pyp6pzDc-F9Uc8g
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -42,7 +42,7 @@ categories:
     name: Robotics
 created-jotform: "2022-08-13 15:06:02"
 last-modified-jotform: "2022-08-21 08:50:24"
-last-exported: "2022-09-09 20:02:03"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

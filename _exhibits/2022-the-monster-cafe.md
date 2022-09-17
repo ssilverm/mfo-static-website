@@ -52,7 +52,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-112-maker-the-monster-cafe-e840cd65-1314-4c83-84f7-0db836ceaac1-medium.jpeg
   website: http://www.themonstercafe.Etsy.com
   instagram: https://www.instagram.com/themonstercafe
-  facebook: https://www.facebook.com/mytinymonsters
+  facebook: https://www.facebook.com/MyTinyMonsters
 categories: 
   - slug: art
     name: Art
@@ -66,7 +66,7 @@ categories:
     name: Sewing
 created-jotform: "2022-08-31 00:04:51"
 last-modified-jotform: "2022-09-10 12:43:06"
-last-exported: "2022-09-10 12:48:29"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

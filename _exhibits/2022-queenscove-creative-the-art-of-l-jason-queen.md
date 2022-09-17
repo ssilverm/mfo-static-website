@@ -27,7 +27,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-8-maker-queenscove-creative-the-art-of-l-jason-queen-1658676146572-medium.jpg
   website: http://www.queenscovecreative.com
   instagram: https://www.instagram.com/ljasonqueen
-  facebook: https://www.facebook.com/ljasonqueen
+  facebook: https://www.facebook.com/LJasonQueen
 categories: 
   - slug: art
     name: Art
@@ -41,7 +41,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-07-24 11:45:35"
 last-modified-jotform: "2022-08-22 17:37:06"
-last-exported: "2022-09-09 20:02:07"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

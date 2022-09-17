@@ -39,7 +39,7 @@ maker:
   twitter: https://www.twitter.com/orlmakerfaire
   instagram: https://www.instagram.com/makerfaireorlando/?hl=en
   facebook: https://www.facebook.com/makerfaireorlando/
-  youtube: https://www.youtube.com/c/makerfaireorlando
+  youtube: https://www.youtube.com/c/Makerfaireorlando
 categories: 
   - slug: art
     name: Art
@@ -51,7 +51,7 @@ categories:
     name: Vehicles
 created-jotform: "2022-08-03 14:07:20"
 last-modified-jotform: "2022-09-12 07:18:39"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

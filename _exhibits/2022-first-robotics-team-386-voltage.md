@@ -38,8 +38,8 @@ maker:
   image-primary: /assets/images/exhibit-images/22-68-maker-first-robotics-team-386-voltage-2022-team-voltage-official-logo-do-not-change-under-penalty-of-death-medium.png
   website: http://www.teamvoltage.org/
   instagram: https://www.instagram.com/teamvoltage386/
-  facebook: https://www.facebook.com/teamvoltage386
-  youtube: https://www.youtube.com/channel/ucwyperd6nzj6wr-bpskh-yg/featured
+  facebook: https://www.facebook.com/TeamVoltage386
+  youtube: https://www.youtube.com/channel/UCWYPeRD6nzJ6wr-bpSkh-Yg/featured
 categories: 
   - slug: education
     name: Education
@@ -51,7 +51,7 @@ categories:
     name: Robotics
 created-jotform: "2022-08-14 11:51:48"
 last-modified-jotform: "2022-08-14 14:10:59"
-last-exported: "2022-09-09 20:02:03"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

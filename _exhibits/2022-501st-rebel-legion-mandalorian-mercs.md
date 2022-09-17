@@ -28,7 +28,7 @@ maker:
   website: http://www.fl501st.com
   twitter: https://www.twitter.com/makazesquad
   instagram: https://www.instagram.com/makazesquad
-  facebook: https://www.facebook.com/makazesquad
+  facebook: https://www.facebook.com/MakazeSquad
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -42,7 +42,7 @@ categories:
     name: Sewing
 created-jotform: "2022-09-08 08:25:35"
 last-modified-jotform: "2022-09-12 07:18:53"
-last-exported: "2022-09-12 10:52:42"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

@@ -54,7 +54,7 @@ maker:
   twitter: https://www.twitter.com/ftc16290
   instagram: https://www.instagram.com/ftc16290/
   facebook: https://www.facebook.com/zip.ties.90
-  youtube: https://www.youtube.com/channel/ucdcgtcur0wtphwaebk2id0q
+  youtube: https://www.youtube.com/channel/UCdCgtCur0wTPhWaebK2id0Q
 categories: 
   - slug: education
     name: Education
@@ -68,7 +68,7 @@ categories:
     name: FIRST Robotics
 created-jotform: "2022-08-31 21:38:59"
 last-modified-jotform: "2022-09-11 14:27:50"
-last-exported: "2022-09-12 10:52:42"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

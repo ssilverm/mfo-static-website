@@ -44,8 +44,8 @@ maker:
   image-primary: /assets/images/exhibit-images/22-118-maker-lazy-gt-power-racing-series-lazy-gt-orlando-medium.jpg
   website: https://teamlazygecko.com
   instagram: https://www.instagram.com/teamlazygecko/
-  facebook: https://www.facebook.com/teamlazygecko
-  youtube: https://www.youtube.com/channel/ucs1msedocppxxgyljlxfwxa
+  facebook: https://www.facebook.com/TeamLazyGecko
+  youtube: https://www.youtube.com/channel/UCS1mseDOCPpxxgYljLxFwXA
 categories: 
   - slug: electric-vehicles
     name: Electric Vehicles
@@ -57,7 +57,7 @@ categories:
     name: Vehicles
 created-jotform: "2022-08-31 18:47:17"
 last-modified-jotform: "2022-09-12 07:19:01"
-last-exported: "2022-09-12 10:52:43"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

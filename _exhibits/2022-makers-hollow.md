@@ -29,8 +29,8 @@ maker:
   image-primary: /assets/images/exhibit-images/22-122-maker-makers-hollow-mh-80s-logos-01-medium.jpg
   website: http://wwwmakershollow.com
   instagram: https://www.instagram.com/makershollow
-  facebook: https://www.facebook.com/makershollow/
-  youtube: https://www.youtube.com/channel/ucbrdstfrdgg1njfjyorcosw
+  facebook: https://www.facebook.com/MakersHollow/
+  youtube: https://www.youtube.com/channel/UCbRdStFRdGg1njfJYoRcOSw
 categories: 
   - slug: art
     name: Art
@@ -42,7 +42,7 @@ categories:
     name: Special Effects
 created-jotform: "2022-08-31 21:02:20"
 last-modified-jotform: "2022-09-12 07:19:07"
-last-exported: "2022-09-12 10:52:43"
+last-exported: "2022-09-17 14:41:06"
 sitemap: false
 
 ---

@@ -21,7 +21,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-72-maker-party-hero-games-party-hero-with-color-medium.jpg
   website: http://www.partyherogames.com
   instagram: https://www.instagram.com/partyherogames/
-  facebook: https://www.facebook.com/partyherogames
+  facebook: https://www.facebook.com/PartyHeroGames
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -31,7 +31,7 @@ categories:
     name: Gaming
 created-jotform: "2022-08-15 19:41:57"
 last-modified-jotform: "2022-09-12 20:17:03"
-last-exported: "2022-09-14 07:05:30"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

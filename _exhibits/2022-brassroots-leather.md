@@ -19,10 +19,10 @@ maker:
   description: "A leather crafter who specializes in making things inspired in Steampunk and Pop Culture. "
   image-primary: /assets/images/exhibit-images/22-67-maker-brassroots-leather-26225928989-928dd84777-k-medium.jpg
   website: https://www.brassrootsleather.com/
-  twitter: https://www.twitter.com/brassroots_lthr
+  twitter: https://www.twitter.com/Brassroots_Lthr
   instagram: https://www.instagram.com/brassroots_leather/
-  facebook: https://www.facebook.com/brassrootsleather
-  youtube: https://www.youtube.com/channel/ucgruolzhp4iisdyeni3zbjg
+  facebook: https://www.facebook.com/BrassrootsLeather
+  youtube: https://www.youtube.com/channel/UCgruOLZHP4iISDyeNI3ZbJg
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -36,7 +36,7 @@ categories:
     name: SteamPunk
 created-jotform: "2022-08-13 21:59:26"
 last-modified-jotform: "2022-08-22 17:44:11"
-last-exported: "2022-09-09 20:02:03"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

@@ -70,7 +70,7 @@ maker:
   description: "Toy log constructor, utilizing floor/windows/doors inserts, stairs, railing, 35+ unique log types and 85+ unique roof plank variety for more realistic toy log cabin builds."
   image-primary: /assets/images/exhibit-images/22-26-maker-makerlog-dsc-0307s-medium.JPG
   instagram: https://www.instagram.com/dwaynejones748
-  youtube: https://www.youtube.com/channel/uc1v6phabykeuplg65im3xvq/
+  youtube: https://www.youtube.com/channel/UC1V6pHABYKeUpLg65Im3XvQ/
 categories: 
   - slug: art
     name: Art
@@ -84,7 +84,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-07-26 14:48:37"
 last-modified-jotform: "2022-09-12 07:17:17"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

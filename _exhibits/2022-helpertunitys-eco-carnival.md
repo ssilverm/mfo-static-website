@@ -33,7 +33,7 @@ maker:
 "
   image-primary: /assets/images/exhibit-images/22-106-maker-helpertunitys-eco-carnival-helpertunity-logo-medium.png
   website: https://live-helpertunity2030.pantheonsite.io/
-  facebook: https://www.facebook.com/helpertunity/
+  facebook: https://www.facebook.com/Helpertunity/
 categories: 
   - slug: craft
     name: Craft
@@ -47,7 +47,7 @@ categories:
     name: Upcycling
 created-jotform: "2022-08-29 14:44:28"
 last-modified-jotform: "2022-09-11 14:29:38"
-last-exported: "2022-09-12 10:52:43"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

@@ -29,7 +29,7 @@ maker:
   website: http://www.animalornaments.com
   instagram: https://www.instagram.com/animalornaments
   facebook: https://www.facebook.com/animalornaments/
-  youtube: https://www.youtube.com/channel/ucdy0btdrp-bsxvgc5cu4_qa
+  youtube: https://www.youtube.com/channel/UCdY0BTDRP-bSxvgc5Cu4_qA
 categories: 
   - slug: art
     name: Art
@@ -43,7 +43,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-08-28 11:19:36"
 last-modified-jotform: "2022-09-10 12:46:52"
-last-exported: "2022-09-10 12:48:32"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

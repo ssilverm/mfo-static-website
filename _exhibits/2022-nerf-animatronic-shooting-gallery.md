@@ -28,8 +28,8 @@ maker:
   image-primary: /assets/images/exhibit-images/22-57-maker-nerf-animatronic-shooting-gallery-enlightend-monkey-logo-no-background-medium.jpg
   website: http://www.enlightenedmonkeyarts.com
   instagram: https://www.instagram.com/enlightenedmonkeyarts
-  facebook: https://www.facebook.com//youtube.com/channel/ucabmehdxtvplhq1mobtdjnqw./search/top?q=enlightened%20monkey%20arts
-  youtube: https://www.youtube.com/channel/ucabmehdxtvplhq1mobtdjnq
+  facebook: https://www.facebook.com//youtube.com/channel/UCabmeHdXTvPlhQ1mObTDJnQw./search/top?q=enlightened%20monkey%20arts
+  youtube: https://www.youtube.com/channel/UCabmeHdXTvPlhQ1mObTDJnQ
 categories: 
   - slug: art
     name: Art
@@ -43,7 +43,7 @@ categories:
     name: Special Effects
 created-jotform: "2022-08-13 12:10:03"
 last-modified-jotform: "2022-09-11 14:28:52"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

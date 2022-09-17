@@ -28,8 +28,8 @@ maker:
   website: https://www.upliftrobotics.com/index.html
   twitter: https://www.twitter.com/ftc18172
   instagram: https://www.instagram.com/ftc18172/
-  facebook: https://www.facebook.com/uplift-robotics-104210208026830/
-  youtube: https://www.youtube.com/c/upliftrobotics
+  facebook: https://www.facebook.com/UpLift-Robotics-104210208026830/
+  youtube: https://www.youtube.com/c/UpliftRobotics
 categories: 
   - slug: education
     name: Education
@@ -43,7 +43,7 @@ categories:
     name: FIRST Robotics
 created-jotform: "2022-08-01 19:24:10"
 last-modified-jotform: "2022-09-12 07:16:30"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

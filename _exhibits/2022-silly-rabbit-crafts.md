@@ -20,7 +20,7 @@ maker:
   image-primary: /assets/images/exhibit-images/22-80-maker-silly-rabbit-crafts-insta-profile-medium.jpg
   website: https://sillyrabbitcrafts.square.site/
   instagram: https://www.instagram.com/sillyrabbit4crafts/
-  facebook: https://www.facebook.com/sillyrabbitcrafts
+  facebook: https://www.facebook.com/SillyRabbitCrafts
 categories: 
   - slug: art
     name: Art
@@ -32,7 +32,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2022-08-18 22:22:57"
 last-modified-jotform: "2022-08-22 17:45:27"
-last-exported: "2022-09-09 20:02:02"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

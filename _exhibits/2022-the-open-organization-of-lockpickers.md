@@ -21,13 +21,13 @@ maker:
   image-primary: /assets/images/exhibit-images/22-25-maker-the-open-organization-of-lockpickers-toool-logo-large-medium.png
   website: https://toool.us
   twitter: https://www.twitter.com/toool
-  youtube: https://www.youtube.com/c/toool-us
+  youtube: https://www.youtube.com/c/TOOOL-US
 categories: 
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-07-26 11:17:12"
 last-modified-jotform: "2022-09-12 07:17:20"
-last-exported: "2022-09-12 10:52:47"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

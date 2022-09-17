@@ -21,8 +21,8 @@ maker:
   description: "Jeremy Cook - maker of various contraptions, including strandbeests and electronics. Have exhibited before."
   image-primary: /assets/images/exhibit-images/22-58-maker-jeremy-cooks-devices-logo-black1c-youtube-2-crop-stylized4-rounded-medium.png
   website: http://jeremyscook.com/
-  twitter: https://www.twitter.com/jeremyscook
-  youtube: https://www.youtube.com/channel/ucrcbscxhliaauk4h478arrq
+  twitter: https://www.twitter.com/JeremySCook
+  youtube: https://www.youtube.com/channel/UCrCbscxHLiaauK4H478ArRQ
 categories: 
   - slug: electronics
     name: Electronics
@@ -30,7 +30,7 @@ categories:
     name: Robotics
 created-jotform: "2022-08-13 13:20:29"
 last-modified-jotform: "2022-09-12 07:18:18"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

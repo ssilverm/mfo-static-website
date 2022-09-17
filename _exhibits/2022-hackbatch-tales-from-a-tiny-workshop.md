@@ -49,6 +49,8 @@ additional-images:
     large: /assets/images/exhibit-images/22-85-exhibit-addl5-hackbatch-tales-from-a-tiny-workshop-img-1710-large.jpg
     full: /assets/images/exhibit-images/22-85-exhibit-addl5-hackbatch-tales-from-a-tiny-workshop-img-1710-full.jpg
 website: "https://www.hackbatch.com/maker-faire"
+video: "https://www.youtube.com/watch?v=CdbjJqXQSk8"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/CdbjJqXQSk8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="DIY Wi-Fi Controlled Tube Light (HomeKit with Home Assistant)"></iframe>'
 maker: 
   name: "Hackbatch"
   description: "Hackbatch is a one person operation where I am developing my own projects and products. I make videos about my projects and provide maker resources on my website. I am passionate about sharing my process and have followed many paths of problem-solving by looking at and expanding on the processes of others."
@@ -56,7 +58,7 @@ maker:
   website: https://www.hackbatch.com/
   twitter: https://www.twitter.com/hackbatchcom
   instagram: https://www.instagram.com/hackbatchcom/
-  youtube: https://www.youtube.com/channel/uc-skwcqyile7nblcdfeagtq
+  youtube: https://www.youtube.com/channel/UC-sKwcQyilE7nBlCdfeAgTQ
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -69,8 +71,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-23 11:35:22"
-last-modified-jotform: "2022-09-12 07:17:14"
-last-exported: "2022-09-12 10:52:46"
+last-modified-jotform: "2022-09-17 14:39:23"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---

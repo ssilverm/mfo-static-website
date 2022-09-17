@@ -31,10 +31,10 @@ maker:
 Our team of volunteer makers work to build our parks accurately and to scale, make all the effects of the attractions and shows function, and create 3D-models and pixel art displayed throughout our parks."
   image-primary: /assets/images/exhibit-images/22-116-maker-recreating-1-1-theme-park-experiences-in-minecraft-with-mcparks-mcparks-horizontal-color-medium.png
   website: https://mcparks.us
-  twitter: https://www.twitter.com/minecraftparks
+  twitter: https://www.twitter.com/MinecraftParks
   instagram: https://www.instagram.com/mcparksofficial/?hl=en
-  facebook: https://www.facebook.com/mcparksminecraft
-  youtube: https://www.youtube.com/user/mcparksminecraft
+  facebook: https://www.facebook.com/MCParksMinecraft
+  youtube: https://www.youtube.com/user/MCParksMinecraft
 categories: 
   - slug: art
     name: Art
@@ -48,7 +48,7 @@ categories:
     name: Software
 created-jotform: "2022-08-31 16:35:33"
 last-modified-jotform: "2022-09-12 07:18:59"
-last-exported: "2022-09-12 10:52:43"
+last-exported: "2022-09-17 14:41:07"
 sitemap: false
 
 ---

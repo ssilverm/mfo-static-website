@@ -21,13 +21,13 @@ maker:
   website: https://savagecanvasarts.square.site/
   twitter: https://www.twitter.com/savagewrites
   instagram: https://www.instagram.com/savagecanvasarts/
-  facebook: https://www.facebook.com/nsavageart
+  facebook: https://www.facebook.com/NSavageArt
 categories: 
   - slug: art
     name: Art
 created-jotform: "2022-07-24 12:47:29"
 last-modified-jotform: "2022-09-12 20:31:23"
-last-exported: "2022-09-14 07:05:39"
+last-exported: "2022-09-17 14:41:10"
 sitemap: false
 
 ---

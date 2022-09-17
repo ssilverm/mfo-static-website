@@ -34,7 +34,7 @@ maker:
   twitter: https://www.twitter.com/orlmakerfaire
   instagram: https://www.instagram.com/makerfaireorlando/?hl=en
   facebook: https://www.facebook.com/makerfaireorlando/
-  youtube: https://www.youtube.com/c/makerfaireorlando
+  youtube: https://www.youtube.com/c/Makerfaireorlando
 categories: 
   - slug: art
     name: Art
@@ -44,7 +44,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2022-08-08 10:29:45"
 last-modified-jotform: "2022-09-11 14:28:55"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:09"
 sitemap: false
 
 ---

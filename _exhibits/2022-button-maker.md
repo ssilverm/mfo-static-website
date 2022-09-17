@@ -27,10 +27,10 @@ maker:
   description: "Located in East Orlando, Florida, MECO is focused on developing students’ problem solving skills, expanding STEM capabilities, collaborating with others and expanding interest in robotics while teaching practical skills."
   image-primary: /assets/images/exhibit-images/22-87-maker-button-maker-copy-of-meco-patch-3c-med-medium.png
   website: http://mecorobotics.org/
-  twitter: https://www.twitter.com/@8324frc
+  twitter: https://www.twitter.com/@8324FRC
   instagram: https://www.instagram.com/frc8324meco/
   facebook: https://www.facebook.com/profile.php?id=100058948849630
-  youtube: https://www.youtube.com/channel/ucxol55zmt3asv9zrtksjvha
+  youtube: https://www.youtube.com/channel/UCxOL55ZMT3asV9zRtkSJvhA
 categories: 
   - slug: art
     name: Art
@@ -44,7 +44,7 @@ categories:
     name: Hands-On Workshop
 created-jotform: "2022-08-23 18:45:22"
 last-modified-jotform: "2022-09-11 14:30:27"
-last-exported: "2022-09-12 10:52:46"
+last-exported: "2022-09-17 14:41:08"
 sitemap: false
 
 ---
