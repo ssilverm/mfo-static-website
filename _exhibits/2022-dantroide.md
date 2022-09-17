@@ -18,7 +18,7 @@ image-primary:
   medium: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-medium.jpg
   large: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-large.jpg
   full: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-full.jpg
-website: "https://sites.google.com/view/dantroide (in progress)"
+website: "https://sites.google.com/view/dantroide"
 maker: 
   name: "ITST Marconi"
   description: "The group is made up of students aged between 15 and 17 enrolled in a technical institute (a secondary school) in Campobasso (Italy). The group has transversal skills as the students are enrolled in literature, computer science and electronics courses. In the project the students were followed and supported by their respective teachers."
@@ -34,8 +34,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-29 04:15:59"
-last-modified-jotform: "2022-09-10 12:20:45"
-last-exported: "2022-09-10 12:24:57"
+last-modified-jotform: "2022-09-17 07:59:26"
+last-exported: "2022-09-17 08:04:53"
 sitemap: false
 
 ---
