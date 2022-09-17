@@ -160,7 +160,11 @@ def socialURLClean(url,name):
   social = urlparse(url)
   social = social._replace(scheme = "https")
   social = social._replace(netloc = "www." + name + ".com")
-  socialpath = social.path.lower()
+
+  #YouTube URLs are case sensitive, so removing the .lower()
+  #socialpath = social.path.lower()
+  socialpath = social.path
+
   socialpath = socialpath.replace("www." + name + ".com","")
   socialpath = socialpath.replace(name + ".com","")
   #socialpath = socialpath.replace("/","")
