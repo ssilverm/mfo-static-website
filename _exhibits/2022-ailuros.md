@@ -8,12 +8,12 @@ exhibit-id: 22-96
 space-number: Unassigned
 description: "Handmade bags and accessories from your favorite fandoms."
 description-long: "We offer a decent selection of bags and accessories in a long range of custom prints and take custom orders as well. "
-image: /assets/images/exhibit-images/22-96-exhibit-ailuros-b6555e8f-34b7-462d-aa4b-ae58f5b2db8e-large.png
+image: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-large.jpg
 image-primary: 
-  small: /assets/images/exhibit-images/22-96-exhibit-ailuros-b6555e8f-34b7-462d-aa4b-ae58f5b2db8e-small.png
-  medium: /assets/images/exhibit-images/22-96-exhibit-ailuros-b6555e8f-34b7-462d-aa4b-ae58f5b2db8e-medium.png
-  large: /assets/images/exhibit-images/22-96-exhibit-ailuros-b6555e8f-34b7-462d-aa4b-ae58f5b2db8e-large.png
-  full: /assets/images/exhibit-images/22-96-exhibit-ailuros-b6555e8f-34b7-462d-aa4b-ae58f5b2db8e-full.png
+  small: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-small.jpg
+  medium: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-medium.jpg
+  large: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-large.jpg
+  full: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-full.jpg
 additional-images: 
   - 1:
     small: /assets/images/exhibit-images/22-96-exhibit-addl1-ailuros-8753a750-9e4c-40c6-b665-d7b37626e473-small.jpeg
@@ -49,8 +49,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-08-26 09:48:34"
-last-modified-jotform: "2022-09-12 20:13:20"
-last-exported: "2022-09-17 14:41:07"
+last-modified-jotform: "2022-09-18 12:01:29"
+last-exported: "2022-09-18 12:01:50"
 sitemap: false
 
 ---
