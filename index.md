@@ -35,14 +35,14 @@ carousel-slides:
 
 {% include makey-border.html %}
 
-{% comment %}
+
 {% include featured-makers-grid.html %}
 {% include explore-meet-makers.html %}
-{% endcomment %}
 
 
+{% comment %}
 {% include call-for-makers-widget.html %}
-
+{% endcomment %}
 
 {% comment %}
 

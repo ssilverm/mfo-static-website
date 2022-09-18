@@ -2,10 +2,12 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 21-115 #ankita
-  - exhibit-id: 21-156 #Bindman
-  - exhibit-id: 21-132 #tylted
-  - exhibit-id: 21-118 #Boudica Press
+  - exhibit-id: 22-44 #boombike
+    description: Come jam with our giant boombox bicycle!
+  - exhibit-id: 22-130 #christmas lights
+  - exhibit-id: 22-91 #crayon art
+    title: Make Crayon Art with Troop 641
+  - exhibit-id: 22-93 #Hand-painted miniatures
 
 
 
