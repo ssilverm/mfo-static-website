@@ -14,7 +14,7 @@ carousel-slides:
 ---
 {%comment%}
 # Thanks for Volunteering for Maker Faire Orlando 2022
-The event is now underway and we have closed volunteer registration. If you've already registered and have questions, please email us at <volunteers@themakereffect.org>
+The event is now underway and we have closed volunteer registration. If you've already registered and have questions, please email us at <makers@makerfaireorlando.com>
 {%endcomment%}
 
 # We Need You!

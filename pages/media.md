@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Maker Faire Orlando Media Coverage
-Please contact us at any time at [pr@makerfaireorlando.com](mailto:pr@makerfaireorlando.com) to coordinate interviews or event credentials for your features and stories and check out our [Press Kit](/press-kit) for logos, photos and more.
+Please contact us at any time at [makers@makerfaireorlando.com](mailto:makers@makerfaireorlando.com) to coordinate interviews or event credentials for your features and stories and check out our [Press Kit](/press-kit) for logos, photos and more.
 
 <div>
 {%- for events in site.data.mediacoverage.mediacoverage -%}

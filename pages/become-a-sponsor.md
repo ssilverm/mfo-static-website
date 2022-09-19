@@ -57,6 +57,6 @@ Maker Faire Orlando is independently organized and operated under license from M
 </div>
 
 ---
-For more information, please contact us at <sponsor@makerfaireorlando.com>  for more information.
+For more information, please contact us at <makers@makerfaireorlando.com>  for more information.
 
 Sponsorship of Maker Faire Orlando benefits The Maker Effect Foundation, a 501(c)(3) entity. Proceeds fund maker programs in local schools, community groups, and makerspaces, as well as our international maker research efforts.

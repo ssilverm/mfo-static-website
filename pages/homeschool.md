@@ -34,10 +34,10 @@ Documentation types allowed:
 * Membership with the Florida Parent Educator Association (FPEA)
 * Membership with the Homeschool Legal Defense Association (HSLDA)
 * Letter of Intent to homeschool registered with your municipality
-If you have a question on documentation of homeschool status, please email us at [homeschool@themakereffect.org](mailto://homeschool@themakereffect.org)
+If you have a question on documentation of homeschool status, please email us at [makers@makerfaireorlando.com](mailto://makers@makerfaireorlando.com)
 
-**Please subscribe to our [Homeschool email newsletter](http://eepurl.com/dD3C0T) (and add homeschool@themakereffect.org to your contacts) so that you can stay informed on event information, special offers, and any updates to the check-in process.**
+**Please subscribe to our [Homeschool email newsletter](http://eepurl.com/dD3C0T) (and add [makers@makerfaireorlando.com](mailto://makers@makerfaireorlando.com) to your contacts) so that you can stay informed on event information, special offers, and any updates to the check-in process.**
 
 Each year we curate (in the month before the event) a special set of Maker Faire Orlando exhibits that are targeted for educators. If you can’t see everything at Maker Faire, you can use this list to prioritize! Many of these exhibits are created by educators, or these makers have indicated they are willing to help educators.
 
-If you have additional questions about our programs for Homeschool educators, email us at [homeschool@themakereffect.org](mailto://homeschool@themakereffect.org).
+If you have additional questions about our programs for Homeschool educators, email us at [makers@makerfaireorlando.com](mailto://makers@makerfaireorlando.com).
