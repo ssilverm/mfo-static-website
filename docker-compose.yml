@@ -7,3 +7,10 @@ services:
       - .:/site
     ports:
       - '4000:4000'
+
+  update-exhibits:
+    image: python
+    command: bash -c "pip install -r requirements.txt && python update_exhibits.py"
+    working_dir: /site/_python/
+    volumes:
+      - .:/site
