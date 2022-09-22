@@ -35,6 +35,7 @@ Our team of volunteer makers work to build our parks accurately and to scale, ma
   instagram: https://www.instagram.com/mcparksofficial/?hl=en
   facebook: https://www.facebook.com/MCParksMinecraft
   youtube: https://www.youtube.com/user/MCParksMinecraft
+  tiktok: https://www.tiktok.com/@minecraftparks
 categories: 
   - slug: art
     name: Art
@@ -48,7 +49,7 @@ categories:
     name: Software
 created-jotform: "2022-08-31 16:35:33"
 last-modified-jotform: "2022-09-12 07:18:59"
-last-exported: "2022-09-17 14:41:07"
+last-exported: "2022-09-22 07:51:31"
 sitemap: false
 
 ---

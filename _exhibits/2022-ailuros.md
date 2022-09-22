@@ -43,6 +43,7 @@ maker:
   website: https://www.ailurosshop.com
   instagram: https://www.instagram.com/ailurossewistteam
   facebook: https://www.facebook.com/groups/3157060681041463/?ref=share
+  tiktok: https://www.tiktok.com/@ailurossewistteam
 categories: 
   - slug: craft
     name: Craft
@@ -50,7 +51,7 @@ categories:
     name: Sewing
 created-jotform: "2022-08-26 09:48:34"
 last-modified-jotform: "2022-09-18 20:37:33"
-last-exported: "2022-09-19 19:09:43"
+last-exported: "2022-09-22 07:51:32"
 sitemap: false
 
 ---

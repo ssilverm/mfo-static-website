@@ -25,6 +25,7 @@ maker:
   description: "Creative solutions to uncommon problems, specializing in embedded electronics, Arduino, and LED lighting arrays. Also involved in pushing the limits of 3D printing applications."
   image-primary: /assets/images/exhibit-images/22-121-maker-the-all-seeing-vibes-z-freaky-industries-retrov-11-medium.jpg
   instagram: https://www.instagram.com/zfreakyindustries/
+  tiktok: https://www.tiktok.com/@zfreakyindustries
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -38,7 +39,7 @@ categories:
     name: Woodworking
 created-jotform: "2022-08-31 20:54:06"
 last-modified-jotform: "2022-09-12 07:17:08"
-last-exported: "2022-09-17 14:41:06"
+last-exported: "2022-09-22 07:51:31"
 sitemap: false
 
 ---
