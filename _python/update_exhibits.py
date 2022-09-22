@@ -322,6 +322,7 @@ def export(outputAll):
           makerInstagram  = getAnswerByName(ans,"makerInstagram")
           makerFacebook   = getAnswerByName(ans,"makerFacebook")
           makerYouTube    = getAnswerByName(ans,"makerYouTube")
+          makerTikTok     = getAnswerByName(ans,"makerTikTok")
 
           #split the spaceNumber field
           #for each spaceNumber
@@ -479,6 +480,9 @@ def export(outputAll):
 
             if makerYouTube is not None:
               outfile.write("  youtube: " + socialURLClean(makerYouTube, "youtube") + "\n")
+
+            if makerTikTok is not None:
+              outfile.write("  tiktok: " + socialURLClean(makerTikTok, "tiktok") + "\n")
 
 
             #categories
