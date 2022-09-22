@@ -19,7 +19,7 @@ maker:
   description: "I created a device called the Dunkerator which allows you to dunk up to 3 Oreos simultaneously. It has gotten over 3 million views on TikTok and received thousands of preorders in 2021. I&#039;d like to sell them at maker faire because it is a family friendly product. "
   image-primary: /assets/images/exhibit-images/22-135-maker-dunkerator-e8302eee-1e98-412b-86ee-96ca5b42f9c5-medium.jpeg
   website: http://idiotengineering.com
-  tiktok: https://www.tiktok.com/TikTok.com/@idiotengineering
+  tiktok: https://www.tiktok.com/@idiotengineering
 categories: 
   - slug: 3d-printing
     name: 3D Printing
@@ -30,8 +30,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2022-09-09 10:19:14"
-last-modified-jotform: "2022-09-18 19:07:08"
-last-exported: "2022-09-22 07:51:30"
+last-modified-jotform: "2022-09-22 09:28:55"
+last-exported: "2022-09-22 09:29:58"
 sitemap: false
 
 ---
