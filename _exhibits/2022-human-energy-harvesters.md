@@ -9,12 +9,12 @@ space-number: Unassigned
 description: "A Recumbent Bicycle and Capstan HEH will allow 10 Users to create 120vdc and light 56 or more bulbs."
 description-long: "A recumbent Bicycle HEH will enable a single User to exercise arms and legs while making DC electricity, as evidenced by the illumination of 6 bulbs. A wattmeter will display the energy created digitally, in real time.
 A Capstan HEH will enable up to 8 Users to illuminate seven test light stands for a total of 48 bulbs. The illumination is directly proportional to the number of Users and the sweat energy expended, so there is the potential for learning about Ohm&#039;s Law."
-image: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-video-final-8-9-22-large.jpeg
+image: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-plan-view-drone-43-74-large.jpeg
 image-primary: 
-  small: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-video-final-8-9-22-small.jpeg
-  medium: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-video-final-8-9-22-medium.jpeg
-  large: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-video-final-8-9-22-large.jpeg
-  full: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-video-final-8-9-22-full.jpeg
+  small: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-plan-view-drone-43-74-small.jpeg
+  medium: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-plan-view-drone-43-74-medium.jpeg
+  large: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-plan-view-drone-43-74-large.jpeg
+  full: /assets/images/exhibit-images/22-97-exhibit-human-energy-harvesters-heh-night-plan-view-drone-43-74-full.jpeg
 additional-images: 
   - 1:
     small: /assets/images/exhibit-images/22-97-exhibit-addl1-human-energy-harvesters-windagellc-logo-colors-small.png
@@ -30,8 +30,8 @@ categories:
   - slug: invention
     name: Invention
 created-jotform: "2022-08-26 11:15:36"
-last-modified-jotform: "2022-09-21 07:33:16"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-01 18:01:04"
+last-exported: "2022-10-01 18:01:18"
 sitemap: false
 
 ---
