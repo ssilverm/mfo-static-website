@@ -111,3 +111,8 @@ sponsors:
     logo: fulament .png
     level: 4
     active: false
+  - name: Wiring Technologies
+    url: https://wiringtech.com/
+    logo: WTI_Logo.png
+    level: 5
+    active: true
