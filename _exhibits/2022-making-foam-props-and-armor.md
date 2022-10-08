@@ -25,6 +25,21 @@ additional-images:
     medium: /assets/images/exhibit-images/22-156-exhibit-addl2-making-foam-props-and-armor-fb-img-1661855123103-medium.jpg
     large: /assets/images/exhibit-images/22-156-exhibit-addl2-making-foam-props-and-armor-fb-img-1661855123103-large.jpg
     full: /assets/images/exhibit-images/22-156-exhibit-addl2-making-foam-props-and-armor-fb-img-1661855123103-full.jpg
+  - 3:
+    small: /assets/images/exhibit-images/22-156-exhibit-addl3-making-foam-props-and-armor-fred-and-elle2-small.jpg
+    medium: /assets/images/exhibit-images/22-156-exhibit-addl3-making-foam-props-and-armor-fred-and-elle2-medium.jpg
+    large: /assets/images/exhibit-images/22-156-exhibit-addl3-making-foam-props-and-armor-fred-and-elle2-large.jpg
+    full: /assets/images/exhibit-images/22-156-exhibit-addl3-making-foam-props-and-armor-fred-and-elle2-full.jpg
+  - 4:
+    small: /assets/images/exhibit-images/22-156-exhibit-addl4-making-foam-props-and-armor-fred-and-elle5-small.jpg
+    medium: /assets/images/exhibit-images/22-156-exhibit-addl4-making-foam-props-and-armor-fred-and-elle5-medium.jpg
+    large: /assets/images/exhibit-images/22-156-exhibit-addl4-making-foam-props-and-armor-fred-and-elle5-large.jpg
+    full: /assets/images/exhibit-images/22-156-exhibit-addl4-making-foam-props-and-armor-fred-and-elle5-full.jpg
+  - 5:
+    small: /assets/images/exhibit-images/22-156-exhibit-addl5-making-foam-props-and-armor-fred-and-elle-small.jpg
+    medium: /assets/images/exhibit-images/22-156-exhibit-addl5-making-foam-props-and-armor-fred-and-elle-medium.jpg
+    large: /assets/images/exhibit-images/22-156-exhibit-addl5-making-foam-props-and-armor-fred-and-elle-large.jpg
+    full: /assets/images/exhibit-images/22-156-exhibit-addl5-making-foam-props-and-armor-fred-and-elle-full.jpg
 maker: 
   name: "Fred and Elle Designs"
   description: "Fred and Elle are multi award winning cosplayers. Fred makes props and paints stuff... Elle sews, directs and provides common sense. "
@@ -41,8 +56,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-09-23 16:32:45"
-last-modified-jotform: "2022-09-23 18:45:00"
-last-exported: "2022-09-23 18:45:43"
+last-modified-jotform: "2022-10-08 14:38:55"
+last-exported: "2022-10-08 14:39:30"
 sitemap: false
 
 ---

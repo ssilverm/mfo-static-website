@@ -14,6 +14,12 @@ image-primary:
   medium: /assets/images/exhibit-images/22-151-exhibit-havh3roes-cosplay-in-the-wonderlands-20220612-182957-medium.jpg
   large: /assets/images/exhibit-images/22-151-exhibit-havh3roes-cosplay-in-the-wonderlands-20220612-182957-large.jpg
   full: /assets/images/exhibit-images/22-151-exhibit-havh3roes-cosplay-in-the-wonderlands-20220612-182957-full.jpg
+additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/22-151-exhibit-addl1-havh3roes-cosplay-in-the-wonderlands-havh3ro-small.jpg
+    medium: /assets/images/exhibit-images/22-151-exhibit-addl1-havh3roes-cosplay-in-the-wonderlands-havh3ro-medium.jpg
+    large: /assets/images/exhibit-images/22-151-exhibit-addl1-havh3roes-cosplay-in-the-wonderlands-havh3ro-large.jpg
+    full: /assets/images/exhibit-images/22-151-exhibit-addl1-havh3roes-cosplay-in-the-wonderlands-havh3ro-full.jpg
 maker: 
   name: "HavH3roes? Cosplay"
   description: "Award-winning, husband-and-wife duo HavH3roes? Cosplay creates semi-to-fully handmade costumes and props. Although collectively cosplaying since 2013, we have been cosplaying and competing at conventions since 2019. We specialize in stylized/painted cosplays (from head to toe) and look to upcycle materials as much as possible. Our mediums span the realms of sewing, 3D modeling/printing, foamsmithing and everything in-between. We are constantly looking for new challenges and skills to push our boundaries and imaginations!"
@@ -32,8 +38,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-09-20 22:46:59"
-last-modified-jotform: "2022-09-22 01:01:20"
-last-exported: "2022-09-22 09:29:57"
+last-modified-jotform: "2022-10-08 14:41:11"
+last-exported: "2022-10-08 14:42:04"
 sitemap: false
 
 ---

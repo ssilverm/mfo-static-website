@@ -14,6 +14,22 @@ image-primary:
   medium: /assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-medium.jpg
   large: /assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-large.jpg
   full: /assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-full.jpg
+additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/22-155-exhibit-addl1-miss-taurus-cosplay-miss-taur-small.jpg
+    medium: /assets/images/exhibit-images/22-155-exhibit-addl1-miss-taurus-cosplay-miss-taur-medium.jpg
+    large: /assets/images/exhibit-images/22-155-exhibit-addl1-miss-taurus-cosplay-miss-taur-large.jpg
+    full: /assets/images/exhibit-images/22-155-exhibit-addl1-miss-taurus-cosplay-miss-taur-full.jpg
+  - 2:
+    small: /assets/images/exhibit-images/22-155-exhibit-addl2-miss-taurus-cosplay-miss-taur4-44-56-small.jpg
+    medium: /assets/images/exhibit-images/22-155-exhibit-addl2-miss-taurus-cosplay-miss-taur4-44-56-medium.jpg
+    large: /assets/images/exhibit-images/22-155-exhibit-addl2-miss-taurus-cosplay-miss-taur4-44-56-large.jpg
+    full: /assets/images/exhibit-images/22-155-exhibit-addl2-miss-taurus-cosplay-miss-taur4-44-56-full.jpg
+  - 3:
+    small: /assets/images/exhibit-images/22-155-exhibit-addl3-miss-taurus-cosplay-miss-taur2-44-92-small.jpg
+    medium: /assets/images/exhibit-images/22-155-exhibit-addl3-miss-taurus-cosplay-miss-taur2-44-92-medium.jpg
+    large: /assets/images/exhibit-images/22-155-exhibit-addl3-miss-taurus-cosplay-miss-taur2-44-92-large.jpg
+    full: /assets/images/exhibit-images/22-155-exhibit-addl3-miss-taurus-cosplay-miss-taur2-44-92-full.jpg
 maker: 
   name: "Miss Taurus Cosplay"
   description: "I am Miss Taurus Cosplay and I&#039;ve been cosplaying for 9 years. I love creating challenging and interesting costume from anime, comics etc. I do alot of tutorials for those who wish to start cosplaying. I also love competing as well is just my passion! I &#039;ve won over 20+ over the years and while competing I&#039;ve made friends. It&#039;s just an amazing community!"
@@ -35,8 +51,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-09-22 22:59:32"
-last-modified-jotform: "2022-09-23 18:44:32"
-last-exported: "2022-09-23 18:45:44"
+last-modified-jotform: "2022-10-08 14:45:48"
+last-exported: "2022-10-08 14:46:29"
 sitemap: false
 
 ---

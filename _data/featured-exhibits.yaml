@@ -2,13 +2,16 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 22-44 #boombike
-    description: Come jam with our giant boombox bicycle!
-  - exhibit-id: 22-130 #christmas lights
-  - exhibit-id: 22-91 #crayon art
-    title: Make Crayon Art with Troop 641
-  - exhibit-id: 22-93 #Hand-painted miniatures
+  - exhibit-id: 22-151 #HavH3roes? Cosplay in The Wonderlands
+  - exhibit-id: 22-74 #allison chase
+    description: When your character is bigger than you, sometimes you have to get creative about how to make them come to life!
 
+  - exhibit-id: 22-155 #Miss Taurus Cosplay
+    description: Meet award-winning Cosplayer, Costume Designer, Prop Maker, and Concept Artist Miss Taurus
+
+  - exhibit-id: 22-156 #fred & elle
+    title: Fred & Elle Designs
+    description: See award-winning cosplay creator Fred of Fred & Elle Designs build and paint a prop from start to finish!
 
 
 
