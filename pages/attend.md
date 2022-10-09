@@ -40,11 +40,12 @@ Central Florida Expo Center & Fairgrounds
 **Parking is FREE!**
 
 ---
+**Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://events.humanitix.com/mfo2022-vip-fundraiser) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org)
+
+---
 Tickets available on [Humanitix](https://events.humanitix.com/makerfaireorlando) or use the ticket form below - Humanitix donates 100% of profits to children's charities!
 
-{%comment%}
-Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https://ruckusvip.eventbrite.com) after hours on Saturday, November 13th.
-{%endcomment%}
+
 ---
 {%comment%}
 **Tickets will go on sale later this summer. Check back for updates and follow us on social media for updates!**
@@ -106,9 +107,11 @@ Looking for a VIP experience? Check out our [Robot Ruckus VIP Fundraiser](https:
 {%endcomment%}
 ---
 
-**Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://ruckusvip.eventbrite.com) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org)
+### Looking for an Exclusive Experience with Makers, Interactive Artists & BattleBots Teams?
+Check out the [Maker Faire Orlando & Robot Ruckus VIP Fundraiser](https://events.humanitix.com/mfo2022-vip-fundraiser) happening after-hours on Saturday the 5th after the first day of Maker Faire Orlando. This event requires a separate ticket. [Learn More](https://events.humanitix.com/mfo2022-vip-fundraiser)
 
-___
+---
+
 
 Follow us on social media or [subscribe to our email newsletter]( {{ site.newsletter_url }} ) for announcements.
 
