@@ -8,21 +8,21 @@ redirect_from: "/event-schedule/"
 
 # Event Schedule
 
-We will publish the Maker Faire Orlando 2022 event schedule in the months leading up to the event. Check back for updates and follow us on social media for announcements.
 
-Check out the 2021 program and schedule below for examples of Maker Faire activities and events.
+Most exhibits and hands-on experiences at Maker Faire Orlando run continuously throughout the event.
 
-{%comment%}
-Most exhibits and hands-on experiences at Maker Faire Orlando run continuously throughout the event. For competition times and more, check out our [event program](/program) below which has additional details. Click the images below for a PDF version of the program.
-{%endcomment%}
+{%comment%}For competition times and more, check out our [event program](/program) below which has additional details. Click the images below for a PDF version of the program.{%endcomment%}
 
-<br><br>
 
-<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_1-web.jpg" alt="Maker Faire Orlando 2021 event program page 1" width="800" /></a>
+<strong>We will publish the Maker Faire Orlando 2022 event schedule in the months leading up to the event. Check back for updates and follow us on social media for announcements. Check out the 2021 program and schedule below for examples of Maker Faire activities and events.</strong>
+
+
+<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_1-web-coming-soon.jpg" alt="Maker Faire Orlando 2021 event program page 1" width="800" /></a>
 
 <br>
 
-<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_2-web.jpg" alt="Maker Faire Orlando 2021 event program page 2" width="800" /></a>
+<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_2-web-coming-soon.jpg" alt="Maker Faire Orlando 2021 event program page 2" width="800" /></a>
+
 
 ---
 

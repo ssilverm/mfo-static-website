@@ -18,13 +18,17 @@ The Maker Faire Orlando & Robot Ruckus VIP party (separate ticket required) is f
 ### Maker Manual
 The [Maker Manual](/maker-manual) contains helpful tips and info for exhibiting makers.
 
+### Anti-Harassment Policy
+
+Maker Faire Orlando has a zero tolerance policy for harassment of any kind - Learn more: [Anti-Harassment Policy](/anti-harassment/)
+
 ### Looking for a Maker?
 Check out the [full list of maker exhibits](/makers)! You can filter by category, or search for an exhibit.
 
 ### Install the Apps!
 You can get the Maker Faire Orlando app on [Google Play](https://play.google.com/store/apps/details?id=com.makerfaireorlando.mforlando&hl=en_US&gl=US) and the [Apple App Store](https://apps.apple.com/us/app/maker-faire-orlando/id913046166).
 
-### Event Schedule & Program 
+### Event Schedule & Program
 
 We will publish the Maker Faire Orlando 2022 event schedule in the months leading up to the event. Check back for updates and follow us on social media for announcements.
 
@@ -36,11 +40,11 @@ Most exhibits and hands-on experiences at Maker Faire Orlando run continuously t
 
 <br><br>
 
-<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_1-web.jpg" alt="Maker Faire Orlando 2021 event program page 1" width="800" /></a>
+<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_1-web-coming-soon.jpg" alt="Maker Faire Orlando 2021 event program page 1" width="800" /></a>
 
 <br>
 
-<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_2-web.jpg" alt="Maker Faire Orlando 2021 event program page 2" width="800" /></a>
+<a href="/assets/images/program/MFO_2021_Program_v3.pdf"><img src="/assets/images/program/MFO_2021_Program_Page_2-web-coming-soon.jpg" alt="Maker Faire Orlando 2021 event program page 2" width="800" /></a>
 
 
 
