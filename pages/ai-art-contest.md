@@ -44,6 +44,7 @@ All entries should use the types of makers, creations, passions, and values foun
 <li>Display of Eligible entries at Maker Faire Orlando - Saturday November 5th & Sunday November 6th</li>
 </ul>
 
+
 <h3>Submission Requirements</h3>
 
 <ul>
@@ -63,7 +64,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 </div></div></div></section>
 
-{%comment%}
+
 
 <div class="flag-banner"></div>
 
@@ -87,7 +88,16 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
             </div>
           </div>
 
-        </a><a href="/exhibits/allison-chase-cosplay/">
+          </a><a href="https://make.co/">
+            <div class="featured-maker col-xs-6 col-sm-3">
+              <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-medium.jpg);"></div>
+              <div class="maker-panel-text">
+                <h4>Dale Dougherty</h4>
+                <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
+              </div>
+            </div>
+
+        </a><a href="http://www.sculpturings.com/">
           <div class="featured-maker col-xs-6 col-sm-3">
             <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-74-exhibit-allison-chase-cosplay-apcl8153-medium.JPG);"></div>
             <div class="maker-panel-text">
@@ -96,21 +106,12 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
             </div>
           </div>
 
-        </a><a href="https://make.co/">
-          <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-medium.jpg);"></div>
-            <div class="maker-panel-text">
-              <h4>Dale Dougherty</h4>
-              <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
-            </div>
-          </div>
-
-        </a><a href="/exhibits/making-foam-props-and-armor/">
+        </a><a href="https://www.orangecountyfl.net/CultureParks/ArtsCulture.aspx">
           <div class="featured-maker col-xs-6 col-sm-3">
             <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-156-exhibit-making-foam-props-and-armor-fb-img-1659701086773-medium.jpg);"></div>
             <div class="maker-panel-text">
-              <h4>Fred &amp; Elle Designs</h4>
-              <p class="hidden-xs">See award-winning cosplay creator Fred of Fred &amp; Elle Designs build and paint a prop from start to finish!</p>
+              <h4>Terry Olson</h4>
+              <p class="hidden-xs">Director of Orange County Arts & Cultural Affairs</p>
             </div>
           </div>
         </a></div>
@@ -121,7 +122,6 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 <div class="flag-banner"></div></section>
 
-{%endcomment%}
 
 <section class="content-panel">
 <div class="container">
@@ -135,15 +135,16 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Limit three entries per person or team.</li>
 <li>An individual or team may only win ONE award in the overall competition (1st, 2nd, 3rd Place). Additional awards (Best Process Video) may be awarded to an overall winner.</li>
 <li>Entries must not have been previously entered in another competition.</li>
+<li>Entries must relate to the and be related in some way to the types of makers, creations, passions, and values found at Maker Faire.</li>
 <li>Entries must be the express work of the individual or team submitting (and their AI helpers!).</li>
 <li>Entries must use AI art tools as part of a larger creative process. While creative prompt generation can create amazing images, we are looking for more than simple prompt image generation.</li>
 <li>Any items entered into the competition may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
 <li>Exhibit submissions shall not infringe on any trademarks or copyrights.</li>
 <li>The art style shall not intentionally imitate the style of another artist. This includes, but is not limited to the use of an artists name (e.g. "in the style of") in an AI image generator prompt, or the specific training of an AI tool using a specific artist's work.</li>
-<li>Do use or place any logos in the artwork, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
+<li>Do note use or place any logos in the artwork, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
 <li>Do not base the artwork on any specific exhibit, exhibitor, or sponsor of Maker Faire Orlando.</li>
 <li>Submission text and video must be in English for judging.</li>
-<li>Judges are subject to change any any time without notice.</li>
+<li>Judges are subject to change at any time without notice.</li>
 <li>Decisions of the judges will be final.</li>
 <li>All entries will be displayed at a family-friendly event. Entries shall not contain nudity, gore, or adult subjects.</li>
 <li>If at the time of judging, there are less than 10 eligible entries, judging will not take place and prizes will not be awarded.</li>
@@ -158,7 +159,9 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Q: Can the video have narration or sound?<br> A: Yes, but please limit music (and no copyrighted music).</li><br>
 <li>Q: Can an image be submitted directly from an AI art engine?<br> A: We are not accepting simple prompt output. Please submit entries where you have used the AI art engine as part of a larger creative process.</li><br>
 <li>Q: Can entrants be present at the AI Art display as part of Maker Faire Orlando? <br>A: Maker Faire Orlando tickets will be provided for entrant + a guest to Maker Faire Orlando upon request.</li><br>
-<li>Q: I have question not answered here - how can I get an answer? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
+<li>Q: I have a question not answered here - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
 </ul>
 
+<h3>Sponsors</h3>
+If your company or organization would like to sponsor this contest or the AI Art exhibit at Maker Faire Orlando, please email us at makers@makerfaireorlando.com for sponsorship package information.
 </div></div></div></section>
