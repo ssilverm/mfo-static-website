@@ -55,10 +55,15 @@ All entries should use the types of makers, creations, passions, and values foun
 <li>A short video (1 to 3 minutes in length) showing the process of creating the submitted image. Video should be 1080p format provided with a link that allows downloading the video at full quality. See this <a href="https://www.reddit.com/r/StableDiffusion/comments/xrpzr3/textto3dtoimage_running_the_output_of_dreamfusion/">example video on Reddit</a> for inspiration, but this exact format is not required, be creative in telling your story.</li>
 </ul>
 
-<h3>Submission Link</h3>
+<h3>Submission Form</h3>
 Entries will only be accepted through the <a href="https://form.jotform.com/222823990371055">Submission Form </a> which will close automatically at the submission deadline.
 
 
+<div class="row padbottom padtop">
+    <div class="col-xs-12 padbottom padtop text-left">
+      <a class="btn btn-w-ghost" href="https://form.jotform.com/222823990371055">Enter Now!</a>
+    </div>
+  </div>
 
 
 
