@@ -81,7 +81,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
   <div class="row padbottom"><a href="http://www.anoukwipprecht.nl/">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-151-exhibit-havh3roes-cosplay-in-the-wonderlands-20220612-182957-medium.jpg);"></div>
+            <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
             <div class="maker-panel-text">
               <h4>Anouk Wipprecht</h4>
               <p class="hidden-xs">Dutch FashionTech Designer, Roboticist, Technologist, Innovator, Prototyper, Tinkerer, Educator (Girls+Tech), Creative Director</p>
@@ -90,7 +90,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
           </a><a href="https://make.co/">
             <div class="featured-maker col-xs-6 col-sm-3">
-              <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-medium.jpg);"></div>
+              <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
               <div class="maker-panel-text">
                 <h4>Dale Dougherty</h4>
                 <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
@@ -99,19 +99,19 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
         </a><a href="http://www.sculpturings.com/">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-74-exhibit-allison-chase-cosplay-apcl8153-medium.JPG);"></div>
+            <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
             <div class="maker-panel-text">
               <h4>Rebecca Rose</h4>
-              <p class="hidden-xs">When your character is bigger than you, sometimes you have to get creative about how to make them come to life!</p>
+              <p class="hidden-xs">Award winning sculptor, NFT hologram collage artist, and curator.</p>
             </div>
           </div>
 
-        </a><a href="https://www.orangecountyfl.net/CultureParks/ArtsCulture.aspx">
+        </a><a href="https://www.linkedin.com/in/terry-olson-3123051/">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/exhibit-images/22-156-exhibit-making-foam-props-and-armor-fb-img-1659701086773-medium.jpg);"></div>
+            <div class="maker-img" style="background-image: url(/assets/images/ai-art/terry-olson.jpg);"></div>
             <div class="maker-panel-text">
               <h4>Terry Olson</h4>
-              <p class="hidden-xs">Director of Orange County Arts & Cultural Affairs</p>
+              <p class="hidden-xs">“Chief Arts Instigator” with Orange County, FL since 2001, Terry oversees the  county's investment in Arts and Cultural orgs.</p>
             </div>
           </div>
         </a></div>
@@ -159,7 +159,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Q: Can the video have narration or sound?<br> A: Yes, but please limit music (and no copyrighted music).</li><br>
 <li>Q: Can an image be submitted directly from an AI art engine?<br> A: We are not accepting simple prompt output. Please submit entries where you have used the AI art engine as part of a larger creative process.</li><br>
 <li>Q: Can entrants be present at the AI Art display as part of Maker Faire Orlando? <br>A: Maker Faire Orlando tickets will be provided for entrant + a guest to Maker Faire Orlando upon request.</li><br>
-<li>Q: I have a question not answered here - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
+<li>Q: I have a question not answered here or feedback - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
 </ul>
 
 <h3>Sponsors</h3>
