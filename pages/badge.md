@@ -8,12 +8,12 @@ permalink: /badge/
 Thanks for scanning that handy QR code! Your reward is this handy info to help you have a great time at Maker Faire Orlando!
 
 ### Event Hours
-Maker Faire Orlando 2022 is open to attendees from 10am to 5pm on November 5th and 6th.<br>
-Maker Check-in and setup is from 10am to 8pm on Friday November 4th.<br>
-Maker Check-in resumes from 8am to 9am on Saturday, November 5th.<br>
-Gates open for makers at 9am on Sunday, November 6th.<br>
+Maker Faire Orlando 2022 is open to attendees from 10am to 5pm on November 5 and 6.<br>
+Maker Check-in and setup is from 10am to 8pm on Friday November 4.<br>
+Maker Check-in resumes from 8am to 9am on Saturday, November 5.<br>
+Gates open for makers at 9am on Sunday, November 6.<br>
 
-The Maker Faire Orlando & Robot Ruckus VIP party (separate ticket required) is from 6pm to 8pm on Saturday, November 5th.
+The Maker Faire Orlando & Robot Ruckus VIP party (separate ticket required) is from 6pm to 8pm on Saturday, November 5.
 
 ### Maker Manual
 The [Maker Manual](/maker-manual) contains helpful tips and info for exhibiting makers.

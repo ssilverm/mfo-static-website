@@ -23,7 +23,7 @@ carousel-slides:
 
 <h1>Maker Faire Orlando 2022 AI Art Contest</h1>
 
-<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community as new tools and techniques are being rapidly developed. We'd love to see what you are creating and how you use these tools, and to inspire the attendees of Maker Faire Orlando with your creations. To encourage this sharing of tools, techniques, and amazing art, we are hosting an AI Art Contest leading up to Maker Faire Orlando on November 5th & 6th. We hope you will enter, and share your work with our community and have fun making art!</p>
+<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community with the rapid development of new tools and techniques. We are hosting an AI Art Contest leading up to Maker Faire Orlando on November 5 & 6, to encourage you to share how you use these tools and techniques to create amazing, inspiring art!</p>
 
 </div>
 <div class="col-xs-12 text-left padbottom">
@@ -41,10 +41,10 @@ All entries should use the types of makers, creations, passions, and values foun
 
 <h3>Important Dates</h3>
 <ul>
-<li>Submission Entry Form Opening - Saturday, October 15th 5pm ET (No later than)</li>
-<li><b>Submission Deadline - Saturday, October 22th 11:59pm ET</b></li>
-<li>Winners Announced - Tuesday, November 1st (time TBD)</li>
-<li>Display of Eligible entries at Maker Faire Orlando - Saturday November 5th & Sunday November 6th</li>
+<li>Submission Form Opens - Saturday, October 15 5pm ET</li>
+<li><b>Submission Form Closes - Saturday, October 22 11:59pm ET</b></li>
+<li>Winners Announced - Tuesday, November 1 (time TBD)</li>
+<li>Display of Eligible entries at Maker Faire Orlando - Saturday November 5 & Sunday November 6</li>
 </ul>
 
 
