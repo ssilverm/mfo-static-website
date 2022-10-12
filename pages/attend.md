@@ -32,7 +32,7 @@ By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you
 {%endcomment%}
 ## Maker Faire Orlando {{site.event_year}} + Robot Ruckus Tournament
 
-Saturday, November 5th & Sunday, November 6th  10AM to 5PM Both Days
+Saturday, November 5 & Sunday, November 6  10AM to 5PM Both Days
 
 Central Florida Expo Center & Fairgrounds
 4603 W Colonial Dr, Orlando, FL 32808
