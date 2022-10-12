@@ -3,14 +3,14 @@ title: Maker Faire Orlando AI Art Contest
 permalink: /ai-art-contest/
 layout: full-width
 
-image: /assets/images/ai-art/ai-art-contest-banner-robots.jpg
+image: /assets/images/ai-art/ai-art-contest-banner-fb-min.jpg
 description: We are hosting an AI art contest leading up to Maker Faire Orlando 2022!
 
 carousel: true
 carousel-delay: 5000
-carousel-controls: true
+carousel-controls: false
 carousel-slides:
-  - image: /assets/images/ai-art/ai-art-contest-banner-robots.jpg  
+  - image: /assets/images/ai-art/ai-art-contest-banner-2-min.jpg  
     caption: AI Art Contest Banner
 
 
@@ -23,7 +23,7 @@ carousel-slides:
 
 <h1>Maker Faire Orlando 2022 AI Art Contest</h1>
 
-<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community with the rapid development of new tools and techniques. We are hosting an AI Art Contest leading up to Maker Faire Orlando on November 5 & 6, to encourage you to share how you use these tools and techniques to create amazing, inspiring art!</p>
+<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community with the rapid development of new tools and techniques! We are hosting an AI Art Contest leading up to Maker Faire Orlando on November 5 & 6, to encourage you to share how you use these tools and techniques to create amazing, inspiring art!</p>
 
 </div>
 <div class="col-xs-12 text-left padbottom">
@@ -157,6 +157,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Decisions of the judges will be final.</li>
 <li>All entries will be displayed at a family-friendly event. Entries shall not contain nudity, gore, or adult subjects.</li>
 <li>If at the time of judging, there are less than 10 eligible entries, judging will not take place and prizes will not be awarded.</li>
+<li>Contest entrants must be 18 years of age or older to accept the Participation agreement. A Team may contain a team member under the age of 18, however the entry must be submitted by someone from that team who is 18 years of age or older.</li>
 <li>The Maker Effect Foundation reserves the right to reject any entry not considered suitable for display or being in non-compliance with these rules and regulations.</li>
 
 
