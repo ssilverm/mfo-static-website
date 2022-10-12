@@ -3,6 +3,9 @@ title: Maker Faire Orlando AI Art Contest
 permalink: /ai-art-contest/
 layout: full-width
 
+image: /assets/images/ai-art/ai-art-contest-banner-robots.jpg
+description: We are hosting an AI art contest leading up to Maker Faire Orlando 2022!
+
 carousel: true
 carousel-delay: 5000
 carousel-controls: true
@@ -20,7 +23,7 @@ carousel-slides:
 
 <h1>Maker Faire Orlando 2022 AI Art Contest</h1>
 
-<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community as new tools and techniques are being rapidly developed. We'd love to see what you are creating and how you use these tools, and to inspire the attendees of Maker Faire Orlando with your creations. To encourage this sharing of tools, techniques, and amazing art, we are hosting an AI Art Competition leading up to Maker Faire Orlando on November 5th & 6th. We hope you will enter, and share your work with our community and have fun making art!</p>
+<p style="margin: 20px 30px 5px 30px">We are excited to see the work that has been happening in the AI Art community as new tools and techniques are being rapidly developed. We'd love to see what you are creating and how you use these tools, and to inspire the attendees of Maker Faire Orlando with your creations. To encourage this sharing of tools, techniques, and amazing art, we are hosting an AI Art Contest leading up to Maker Faire Orlando on November 5th & 6th. We hope you will enter, and share your work with our community and have fun making art!</p>
 
 </div>
 <div class="col-xs-12 text-left padbottom">
@@ -140,6 +143,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Limit three entries per person or team.</li>
 <li>An individual or team may only win ONE award in the overall competition (1st, 2nd, 3rd Place). Additional awards (Best Process Video) may be awarded to an overall winner.</li>
 <li>Entries must not have been previously entered in another competition.</li>
+<li>Each Entry should be a single image. If an entry contains multiple images, they will be evaluated as a single artistic work.</li>
 <li>Entries must relate to the and be related in some way to the types of makers, creations, passions, and values found at Maker Faire.</li>
 <li>Entries must be the express work of the individual or team submitting (and their AI helpers!).</li>
 <li>Entries must use AI art tools as part of a larger creative process. While creative prompt generation can create amazing images, we are looking for more than simple prompt image generation.</li>
