@@ -41,10 +41,9 @@ All entries should use the types of makers, creations, passions, and values foun
 
 <h3>Important Dates</h3>
 <ul>
-<li>Submission Form Opens - Saturday, October 15 5pm ET</li>
 <li><b>Submission Form Closes - Saturday, October 22 11:59pm ET</b></li>
 <li>Winners Announced - Tuesday, November 1 (time TBD)</li>
-<li>Display of Eligible entries at Maker Faire Orlando - Saturday November 5 & Sunday November 6</li>
+<li>Display of Eligible entries at Maker Faire Orlando - Saturday, November 5 & Sunday, November 6</li>
 </ul>
 
 
@@ -64,7 +63,9 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 <div class="row padbottom padtop">
     <div class="col-xs-12 padbottom padtop text-left">
+    Please ensure you have read all rules and requirements at the bottom of this page before entering.<br><br>
       <a class="btn btn-w-ghost" href="https://form.jotform.com/222823990371055">Enter Now!</a>
+
     </div>
   </div>
 
