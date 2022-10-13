@@ -41,9 +41,10 @@ All entries should use the types of makers, creations, passions, and values foun
 
 <h3>Important Dates</h3>
 <ul>
+<li>Submission Form Opens - Saturday, October 15 5pm ET</li>
 <li><b>Submission Form Closes - Saturday, October 22 11:59pm ET</b></li>
 <li>Winners Announced - Tuesday, November 1 (time TBD)</li>
-<li>Display of Eligible entries at Maker Faire Orlando - Saturday, November 5 & Sunday, November 6</li>
+<li>Display of Eligible entries at Maker Faire Orlando - Saturday, November 5 & Sunday, November 6 <BR><b>Artist does not need to be present at Maker Faire Orlando to enter the contest.</b></li>
 </ul>
 
 
@@ -169,7 +170,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Q: Do I need to exhibit at Maker Faire Orlando to enter this competition?<br> A: This competition is open to any participant, there is no requirement to be in Orlando, or to attend the event, however if you would like to exhibit your AI Art at Maker Faire Orlando, please email us at makers@makerfaireorlando.com as soon as possible.</li><br>
 <li>Q: Can the video have narration or sound?<br> A: Yes, but please limit music (and no copyrighted music).</li><br>
 <li>Q: Can an image be submitted directly from an AI art engine?<br> A: We are not accepting simple prompt output. Please submit entries where you have used the AI art engine as part of a larger creative process.</li><br>
-<li>Q: Can entrants be present at the AI Art display as part of Maker Faire Orlando? <br>A: Maker Faire Orlando tickets will be provided for entrant + a guest to Maker Faire Orlando upon request.</li><br>
+<li>Q: Can entrants be present at the AI Art display as part of Maker Faire Orlando? <br>A: Maker Faire Orlando tickets will be provided for entrant + a guest to Maker Faire Orlando upon request. <br> In-person participation at Maker Faire Orlando is not required to enter the contest.</li><br>
 <li>Q: I have a question not answered here or feedback - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
 </ul>
 
