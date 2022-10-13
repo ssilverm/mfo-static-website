@@ -89,7 +89,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
   <div class="row padbottom"><a href="http://www.anoukwipprecht.nl/">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
+            <div class="maker-img" style="background-image: url(/assets/images/ai-art/anouk.jpg);"></div>
             <div class="maker-panel-text">
               <h4>Anouk Wipprecht</h4>
               <p class="hidden-xs">Dutch FashionTech Designer, Roboticist, Technologist, Innovator, Prototyper, Tinkerer, Educator (Girls+Tech), Creative Director</p>
@@ -98,7 +98,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
           </a><a href="https://make.co/">
             <div class="featured-maker col-xs-6 col-sm-3">
-              <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
+              <div class="maker-img" style="background-image: url(/assets/images/ai-art/dale.jpg);"></div>
               <div class="maker-panel-text">
                 <h4>Dale Dougherty</h4>
                 <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
@@ -107,7 +107,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
         </a><a href="http://www.sculpturings.com/">
           <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/image-coming-soon-placeholder.png);"></div>
+            <div class="maker-img" style="background-image: url(/assets/images/ai-art/rebecca-rose.jpg);"></div>
             <div class="maker-panel-text">
               <h4>Rebecca Rose</h4>
               <p class="hidden-xs">Award winning sculptor, NFT hologram collage artist, and curator.</p>
