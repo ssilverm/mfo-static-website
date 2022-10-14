@@ -81,7 +81,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 
 <div class="col-xs-12 text-left padbottom">
 
-<h3>Competition Rules</h3>
+<h3>Contest Rules</h3>
 
 <ol>
 <li>Limit three entries per person. If more than three entries are received, only the first three will be considered eligible entries.</li>
@@ -93,7 +93,6 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 <li>Any items entered into the competition may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
 <li>Exhibit submissions shall not infringe on any trademarks or copyrights.</li>
 <li>Do not use or place any logos on the photos, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
-<li>Photos taken by Maker Faire Orlando photographers are not eligible.</li>
 <li>Do not add any text, stickers, or graphics on the photos.</li>
 <li>Do not submit memes.</li>
 <li>Submission text and must be in English for judging.</li>
@@ -101,6 +100,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 <li>Decisions of the judges will be final.</li>
 <li>If at the time of judging, there are less than 25 eligible entries, judging will not take place and prizes will not be awarded.</li>
 <li>Contest entrants must be 18 years of age or older to accept the Participation agreement.</li>
+<li>Maker Faire Sponsors are not eligible to participate.</li>
 <li>The Maker Effect Foundation reserves the right to reject any entry not in compliance with these rules and regulations.</li>
 
 
@@ -109,7 +109,9 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 
 <h3>Competition FAQs</h3>
 <ul>
-<li>Q: I have a question not answered here or feedback - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
+<li>Q: Can Maker Faire Exhibitors participate in this contest? <BR>A: Absolutely, but the photo must be of you, your, exhibit or your exhibit helpers, not of Maker Faire attendees at your exhibit.</li><br>
+
+<li>Q: I have a question not answered here or feedback - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include PHOTO CONTEST in the subject line.</li>
 </ul>
 
 </div></div></div></section>

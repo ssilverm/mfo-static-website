@@ -138,12 +138,12 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 <div class="col-xs-12 text-left padbottom">
 
-<h3>Competition Rules</h3>
+<h3>Contest Rules</h3>
 
 <ol>
 <li>Limit three entries per person or team. If more than three entries are received, only the first three will be considered eligible entries.</li>
-<li>An individual or team may only win ONE award in the overall competition (1st, 2nd, 3rd Place). Additional awards (Best Process Video) may be awarded to an overall winner.</li>
-<li>Entries must not have been previously entered in another competition.</li>
+<li>An individual or team may only win ONE award in the overall contest (1st, 2nd, 3rd Place). Additional awards (Best Process Video) may be awarded to an overall winner.</li>
+<li>Entries must not have been previously entered in another contest or competition.</li>
 <li>Each Entry should be a single image. If an entry contains multiple images, they will be evaluated as a single artistic work.</li>
 <li>Entries must relate to the and be related in some way to the types of makers, creations, passions, and values found at Maker Faire.</li>
 <li>Entries must be the express work of the individual or team submitting (and their AI helpers!).</li>
@@ -164,9 +164,9 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 </ol>
 
-<h3>Competition FAQs</h3>
+<h3>Contest FAQs</h3>
 <ul>
-<li>Q: Do I need to exhibit at Maker Faire Orlando to enter this competition?<br> A: This competition is open to any participant, there is no requirement to be in Orlando, or to attend the event, however if you would like to exhibit your AI Art at Maker Faire Orlando, please email us at makers@makerfaireorlando.com as soon as possible.</li><br>
+<li>Q: Do I need to exhibit at Maker Faire Orlando to enter this contest?<br> A: This contest is open to any participant, there is no requirement to be in Orlando, or to attend the event, however if you would like to exhibit your AI Art at Maker Faire Orlando, please email us at makers@makerfaireorlando.com as soon as possible.</li><br>
 <li>Q: Can the video have narration or sound?<br> A: Yes, but please limit music (and no copyrighted music).</li><br>
 <li>Q: Can an image be submitted directly from an AI art engine?<br> A: We are not accepting simple prompt output. Please submit entries where you have used the AI art engine as part of a larger creative process.</li><br>
 <li>Q: Can entrants be present at the AI Art display as part of Maker Faire Orlando? <br>A: Maker Faire Orlando tickets will be provided for entrant + a guest to Maker Faire Orlando upon request. <br> In-person participation at Maker Faire Orlando is not required to enter the contest.</li><br>
