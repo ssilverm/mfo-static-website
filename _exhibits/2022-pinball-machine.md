@@ -5,6 +5,7 @@ title: "Pinball Machine"
 slug: pinball-machine
 permalink: /exhibits/pinball-machine/
 exhibit-id: 22-160
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "This pinball machine is fully operational and it will be ready to provide hours of entertainment. "
 description-long: "The pinball machine in which a ball careens around the machine&#039;s interior, hitting various lights, bumpers, ramps, and other targets was made  inhouse at Boca Bearings. https://www.bocabearings.com/blogs/instructables-pinball-machine"
@@ -42,8 +43,8 @@ categories:
   - slug: maker-community
     name: Maker Community
 created-jotform: "2022-09-28 12:52:37"
-last-modified-jotform: "2022-10-01 16:51:42"
-last-exported: "2022-10-01 16:52:10"
+last-modified-jotform: "2022-10-09 14:16:35"
+last-exported: "2022-10-13 22:05:45"
 sitemap: false
 
 ---

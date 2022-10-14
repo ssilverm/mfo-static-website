@@ -5,6 +5,7 @@ title: "Animate it"
 slug: animate-it
 permalink: /exhibits/animate-it/
 exhibit-id: 22-61
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Animated creatures like dragons created using 3d printed parts, microprocrocessors and crafted body."
 description-long: "The animated dragons have flapping wings, open roaring mouths, glowing eyes, moving claws and swinging tails with motion activation.  The animated dogs and cats open their mouths with sound and having wagging tails and tapping claws. The animated alligators open their mouths with sound and having swinging tails.
@@ -41,8 +42,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-13 15:06:02"
-last-modified-jotform: "2022-08-21 08:50:24"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-11 22:45:41"
+last-exported: "2022-10-13 22:06:03"
 sitemap: false
 
 ---

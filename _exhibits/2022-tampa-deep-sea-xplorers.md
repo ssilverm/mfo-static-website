@@ -5,6 +5,7 @@ title: "Tampa Deep Sea Xplorers"
 slug: tampa-deep-sea-xplorers
 permalink: /exhibits/tampa-deep-sea-xplorers/
 exhibit-id: 22-63
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Makers of Autonomous Underwater Vehicles located in Tampa Florida"
 description-long: "Tampa Deep Sea Xplorers INC (TDSX) is a manufacturer of Unmanned Underwater Vehicles (UUV). Based in Tampa Florida, we are passionate about underwater exploration and discovery. Our products are designed to enhance data collection in the deep ocean to depths up to 4000 meters. Our intention is to provide deep sea vehicles that are robust enough to reach great depths at a price point that is affordable for individuals and small institutions. 
@@ -76,8 +77,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-13 16:31:58"
-last-modified-jotform: "2022-09-03 13:27:23"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:19:25"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

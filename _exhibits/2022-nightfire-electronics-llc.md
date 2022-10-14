@@ -5,6 +5,7 @@ title: "NightFire Electronics LLC"
 slug: nightfire-electronics-llc
 permalink: /exhibits/nightfire-electronics-llc/
 exhibit-id: 22-15
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "We supply tons of electronic hobby kits, maker crafts and electronic steampunk crafts and supplies."
 description-long: "We are a family owned & run small business in Ocala Fl providing electronic hobby kits from guitar amplifiers to LED Chasers to UFO Landing lights. We also provide 3D printed original designs and epoxy resin designs. We offer unique electronic jewelry and supplies. Visit our store in Ocala, FL"
@@ -37,8 +38,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2022-07-24 14:32:57"
-last-modified-jotform: "2022-08-22 17:37:45"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 12:35:22"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

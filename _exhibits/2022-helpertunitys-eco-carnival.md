@@ -5,6 +5,7 @@ title: "Helpertunity's Eco-Carnival"
 slug: helpertunitys-eco-carnival
 permalink: /exhibits/helpertunitys-eco-carnival/
 exhibit-id: 22-106
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Join in & support Helpertunity&#039;s charitable programs by donating to take part in our fun & games!"
 description-long: "At Maker Faire, you can join in and support Helpertunity&#039;s charitable programs by donating /subscribing to sponsor the charity&#039;s unique community efforts; and take part in their fun and games!   Enjoy Helpertunity&#039;s spin-and-win wheel / plush-rescue-pet adoption -or- try your hand at our unique Pond-Pong game!  You might also enjoy taking part in Helpertunity&#039;s Bottle-Bricking & Bot-Ball interactive art & remote-controlled toy-sports-league fun. It is our newest activity – and it helps the planet by repurposing single-use plastics to make our creative Bot-Ball obstacle courses and gameplay arenas!
@@ -46,8 +47,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-08-29 14:44:28"
-last-modified-jotform: "2022-09-11 14:29:38"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-09 14:19:43"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

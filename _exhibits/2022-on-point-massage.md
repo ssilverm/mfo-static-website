@@ -5,6 +5,7 @@ title: "On Point Massage"
 slug: on-point-massage
 permalink: /exhibits/on-point-massage/
 exhibit-id: 22-129
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "We will be providing chair massages for $1 per minute, as well as having a prize wheel for makers."
 description-long: "We will be providing chair massages for $1 per minute. For younger makers, we will have a prize wheel to spin. We will also be giving away two 1-hour massages each day. These sessions will be done at our office in Winter Park. "
@@ -32,8 +33,8 @@ categories:
   - slug: education
     name: Education
 created-jotform: "2022-09-02 14:44:51"
-last-modified-jotform: "2022-09-10 09:47:18"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:34:41"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

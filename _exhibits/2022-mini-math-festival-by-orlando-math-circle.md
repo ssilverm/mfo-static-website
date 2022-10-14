@@ -5,6 +5,7 @@ title: "Mini Math Festival by Orlando Math Circle"
 slug: mini-math-festival-by-orlando-math-circle
 permalink: /exhibits/mini-math-festival-by-orlando-math-circle/
 exhibit-id: 22-79
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Make beautiful geometric structures and solve puzzles with Orlando Math Circle facilitators."
 description-long: "Join us for a day of infinite possibilities to play with math through puzzles, games and hands-on math art. Math festival is an event at which children and adults play with mathematics. There are numerous tables set up, each with a facilitator and a problem set, game, puzzle, or activity. Participants play and explore individually or in groups, share insights, and make discoveries."
@@ -91,8 +92,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-18 10:07:14"
-last-modified-jotform: "2022-09-21 10:18:22"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:23:40"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

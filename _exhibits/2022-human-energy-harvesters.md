@@ -5,6 +5,7 @@ title: "Human Energy Harvesters"
 slug: human-energy-harvesters
 permalink: /exhibits/human-energy-harvesters/
 exhibit-id: 22-97
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "A Recumbent Bicycle and Capstan HEH will allow 10 Users to create 120vdc and light 56 or more bulbs."
 description-long: "A recumbent Bicycle HEH will enable a single User to exercise arms and legs while making DC electricity, as evidenced by the illumination of 6 bulbs. A wattmeter will display the energy created digitally, in real time.
@@ -30,8 +31,8 @@ categories:
   - slug: invention
     name: Invention
 created-jotform: "2022-08-26 11:15:36"
-last-modified-jotform: "2022-10-01 18:01:04"
-last-exported: "2022-10-01 18:01:18"
+last-modified-jotform: "2022-10-09 13:35:14"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

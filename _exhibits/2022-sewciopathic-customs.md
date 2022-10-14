@@ -5,6 +5,7 @@ title: "SEWCIOPATHIC CUSTOMS"
 slug: sewciopathic-customs
 permalink: /exhibits/sewciopathic-customs/
 exhibit-id: 22-24
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Handcrafted handbags, created from start to finish at the event. "
 description-long: "I create handbags, purses, accessories, and blankets at my table. I travel with my sewing machine and an array of tools to demonstrate the process."
@@ -24,8 +25,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-07-26 10:07:47"
-last-modified-jotform: "2022-08-22 17:38:41"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-11 22:47:07"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

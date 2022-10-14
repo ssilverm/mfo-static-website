@@ -5,6 +5,7 @@ title: "Ham Radio and Short Wave Listener for Beginners"
 slug: ham-radio-and-short-wave-listener-for-beginners
 permalink: /exhibits/ham-radio-and-short-wave-listener-for-beginners/
 exhibit-id: 22-117
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "This Ham radio & electronics exhibit is an introduction to the whole exciting field of electronics."
 description-long: "Ham radio and electronics of all sorts, is a great hobby, and for many a wonderful career choice.
@@ -41,8 +42,8 @@ categories:
   - slug: manufacturing
     name: Manufacturing
 created-jotform: "2022-08-31 17:58:41"
-last-modified-jotform: "2022-09-12 07:16:19"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-11 22:44:19"
+last-exported: "2022-10-13 22:06:00"
 sitemap: false
 
 ---

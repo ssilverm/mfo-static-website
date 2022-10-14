@@ -5,6 +5,7 @@ title: "Knot Square, Inc."
 slug: knot-square-inc
 permalink: /exhibits/knot-square-inc/
 exhibit-id: 22-37
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Hand crochetted and handmade wooden items for gifts and personal use."
 description-long: "Items hand turned on lathe (bowls, vases, mojita sticks, talking heads). Hand made boxes, tables, game tables. 
@@ -38,8 +39,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-02 20:21:17"
-last-modified-jotform: "2022-08-22 17:39:10"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 14:31:05"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

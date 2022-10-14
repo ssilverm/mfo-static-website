@@ -5,6 +5,7 @@ title: "Shananigans"
 slug: shananigans
 permalink: /exhibits/shananigans/
 exhibit-id: 22-30
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Jump into your dreams; these watercolors allow you to experience snippets of other worlds."
 description-long: "This exhibit is about color, linework, and characters, and how we experience them. Much of the work has been brought to life directly from the dreams of the artist whether that be an actual vision or just a feeling. These small vignettes include characters that are brought to life in an effort to make the viewer feel something they may have forgotten or a dream not quite within reach. Colors that evoke confidence, strong lines, and the movement of watercolor play together to tell a sometimes spooky story. "
@@ -82,8 +83,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-07-29 14:20:32"
-last-modified-jotform: "2022-10-01 17:06:04"
-last-exported: "2022-10-01 17:09:30"
+last-modified-jotform: "2022-10-11 22:43:18"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

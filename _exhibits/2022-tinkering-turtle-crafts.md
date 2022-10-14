@@ -5,6 +5,7 @@ title: "Tinkering Turtle Crafts"
 slug: tinkering-turtle-crafts
 permalink: /exhibits/tinkering-turtle-crafts/
 exhibit-id: 22-31
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Sparkle and shine crafts of all kinds. We tinker with resin, rhinestones and glitter."
 description-long: "We like to tinker will all types of mediums and make a variety of crafts for all ages. Pens, keychains, ornaments, jars, wall hangings and more. "
@@ -45,8 +46,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-07-31 15:03:24"
-last-modified-jotform: "2022-09-26 18:06:47"
-last-exported: "2022-09-28 09:07:20"
+last-modified-jotform: "2022-10-09 14:21:57"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

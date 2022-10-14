@@ -5,6 +5,7 @@ title: "Skull Useless Machine"
 slug: skull-useless-machine
 permalink: /exhibits/skull-useless-machine/
 exhibit-id: 22-43
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "A skull themed useless machine"
 description-long: "Made by a member of MakerFX Makerspace, this is a fairly complicated useless machine with a theme of a skull that gets increasingly upset every time you push the button!"
@@ -36,8 +37,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-05 11:18:38"
-last-modified-jotform: "2022-09-12 07:18:43"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 13:52:26"
+last-exported: "2022-10-13 22:06:04"
 sitemap: false
 
 ---

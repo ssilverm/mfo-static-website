@@ -5,6 +5,7 @@ title: "BrightBikes BoomBike"
 slug: brightbikes-boombike
 permalink: /exhibits/brightbikes-boombike/
 exhibit-id: 22-44
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "A giant, functional 80&#039;s style boombox. That is also a bike!"
 description-long: "We took a standard bicycle, modified it, and mounted a giant, functional 80&#039;s style boombox to the front. The BoomBike features a 900 watt sound system, and more than 16,000 LEDS!"
@@ -48,8 +49,8 @@ categories:
   - slug: metalworking
     name: Metalworking
 created-jotform: "2022-08-05 13:56:47"
-last-modified-jotform: "2022-09-12 07:18:46"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 13:37:44"
+last-exported: "2022-10-13 22:06:04"
 sitemap: false
 
 ---

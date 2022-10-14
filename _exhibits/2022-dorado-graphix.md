@@ -5,6 +5,7 @@ title: "Dorado Graphix"
 slug: dorado-graphix
 permalink: /exhibits/dorado-graphix/
 exhibit-id: 22-149
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Use scan and print technologies to develop, enhance or build projects."
 description-long: "Scans and wide format printing allow for design, prototyping, visualization, creation, enhancing and building of concepts, projects and final products."
@@ -31,8 +32,8 @@ categories:
   - slug: photography
     name: Photography
 created-jotform: "2022-09-20 17:50:59"
-last-modified-jotform: "2022-09-21 07:32:35"
-last-exported: "2022-09-22 09:29:57"
+last-modified-jotform: "2022-10-09 12:34:10"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

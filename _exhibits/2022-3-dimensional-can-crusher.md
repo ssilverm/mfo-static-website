@@ -5,6 +5,7 @@ title: "3 Dimensional Can Crusher"
 slug: 3-dimensional-can-crusher
 permalink: /exhibits/3-dimensional-can-crusher/
 exhibit-id: 22-42
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "A machine that crushes soda cans into a 1 1/4 cube!"
 description-long: "Come check out the MakerFX Makerspace booth and crush your own souvenir can."
@@ -43,8 +44,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-05 11:11:23"
-last-modified-jotform: "2022-09-12 07:18:49"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 13:52:20"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

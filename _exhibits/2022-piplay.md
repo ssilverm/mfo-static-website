@@ -5,6 +5,7 @@ title: "PiPlay"
 slug: piplay
 permalink: /exhibits/piplay/
 exhibit-id: 22-11
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "Welcome to PiPlay!
 
@@ -41,8 +42,8 @@ categories:
   - slug: raspberry-pi
     name: Raspberry Pi
 created-jotform: "2022-07-24 13:04:11"
-last-modified-jotform: "2022-09-12 07:19:03"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 13:41:55"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

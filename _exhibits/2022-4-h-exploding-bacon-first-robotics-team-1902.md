@@ -5,6 +5,7 @@ title: "4-H Exploding Bacon FIRST Robotics Team 1902"
 slug: 4-h-exploding-bacon-first-robotics-team-1902
 permalink: /exhibits/4-h-exploding-bacon-first-robotics-team-1902/
 exhibit-id: 22-126
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "Nerdy Derby and Robot demo as a part of FIRST Robotics"
 description-long: "We will be running the Nerdy Derby. We will have new car supplies so that attendees can make, race, and keep their cars. 
@@ -34,7 +35,7 @@ additional-images:
     full: /assets/images/exhibit-images/22-126-exhibit-addl3-4-h-exploding-bacon-first-robotics-team-1902-img-4733-full.jpg
 website: "https://explodingbacon.com/"
 video: "https://www.youtube.com/watch?v=SwSMUPLeQLE"
-video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/SwSMUPLeQLE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Exploding Bacon 1902 - 2019 Chairmans Video"></iframe>'
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/SwSMUPLeQLE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Exploding Bacon 1902 - 2019 Chairman&#39;s Video"></iframe>'
 maker: 
   name: "4-H Exploding Bacon FIRST Robotics Team 1902"
   description: "Exploding Bacon Robotics Team 1902, is a Central Florida 4-H club for High School aged students that builds 125 lb robots to compete in the FIRST Robotics Competition. Our students learn engineering, computer programming, and hands-on machinery skills, as well as the problem solving, strategic thinking, time management, public speaking, teamwork and leadership skills essential in any career. The goal is to inspire and support these youth members to continue on to higher education in trade schools and STEM programs in college."
@@ -56,8 +57,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-31 22:36:05"
-last-modified-jotform: "2022-09-11 14:28:43"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:57:44"
+last-exported: "2022-10-13 22:05:59"
 sitemap: false
 
 ---

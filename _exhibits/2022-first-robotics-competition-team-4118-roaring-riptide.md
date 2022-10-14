@@ -5,6 +5,7 @@ title: "FIRST Robotics Competition Team 4118: Roaring Riptide"
 slug: first-robotics-competition-team-4118-roaring-riptide
 permalink: /exhibits/first-robotics-competition-team-4118-roaring-riptide/
 exhibit-id: 22-103
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "Students on Roaring Riptide hope to share their robot & assistive technology work with attendees."
 description-long: "Inventor Dean Kamen founded FIRST (For Inspiration and Recognition of Science and Technology) in 1989. FIRST is about inspiring innovation, igniting curiosity, and creating pathways for students in the STEM (Science, Technology, Engineering, and Math) fields. Each January, teams from around the world are tasked with a challenge during a Season Kickoff Event. During the build season (following kickoff) teams work through the design process, with the ultimate goal of building a successful competition robot.  In the months of March and April, teams compete at district, regional, and world competitions.
@@ -33,8 +34,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-28 15:58:31"
-last-modified-jotform: "2022-09-12 07:18:30"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-09 13:54:22"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Uplift Robotics"
 slug: uplift-robotics
 permalink: /exhibits/uplift-robotics/
 exhibit-id: 22-35
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "We have made an interactive robot that shoots balls into a basket/hoop for attendees to control. "
 description-long: "At our exhibit, we will have a robot that attendees will be able to drive around and even collect and shoot balls into a basket. We have fully developed and built this robot on our own and therefore are able to walk people through the process and answer any questions they have. We will also be bringing STEM educational materials to our exhibit in hopes to spread STEM to many others and encourage people to check out and maybe even join robotics. "
@@ -42,8 +43,8 @@ categories:
   - slug: first-robotics
     name: FIRST Robotics
 created-jotform: "2022-08-01 19:24:10"
-last-modified-jotform: "2022-09-12 07:16:30"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 13:58:27"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

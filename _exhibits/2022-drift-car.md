@@ -5,6 +5,7 @@ title: "Drift Car"
 slug: drift-car
 permalink: /exhibits/drift-car/
 exhibit-id: 22-145
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "1996 Nissan 240SX S14 LS Swap Drift Car on Nitrous"
 description-long: "1996 Nissan 240SX S14 LS Swap Drift Car on Nitrous.  Car and Driver Competes in Florida Pro-Amateur Series US Drift Circuit and Klutch Kickers"
@@ -44,8 +45,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-09-17 11:55:00"
-last-modified-jotform: "2022-09-17 14:25:08"
-last-exported: "2022-09-22 09:29:57"
+last-modified-jotform: "2022-10-09 13:52:12"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

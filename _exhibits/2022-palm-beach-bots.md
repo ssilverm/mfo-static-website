@@ -5,6 +5,7 @@ title: "Palm Beach Bots"
 slug: palm-beach-bots
 permalink: /exhibits/palm-beach-bots/
 exhibit-id: 22-159
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "Fighting Robots are AWESOME.  Swing by to see all the fun stuff and maybe even build your own!!"
 description-long: "Fighting Robots are AWESOME.  Swing by to see all the fun stuff and maybe build your own!!"
@@ -62,8 +63,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-09-26 21:13:00"
-last-modified-jotform: "2022-09-28 08:43:46"
-last-exported: "2022-09-28 09:06:59"
+last-modified-jotform: "2022-10-09 13:54:04"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

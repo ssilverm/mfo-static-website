@@ -5,6 +5,7 @@ title: "Urban Sketchers Orlando"
 slug: urban-sketchers-orlando
 permalink: /exhibits/urban-sketchers-orlando/
 exhibit-id: 22-88
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Urban Sketchers Orlando, one of more than 300 local global chapters of the Urban Sketcher Movement."
 description-long: "Sketchers from Urban Sketchers Orlando, one of the 300+ local chapters of the world-wide Urban Sketchers movement, will be capturing the sights and activities of Maker Faire Orlando in drawings and paintings made live and on-site.
@@ -34,8 +35,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2022-08-23 20:48:41"
-last-modified-jotform: "2022-09-12 07:17:07"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:36:40"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

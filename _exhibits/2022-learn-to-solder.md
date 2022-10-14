@@ -5,6 +5,7 @@ title: "Learn to Solder"
 slug: learn-to-solder
 permalink: /exhibits/learn-to-solder/
 exhibit-id: 22-38
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Learn how to solder!"
 description-long: "At this exhibit, you can learn to solder by soldering your own commemorative  MakerFaire Orlando LED pin. Note: There is an additional charge for this activity. Part of the proceeds from this activity will benefit the FIRST Robotics club that is running the exhibit."
@@ -48,8 +49,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-08-03 13:54:19"
-last-modified-jotform: "2022-09-11 14:29:01"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 12:35:31"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

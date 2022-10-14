@@ -5,6 +5,7 @@ title: "DANTROIDE"
 slug: dantroide
 permalink: /exhibits/dantroide/
 exhibit-id: 22-104
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Dantroide is a robot that simulates human movements and recites triplets from the Divine Comedy."
 description-long: "The Dantroide project was born from the idea of ​​celebrating the great poet on the occasion of the 700th anniversary of his death in a modern key, by combining, in a transversal way, skills from different disciplinary areas. It is a robot with a Dantesque appearance that simulates human movements, introduces itself, recites selected triplets from the Divine Comedy and illustrates a selection of words from the lexicon used by the poet, contextualizing their meaning. The study of Dante&#039;s words was carried out by the students with the guidance of the Accademia della Crusca of Florence*, partner of the project, which participated in the educational event at the end of the school year, expressing great satisfaction for the work done. The project stands out for its peculiarity in the linguistic-literary, electronic and computer fields.
@@ -34,8 +35,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-29 04:15:59"
-last-modified-jotform: "2022-09-17 07:59:26"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-11 22:45:01"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

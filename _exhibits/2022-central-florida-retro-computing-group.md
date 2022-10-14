@@ -5,6 +5,7 @@ title: "Central Florida Retro Computing Group"
 slug: central-florida-retro-computing-group
 permalink: /exhibits/central-florida-retro-computing-group/
 exhibit-id: 22-153
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "A group of retro-computing enthusiasts in Central Florida."
 description-long: "If you&#039;re an enthusiast of keeping older computers from the 80-90&#039;s or older alive, or just want to reminisce about computing back in those fun days, this is the group to be part of.  We&#039;re a casual no-fee club who meet casually to hang out and chat about and restore retro computers.
@@ -35,8 +36,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-09-21 10:18:34"
-last-modified-jotform: "2022-09-21 10:29:21"
-last-exported: "2022-09-22 09:29:57"
+last-modified-jotform: "2022-10-09 15:13:21"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

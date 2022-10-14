@@ -5,6 +5,7 @@ title: "Miss Taurus Cosplay"
 slug: miss-taurus-cosplay
 permalink: /exhibits/miss-taurus-cosplay/
 exhibit-id: 22-155
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "I make cosplays and jewelry."
 description-long: "I would like to show my work to everyone and help them answer their questions!"
@@ -51,8 +52,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-09-22 22:59:32"
-last-modified-jotform: "2022-10-08 14:45:48"
-last-exported: "2022-10-08 14:46:29"
+last-modified-jotform: "2022-10-09 13:48:17"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

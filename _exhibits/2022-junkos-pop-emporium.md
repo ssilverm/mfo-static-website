@@ -5,6 +5,7 @@ title: "Junko's Pop Emporium"
 slug: junkos-pop-emporium
 permalink: /exhibits/junkos-pop-emporium/
 exhibit-id: 22-54
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Hand made 3D origami"
 description-long: "Hand made collectables 3D origami dragon "
@@ -25,8 +26,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-12 13:00:51"
-last-modified-jotform: "2022-08-22 17:39:16"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 13:52:38"
+last-exported: "2022-10-13 22:06:04"
 sitemap: false
 
 ---

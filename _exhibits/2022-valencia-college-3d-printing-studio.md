@@ -5,6 +5,7 @@ title: "Valencia College 3D Printing Studio"
 slug: valencia-college-3d-printing-studio
 permalink: /exhibits/valencia-college-3d-printing-studio/
 exhibit-id: 22-78
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "The Valencia College 3D Printing Studio is part of the Built Environment Program at the West Campus"
 description-long: "The Valencia College 3D Printing Studio is part of the Built Environment Program at the West Campus in Orlando, Florida. We are celebrating The  Built Environment Program&#039;s 50th year anniversary this year. We want to share our success with the public and bring student projects from the past few years that we have had the 3D Printing Studio in our program. Students will be attending to talk about their 3D printed projects and to pass out 3d printed swag to the guests. We hope you will join us and attempt at playing our 3D printed electric violins and have a good time discussing this great technology. "
@@ -63,8 +64,8 @@ categories:
   - slug: education
     name: Education
 created-jotform: "2022-08-17 18:26:12"
-last-modified-jotform: "2022-08-21 08:35:31"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:31:38"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

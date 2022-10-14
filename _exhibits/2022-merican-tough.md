@@ -5,6 +5,7 @@ title: "Merican Tough"
 slug: merican-tough
 permalink: /exhibits/merican-tough/
 exhibit-id: 22-29
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Folks race Mario karts against each other."
 description-long: "A combination of Nintendo&#039;s tech with portable transportation.
@@ -40,8 +41,8 @@ categories:
   - slug: lego
     name: LEGO
 created-jotform: "2022-07-29 11:35:58"
-last-modified-jotform: "2022-09-12 07:18:34"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 13:34:32"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

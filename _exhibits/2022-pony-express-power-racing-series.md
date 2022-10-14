@@ -5,6 +5,7 @@ title: "Pony Express - Power Racing Series"
 slug: pony-express-power-racing-series
 permalink: /exhibits/pony-express-power-racing-series/
 exhibit-id: 22-119
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Power Racing entry, Team Lazy Gecko"
 description-long: "In its third season of competing in the Power Racing Series, 2021 Season Champion Dr. Quinn is back as the Pony Express. 
@@ -78,8 +79,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-08-31 18:59:29"
-last-modified-jotform: "2022-09-02 14:12:26"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-09 13:51:14"
+last-exported: "2022-10-13 22:06:00"
 sitemap: false
 
 ---

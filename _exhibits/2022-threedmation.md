@@ -5,6 +5,7 @@ title: "ThreeDMation"
 slug: threedmation
 permalink: /exhibits/threedmation/
 exhibit-id: 22-131
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "ThreeDMation"
 description-long: "ThreeDMation"
@@ -28,8 +29,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2022-09-06 08:14:09"
-last-modified-jotform: "2022-09-18 19:05:26"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 14:20:36"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Lazy GT - Power Racing Series"
 slug: lazy-gt-power-racing-series
 permalink: /exhibits/lazy-gt-power-racing-series/
 exhibit-id: 22-118
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Power Racing entry, Team Lazy Gecko"
 description-long: "In its fourth season of competing in the Power Racing Series, Lazy GT is a 48v Dual Motor Electric Go Kart. Member of Team Lazy Gecko."
@@ -56,8 +57,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-08-31 18:47:17"
-last-modified-jotform: "2022-09-12 07:19:01"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-09 13:51:17"
+last-exported: "2022-10-13 22:06:00"
 sitemap: false
 
 ---

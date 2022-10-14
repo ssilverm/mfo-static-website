@@ -5,6 +5,7 @@ title: "Skycraft"
 slug: skycraft
 permalink: /exhibits/skycraft/
 exhibit-id: 22-152
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Electronic surplus retail store. A tinker&#039;s / Maker&#039;s candy store."
 description-long: "We feature electronic parts, electrical supplies, hardware, wire and cable, test equipment, and thousands of hard to find items. Skycraft is an ideal place for the maker, hobbyists, model builders, audiophiles, artists, and the do-it-yourself electronic enthusiast.
@@ -34,8 +35,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-09-21 09:02:08"
-last-modified-jotform: "2022-09-21 10:29:40"
-last-exported: "2022-09-22 09:29:57"
+last-modified-jotform: "2022-10-09 12:36:33"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

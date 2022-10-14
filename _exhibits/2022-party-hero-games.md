@@ -5,6 +5,7 @@ title: "Party Hero Games"
 slug: party-hero-games
 permalink: /exhibits/party-hero-games/
 exhibit-id: 22-72
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "We offer 7 card games, stickers, art prints, keychains, pins, buttons and 3D prints."
 description-long: "We have created 7 unique card games for families and friends to demo at our table, assorted stickers, anime art prints in sizes 4x6 and 8x10, acrylic and PVC keychains, enamel and acrylic pins, anime hand pressed buttons and 3D printed D&D props (wands, dice towers, dice jails, etc.)."
@@ -30,8 +31,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2022-08-15 19:41:57"
-last-modified-jotform: "2022-09-18 18:54:24"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-11 22:45:54"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

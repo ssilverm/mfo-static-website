@@ -5,6 +5,7 @@ title: "Darlene Duncan, Author"
 slug: darlene-duncan-author
 permalink: /exhibits/darlene-duncan-author/
 exhibit-id: 22-34
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "This will be an opportunity to talk with a local author and get a signed copy of her books."
 description-long: "Ask questions of a published author, find out what it takes to write, publish, design a book cover and read a book for audio.
@@ -35,8 +36,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2022-08-01 15:58:33"
-last-modified-jotform: "2022-08-13 14:32:58"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-11 22:44:00"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

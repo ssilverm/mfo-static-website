@@ -5,6 +5,7 @@ title: "Allison Chase Cosplay"
 slug: allison-chase-cosplay
 permalink: /exhibits/allison-chase-cosplay/
 exhibit-id: 22-74
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "Large Cosplay Design"
 description-long: "When your character is bigger than you, sometimes you have to get creative about how to make them come to life.   Come find ways to work around your humanness and create something larger than life, through puppetry, illusion, PVC, harnesses and a lot of expanding foam!"
@@ -33,8 +34,8 @@ categories:
   - slug: cosplay
     name: Cosplay
 created-jotform: "2022-08-16 10:25:59"
-last-modified-jotform: "2022-10-08 14:40:28"
-last-exported: "2022-10-08 14:40:50"
+last-modified-jotform: "2022-10-09 13:47:33"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

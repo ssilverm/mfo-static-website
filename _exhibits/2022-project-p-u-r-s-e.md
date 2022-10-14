@@ -5,6 +5,7 @@ title: "Project P.U.R.S.E."
 slug: project-p-u-r-s-e
 permalink: /exhibits/project-p-u-r-s-e/
 exhibit-id: 22-113
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Programmable Unattended Retrieval and Storage Experience.
 An open source storage system for makers!"
@@ -76,8 +77,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2022-08-31 01:00:49"
-last-modified-jotform: "2022-09-14 07:04:49"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-11 22:44:32"
+last-exported: "2022-10-13 22:06:00"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Take-It-Apart"
 slug: take-it-apart
 permalink: /exhibits/take-it-apart/
 exhibit-id: 22-134
+exhibit-zone: "Curiosity"
 space-number: Unassigned
 description: "Learn about the different functions of tools and the innards of electronics as you take them apart!"
 description-long: "Makerspace? More like breakerspace! Get hands-on with tools and electronics as you meticulously take them apart bit by bit - and even learn about the different bits you&#039;ll use! "
@@ -31,8 +32,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-09-09 09:22:06"
-last-modified-jotform: "2022-09-12 07:18:28"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:53:38"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

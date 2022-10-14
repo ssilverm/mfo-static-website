@@ -5,6 +5,7 @@ title: "Clockwork Alley"
 slug: clockwork-alley
 permalink: /exhibits/clockwork-alley/
 exhibit-id: 22-55
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Jewelry and accessories made from vintage watch parts. "
 description-long: "Jewelry and accessories made from vintage watch parts. Necklaces, bracelets, earrings, cufflinks, pill boxes... Prices generally range from $7-40. "
@@ -37,8 +38,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-08-12 14:49:08"
-last-modified-jotform: "2022-08-22 17:39:30"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-11 22:44:45"
+last-exported: "2022-10-13 22:06:04"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Liminal Craft Table"
 slug: liminal-craft-table
 permalink: /exhibits/liminal-craft-table/
 exhibit-id: 22-18
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Liminal Craft makes original art, handmade items, and printed publications. Come check out our work!"
 description-long: "We carry art and accessories inspired by fandom culture, kaiju, and horror. The current Liminal fiction project is The Green Lodge Cypher, a monthly fanzine-style horror/puzzle publication following an alternate-universe version of a rural Maryland fandom community. If you like solving codes, please come check us out!"
@@ -31,8 +32,8 @@ categories:
   - slug: writing-and-publishing
     name: Writing and Publishing
 created-jotform: "2022-07-24 21:08:52"
-last-modified-jotform: "2022-09-26 19:01:54"
-last-exported: "2022-09-28 09:07:21"
+last-modified-jotform: "2022-10-11 22:47:13"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

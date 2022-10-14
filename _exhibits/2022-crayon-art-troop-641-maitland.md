@@ -5,6 +5,7 @@ title: "Crayon art troop 641 Maitland"
 slug: crayon-art-troop-641-maitland
 permalink: /exhibits/crayon-art-troop-641-maitland/
 exhibit-id: 22-91
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Make art by melting crayons on canvas."
 description-long: "Art can com in different forms. This is an opportunity to melt wax crayons of different colors to create dazzling images of color."
@@ -33,8 +34,8 @@ categories:
   - slug: craft
     name: Craft
 created-jotform: "2022-08-25 06:50:40"
-last-modified-jotform: "2022-09-10 10:23:41"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:35:45"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

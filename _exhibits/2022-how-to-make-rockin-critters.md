@@ -5,6 +5,7 @@ title: "How to Make Rockin' Critters"
 slug: how-to-make-rockin-critters
 permalink: /exhibits/how-to-make-rockin-critters/
 exhibit-id: 22-140
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "In this exhibit, students will assemble their very own Rockin&#039; critter. This is a dancing robot."
 description-long: "Rockin&#039; Critters will rock your world! These tiny robots are super easy to assemble, with little instruction. This take home souvenir is the the life of party! You&#039;ll love your Rockin&#039; Critter. "
@@ -31,8 +32,8 @@ categories:
   - slug: first-robotics
     name: FIRST Robotics
 created-jotform: "2022-09-15 19:58:13"
-last-modified-jotform: "2022-09-21 07:32:53"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:57:27"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

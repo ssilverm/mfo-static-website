@@ -5,6 +5,7 @@ title: "Southern R2 Builders"
 slug: southern-r2-builders
 permalink: /exhibits/southern-r2-builders/
 exhibit-id: 22-12
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "Droid Builders"
 description-long: "What we would like to do is have Work in Progress projects so we can show the patrons on how the droid is built in various stages. Also with WIP droids have completed droids for photo ops. "
@@ -38,8 +39,8 @@ categories:
   - slug: electronics
     name: Electronics
 created-jotform: "2022-07-24 13:32:34"
-last-modified-jotform: "2022-10-03 07:24:24"
-last-exported: "2022-10-05 07:04:36"
+last-modified-jotform: "2022-10-09 12:35:43"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

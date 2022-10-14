@@ -5,6 +5,7 @@ title: "Anakhet's Armoury"
 slug: anakhets-armoury
 permalink: /exhibits/anakhets-armoury/
 exhibit-id: 22-13
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Anakhet make chainmaille and scalemaile items ranging from the modern to the historical. "
 description-long: "Come on by to see how armour was once made versus how it&#039;s made today. From simple butted to historical rivets Anakhet makes armour for everyone. "
@@ -53,8 +54,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2022-07-24 13:58:12"
-last-modified-jotform: "2022-08-22 17:37:24"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 14:16:14"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

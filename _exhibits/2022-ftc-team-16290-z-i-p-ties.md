@@ -5,6 +5,7 @@ title: "FTC Team 16290 Z.I.P Ties"
 slug: ftc-team-16290-z-i-p-ties
 permalink: /exhibits/ftc-team-16290-z-i-p-ties/
 exhibit-id: 22-124
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "Our team will bring our robot which is made with Java, and a version of our robot made with CAD."
 description-long: "	
@@ -67,8 +68,8 @@ categories:
   - slug: first-robotics
     name: FIRST Robotics
 created-jotform: "2022-08-31 21:38:59"
-last-modified-jotform: "2022-09-11 14:27:50"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:57:36"
+last-exported: "2022-10-13 22:05:59"
 sitemap: false
 
 ---

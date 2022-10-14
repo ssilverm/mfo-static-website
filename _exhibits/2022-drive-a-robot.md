@@ -5,6 +5,7 @@ title: "Drive a Robot!"
 slug: drive-a-robot
 permalink: /exhibits/drive-a-robot/
 exhibit-id: 22-137
+exhibit-zone: "Robot Ruckus (Spirit Building)"
 space-number: Unassigned
 description: "Robot demonstration and driving experience by FTC Dragomight 19895."
 description-long: "FTC team Dragomight 19895 will perform community outreach by demonstrating a working competition robot.  The team will introduce the First Tech Challenge program to visitors and accept donations for fundraising.
@@ -30,8 +31,8 @@ categories:
   - slug: science-fair
     name: Science Fair
 created-jotform: "2022-09-11 11:02:16"
-last-modified-jotform: "2022-09-12 07:19:15"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:57:17"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

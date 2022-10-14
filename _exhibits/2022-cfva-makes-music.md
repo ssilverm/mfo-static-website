@@ -5,6 +5,7 @@ title: "CFVA Makes Music"
 slug: cfva-makes-music
 permalink: /exhibits/cfva-makes-music/
 exhibit-id: 22-114
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "CFVA creates a better community through arts education, performance and appreciation."
 description-long: "Central Florida Vocal Arts, along with sister company Opera del Sol are using our platform in the performing arts to build a better Central Florida community through education, performance and appreciation.  A non-profit music advocacy organization, we are dedicated to re-imagining to future of vocal arts.  We provide the highest quality training to artists of all ages, while also offering performance opportunities to emerging and professional artists. We use the arts to create tangible social good in our community. "
@@ -25,8 +26,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2022-08-31 11:56:21"
-last-modified-jotform: "2022-09-02 14:16:15"
-last-exported: "2022-09-22 09:29:59"
+last-modified-jotform: "2022-10-09 13:49:17"
+last-exported: "2022-10-13 22:06:00"
 sitemap: false
 
 ---

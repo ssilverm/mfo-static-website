@@ -5,6 +5,7 @@ title: "Postcards to Space"
 slug: postcards-to-space
 permalink: /exhibits/postcards-to-space/
 exhibit-id: 22-158
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Write your vision of the future in space and we&#039;ll fly it on a rocket and send back to you."
 description-long: "Earth is finite. To protect our gem of a planet and enable a future of abundance and growth, Earth needs space. Write or draw your vision on a postcard for what you think the future of life in space will look like—or any other message you’d like to send to space. Send your postcard to Club for the Future, we&#039;ll launch it to space and back on a New Shepard rocket, and return it to you stamped Flown to Space. Send us as many postcards as you&#039;d like—we&#039;ll fly them all."
@@ -49,8 +50,8 @@ categories:
   - slug: space
     name: Space
 created-jotform: "2022-09-26 17:15:44"
-last-modified-jotform: "2022-09-28 08:42:39"
-last-exported: "2022-09-28 09:07:04"
+last-modified-jotform: "2022-10-09 17:08:22"
+last-exported: "2022-10-13 22:05:46"
 sitemap: false
 
 ---

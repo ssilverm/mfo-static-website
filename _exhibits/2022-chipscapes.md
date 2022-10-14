@@ -5,6 +5,7 @@ title: "ChipScapes"
 slug: chipscapes
 permalink: /exhibits/chipscapes/
 exhibit-id: 22-65
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "ChipScapes are artworks and jewelry made with computer chips."
 description-long: "ChipScapes are artworks and jewelry made with computer chips. ChipScapes are pictures taken of computer chips, sort of microscopic chip landscapes, or ChipScapes for short. The artwork is created by photographing a silicon computer chip using a microscope and special lighting. Silicon is a silvery gray element and not very exciting to look at. The colors in ChipScapes come from a process I use that creates a prism effect derived from special lighting that takes advantage of the layered manufacturing process of computer chips. I use different lighting, angles, and the prism effect of chips to create colorful images of an otherwise boring gray chip. I use mostly vintage microprocessors and memory chips from the 1960s, 1970s, and 1980s. "
@@ -78,8 +79,8 @@ categories:
   - slug: photography
     name: Photography
 created-jotform: "2022-08-13 20:04:58"
-last-modified-jotform: "2022-08-22 17:47:05"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 12:37:06"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

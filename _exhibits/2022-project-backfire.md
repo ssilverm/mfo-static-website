@@ -5,6 +5,7 @@ title: "Project Backfire"
 slug: project-backfire
 permalink: /exhibits/project-backfire/
 exhibit-id: 22-127
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "We are a father/daughter prop building company. "
 description-long: "We are a small business created by Tayen a young 16-year-old homeschooler who wanted to open a business as her senior project."
@@ -29,8 +30,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2022-09-01 17:12:03"
-last-modified-jotform: "2022-09-10 12:52:33"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 16:11:34"
+last-exported: "2022-10-13 22:05:59"
 sitemap: false
 
 ---

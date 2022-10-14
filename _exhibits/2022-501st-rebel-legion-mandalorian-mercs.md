@@ -5,6 +5,7 @@ title: "501st, Rebel Legion, Mandalorian Mercs"
 slug: 501st-rebel-legion-mandalorian-mercs
 permalink: /exhibits/501st-rebel-legion-mandalorian-mercs/
 exhibit-id: 22-132
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "Combined group of worldwide Star Wars costuming organizations. "
 description-long: "The Florida Garrison, Rebel Legion, Mandalorian Mercs and Saber Guild are part of a worldwide Star Wars costuming organization."
@@ -41,8 +42,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-09-08 08:25:35"
-last-modified-jotform: "2022-09-12 07:18:53"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-09 13:47:56"
+last-exported: "2022-10-13 22:05:47"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "The Crafty Gamer"
 slug: the-crafty-gamer
 permalink: /exhibits/the-crafty-gamer/
 exhibit-id: 22-59
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "We create tabletop inspired merchandise such as candles & scented products to enhance immersion.
 "
@@ -54,8 +55,8 @@ categories:
   - slug: laser-cutting-engraving
     name: Laser Cutting & Engraving
 created-jotform: "2022-08-13 14:46:45"
-last-modified-jotform: "2022-09-18 19:08:00"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 14:17:44"
+last-exported: "2022-10-13 22:06:03"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "The QuillSmith"
 slug: the-quillsmith
 permalink: /exhibits/the-quillsmith/
 exhibit-id: 22-84
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "Handmade quill pens wrapped with charms & ribbon."
 description-long: "Handmade quill pens wrapped with charms & ribbon. Vintage teacups repurposed with magical designs featuring gnomes, fairies & flowers."
@@ -51,8 +52,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-08-22 22:31:32"
-last-modified-jotform: "2022-09-18 18:56:24"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-11 22:45:47"
+last-exported: "2022-10-13 22:06:02"
 sitemap: false
 
 ---

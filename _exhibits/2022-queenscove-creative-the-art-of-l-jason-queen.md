@@ -5,6 +5,7 @@ title: "QueensCove Creative the art of L Jason Queen"
 slug: queenscove-creative-the-art-of-l-jason-queen
 permalink: /exhibits/queenscove-creative-the-art-of-l-jason-queen/
 exhibit-id: 22-8
+exhibit-zone: "Opportunity"
 space-number: Unassigned
 description: "I&#039;m an artist and illustrator concentrating on visual storytelling. "
 description-long: "I&#039;m an artist and illustrator concentrating on visual storytelling. I&#039;m licensed with numerous franchises including Star Wars, John carpenter&#039;s Halloween, Hannibal, Topps and Netflix Stranger Things. Most recently I was one of the featured artists for Star Wars Celebration in Anaheim California. I also create in leather craft and recently have been creating on our new Glowforge "
@@ -40,8 +41,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-07-24 11:45:35"
-last-modified-jotform: "2022-08-22 17:37:06"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 14:20:50"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

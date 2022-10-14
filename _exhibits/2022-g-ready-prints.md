@@ -5,6 +5,7 @@ title: "G Ready Prints"
 slug: g-ready-prints
 permalink: /exhibits/g-ready-prints/
 exhibit-id: 22-17
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "Hello everyone, I&#039;m new to 3d printing and working on The Paz Vizsla armor set from do3d.com. "
 description-long: "I&#039;ve been working on this project for months. With 2 3d printers &quot; ender 3 v2 and the Artillery sidewinder x2. I can&#039;t say I&#039;ve have done this alone my sponsor 3D Print Orlando has provided all the filament for this project. Big thanks to them :) we have every sing model completed and ready to be put together. This is my 1st time working with straps, leather, painting even editing my YouTube videos lol it&#039;s all new to me but I&#039;m having a blast my kids too lol. "
@@ -67,7 +68,7 @@ additional-images:
     full: /assets/images/exhibit-images/22-17-exhibit-addl10-g-ready-prints-p1010017-full.JPG
 website: "https://www.greadyprints.com/"
 video: "https://www.youtube.com/watch?v=37A6Muwnn0g&t=68s"
-video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/37A6Muwnn0g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Mandalorian 3D Printed "Vlog part 2""></iframe>'
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/37A6Muwnn0g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Mandalorian 3D Printed &quot;Vlog part 2&quot;"></iframe>'
 maker: 
   name: "Gilly"
   description: "Currently working on a Mandalorian armor set from do3d.com  
@@ -86,8 +87,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-07-24 20:45:33"
-last-modified-jotform: "2022-09-12 07:17:55"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 16:51:43"
+last-exported: "2022-10-13 22:06:06"
 sitemap: false
 
 ---

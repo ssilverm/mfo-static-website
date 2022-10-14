@@ -5,6 +5,7 @@ title: "Daleks of Florida"
 slug: daleks-of-florida
 permalink: /exhibits/daleks-of-florida/
 exhibit-id: 22-23
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "Fan built Daleks, that are better than the shows Daleks. Come ask us about our built process."
 description-long: "Individually built Daleks that use multiple types of build materials and processes. Any where from wood work, electronics, paint, and fabrication of specialty parts. We are more then happy to discuss the building of these villains of Dr Who with anyone who asks. Plus we are always looking to add to our Florida Brigade.  "
@@ -43,8 +44,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-07-25 20:22:53"
-last-modified-jotform: "2022-09-12 07:17:05"
-last-exported: "2022-09-22 09:30:02"
+last-modified-jotform: "2022-10-09 12:36:23"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---

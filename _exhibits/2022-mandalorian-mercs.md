@@ -5,6 +5,7 @@ title: "Mandalorian Mercs"
 slug: mandalorian-mercs
 permalink: /exhibits/mandalorian-mercs/
 exhibit-id: 22-92
+exhibit-zone: "Spirit"
 space-number: Unassigned
 description: "The Mandalorian Mercs Costume Club will be in attendance to demonstrate costume making!"
 description-long: "The Mandalorian Mercs Costume Club will be in attendance to demonstrate costume making! We will show attendees how we use common tools, materials, and designs to create screen accurate Star Wars costumes!"
@@ -40,8 +41,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-25 09:32:40"
-last-modified-jotform: "2022-09-21 07:32:50"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-09 13:48:06"
+last-exported: "2022-10-13 22:06:01"
 sitemap: false
 
 ---

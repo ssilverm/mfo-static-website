@@ -5,6 +5,7 @@ title: "Nerdy Derby"
 slug: nerdy-derby
 permalink: /exhibits/nerdy-derby/
 exhibit-id: 22-39
+exhibit-zone: "Curiosity"
 space-number: Unassigned
 description: "Make your own individual race car!"
 description-long: "Use a shared set of materials and make your own individual race car. You can them race it against two other cars!"
@@ -50,8 +51,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-08-03 14:07:20"
-last-modified-jotform: "2022-09-12 07:18:39"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-09 12:33:50"
+last-exported: "2022-10-13 22:06:05"
 sitemap: false
 
 ---
