@@ -41,7 +41,6 @@ All entries should use the types of makers, creations, passions, and values foun
 
 <h3>Important Dates</h3>
 <ul>
-<li>Submission Form Opens - Saturday, October 15 5pm ET</li>
 <li><b>Submission Form Closes - Saturday, October 22 11:59pm ET</b></li>
 <li>Winners Announced - Tuesday, November 1 (time TBD)</li>
 <li>Display of Eligible entries at Maker Faire Orlando - Saturday, November 5 & Sunday, November 6 <BR><b>Artist does not need to be present at Maker Faire Orlando to enter the contest.</b></li>
@@ -142,7 +141,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <h3>Competition Rules</h3>
 
 <ol>
-<li>Limit three entries per person or team.</li>
+<li>Limit three entries per person or team. If more than three entries are received, only the first three will be considered eligible entries.</li>
 <li>An individual or team may only win ONE award in the overall competition (1st, 2nd, 3rd Place). Additional awards (Best Process Video) may be awarded to an overall winner.</li>
 <li>Entries must not have been previously entered in another competition.</li>
 <li>Each Entry should be a single image. If an entry contains multiple images, they will be evaluated as a single artistic work.</li>
@@ -152,7 +151,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Any items entered into the competition may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
 <li>Exhibit submissions shall not infringe on any trademarks or copyrights.</li>
 <li>The art style shall not intentionally imitate the style of another artist. This includes, but is not limited to the use of an artists name (e.g. "in the style of") in an AI image generator prompt, or the specific training of an AI tool using a specific artist's work.</li>
-<li>Do note use or place any logos in the artwork, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
+<li>Do not use or place any logos in the artwork, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
 <li>Do not base the artwork on any specific exhibit, exhibitor, or sponsor of Maker Faire Orlando.</li>
 <li>Submission text and video must be in English for judging.</li>
 <li>Judges are subject to change at any time without notice.</li>
