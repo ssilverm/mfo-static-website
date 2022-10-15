@@ -1,6 +1,7 @@
 ---
 title: Maker Faire Orlando AI Art Contest
 permalink: /ai-art-contest/
+redirect_from: /ai-art-competition/
 layout: full-width
 
 image: /assets/images/ai-art/ai-art-contest-banner-fb-min.jpg
@@ -148,7 +149,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Entries must relate to the and be related in some way to the types of makers, creations, passions, and values found at Maker Faire.</li>
 <li>Entries must be the express work of the individual or team submitting (and their AI helpers!).</li>
 <li>Entries must use AI art tools as part of a larger creative process. While creative prompt generation can create amazing images, we are looking for more than simple prompt image generation.</li>
-<li>Any items entered into the competition may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
+<li>Any items entered into the contest may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
 <li>Exhibit submissions shall not infringe on any trademarks or copyrights.</li>
 <li>The art style shall not intentionally imitate the style of another artist. This includes, but is not limited to the use of an artists name (e.g. "in the style of") in an AI image generator prompt, or the specific training of an AI tool using a specific artist's work.</li>
 <li>Do not use or place any logos in the artwork, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>

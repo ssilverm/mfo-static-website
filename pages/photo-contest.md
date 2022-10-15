@@ -4,7 +4,7 @@ permalink: /photo-contest/
 layout: full-width
 
 image: /assets/images/homeschool-page-header.jpg
-description: We are hosting an AI art contest leading up to Maker Faire Orlando 2022!
+description: Share your best photos and win cash prizes!
 
 carousel: true
 carousel-delay: 5000
@@ -85,12 +85,12 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 
 <ol>
 <li>Limit three entries per person. If more than three entries are received, only the first three will be considered eligible entries.</li>
-<li>An individual or family may only win ONE award in the overall competition (1st, 2nd, 3rd Place).</li>
+<li>An individual or family may only win ONE award in the overall contest (1st, 2nd, 3rd Place).</li>
 <li>Each Entry should be a single image. If an entry contains multiple images, it will be evaluated as a single "then and now" entry.</li>
 <li>Entries must contain a photo of the submitter or the submitter's family at a Maker Faire Orlando or Orlando Mini Maker Faire annual event. Other events where the Maker Faire Orlando team was present such as MEGACON are not eligible. Maker Faire Orlando Pop-Up events are also not eligible.</li>
 <li>Photos taken by Maker Faire Orlando photographers are not eligible.</li>
 <li>Submitter must own all rights to the shared photo.</li>
-<li>Any items entered into the competition may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
+<li>Any items entered into the contest may be reproduced or photographed and used by the The Maker Effect Foundation (TMEF) for display on TMEF websites, at Maker Faire Orlando, for event marketing purposes, or for grant submission and reporting purposes.</li>
 <li>Exhibit submissions shall not infringe on any trademarks or copyrights.</li>
 <li>Do not use or place any logos on the photos, including the Maker Faire Orlando Logo, Maker Faire Logo, any exhibitor logos or any Sponsor logos.</li>
 <li>Do not add any text, stickers, or graphics on the photos.</li>
@@ -107,7 +107,7 @@ Entries will only be accepted through the <a href="https://form.jotform.com/make
 
 </ol>
 
-<h3>Competition FAQs</h3>
+<h3>Contest FAQs</h3>
 <ul>
 <li>Q: Can Maker Faire Exhibitors participate in this contest? <BR>A: Absolutely, but the photo must be of you, your, exhibit or your exhibit helpers, not of Maker Faire attendees at your exhibit.</li><br>
 
