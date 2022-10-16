@@ -70,6 +70,17 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
     </div>
   </div>
 
+  <h3>Contest Sponsors</h3>
+
+
+  <a href="https://machinelearningart.com/"><img src="/assets/images/ai-art/machinelearningartdotcom.png" style="max-width:250px"></a>
+
+  <a href="https://remixed.net"><img src="/assets/images/ai-art/remixed-logo.png" style="max-width:250px"></a>
+
+  <a href="https://sighthound.com"><img src="/assets/images/ai-art/sighthound.png" style="max-width:250px"></a>
+
+
+  <br>
 
 
 </div></div></div></section>
@@ -89,43 +100,57 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 
 
 
-  <div class="row padbottom"><a href="http://www.anoukwipprecht.nl/">
-          <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/ai-art/anouk.jpg);"></div>
-            <div class="maker-panel-text">
-              <h4>Anouk Wipprecht</h4>
-              <p class="hidden-xs">Dutch FashionTech Designer, Roboticist, Technologist, Innovator, Prototyper, Tinkerer, Educator (Girls+Tech), Creative Director</p>
-            </div>
-          </div>
+  <div class="row padbottom">
+    <a href="http://www.anoukwipprecht.nl/">
+      <div class="featured-maker col-xs-6 col-sm-3">
+        <div class="maker-img" style="background-image: url(/assets/images/ai-art/anouk.jpg);"></div>
+        <div class="maker-panel-text">
+          <h4>Anouk Wipprecht</h4>
+          <p class="hidden-xs">Dutch FashionTech Designer, Roboticist, Technologist, Innovator, Tinkerer, Educator (Girls+Tech), Creative Director</p>
+        </div>
+      </div>
+    </a>
 
-          </a><a href="https://make.co/">
-            <div class="featured-maker col-xs-6 col-sm-3">
-              <div class="maker-img" style="background-image: url(/assets/images/ai-art/dale.jpg);"></div>
-              <div class="maker-panel-text">
-                <h4>Dale Dougherty</h4>
-                <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
-              </div>
-            </div>
+    <a href="https://make.co/">
+      <div class="featured-maker col-xs-6 col-sm-3">
+        <div class="maker-img" style="background-image: url(/assets/images/ai-art/dale.jpg);"></div>
+        <div class="maker-panel-text">
+          <h4>Dale Dougherty</h4>
+          <p class="hidden-xs">Founder of MAKE Magazine and creator of Maker Faire.  President of Make Community.</p>
+        </div>
+      </div>
+    </a>
 
-        </a><a href="http://www.sculpturings.com/">
-          <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/ai-art/rebecca-rose.jpg);"></div>
-            <div class="maker-panel-text">
-              <h4>Rebecca Rose</h4>
-              <p class="hidden-xs">Award winning sculptor, NFT hologram collage artist, and curator.</p>
-            </div>
-          </div>
+    <a href="https://remixed.net">
+    <div class="featured-maker col-xs-6 col-sm-3">
+      <div class="maker-img" style="background-image: url(/assets/images/ai-art/doug-berger.jpg);"></div>
+      <div class="maker-panel-text">
+        <h4>Doug Berger</h4>
+        <p class="hidden-xs">Co-founder & CEO of REMIXED: the branding agency; and Co-founder of FACTUR Makerspace</p>
+      </div>
+    </div>
+  </a>
 
-        </a><a href="https://www.linkedin.com/in/terry-olson-3123051/">
-          <div class="featured-maker col-xs-6 col-sm-3">
-            <div class="maker-img" style="background-image: url(/assets/images/ai-art/terry-olson.jpg);"></div>
-            <div class="maker-panel-text">
-              <h4>Terry Olson</h4>
-              <p class="hidden-xs">“Chief Arts Instigator” with Orange County, FL since 2001, Terry oversees the  county's investment in Arts and Cultural orgs.</p>
-            </div>
-          </div>
-        </a></div>
-        <div class="row padbottom">
+    <a href="http://www.sculpturings.com/">
+      <div class="featured-maker col-xs-6 col-sm-3">
+        <div class="maker-img" style="background-image: url(/assets/images/ai-art/rebecca-rose.jpg);"></div>
+        <div class="maker-panel-text">
+          <h4>Rebecca Rose</h4>
+          <p class="hidden-xs">Award winning sculptor, NFT hologram collage artist, and curator.</p>
+        </div>
+      </div>
+    </a>
+
+    <a href="https://www.linkedin.com/in/terry-olson-3123051/">
+      <div class="featured-maker col-xs-6 col-sm-3">
+        <div class="maker-img" style="background-image: url(/assets/images/ai-art/terry-olson.jpg);"></div>
+        <div class="maker-panel-text">
+          <h4>Terry Olson</h4>
+          <p class="hidden-xs">“Chief Arts Instigator” with Orange County, FL since 2001, Terry oversees the  county's investment in Arts and Cultural orgs.</p>
+        </div>
+      </div>
+    </a>
+
 
  </div>
 </div>
@@ -174,6 +199,9 @@ Entries will only be accepted through the <a href="https://form.jotform.com/2228
 <li>Q: I have a question not answered here or feedback - who can I contact? <BR>A: Please email us at makers@makerfaireorlando.com and include AI ART CONTEST in the subject line.</li>
 </ul>
 
-<h3>Sponsors</h3>
+
+
+
+
 If your company or organization would like to sponsor this contest or the AI Art exhibit at Maker Faire Orlando, please email us at makers@makerfaireorlando.com for sponsorship package information.
 </div></div></div></section>
