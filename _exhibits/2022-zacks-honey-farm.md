@@ -5,7 +5,8 @@ title: "Zacks honey farm"
 slug: zacks-honey-farm
 permalink: /exhibits/zacks-honey-farm/
 exhibit-id: 22-133
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OG11"
 description: "Live honeybee display and lots of artisan honey made by us."
 description-long: "We raise the bees and infuse honey for differant flavors."
 image: /assets/images/exhibit-images/22-133-exhibit-zacks-honey-farm-3725c509-e8c6-4ab2-9cac-d541d5891270-large.jpeg
@@ -30,8 +31,8 @@ categories:
   - slug: food
     name: Food
 created-jotform: "2022-09-08 23:53:18"
-last-modified-jotform: "2022-09-18 19:06:32"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-15 20:39:00"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

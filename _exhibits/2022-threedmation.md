@@ -5,8 +5,8 @@ title: "ThreeDMation"
 slug: threedmation
 permalink: /exhibits/threedmation/
 exhibit-id: 22-131
-exhibit-zone: "Opportunity"
-space-number: Unassigned
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SE1"
 description: "ThreeDMation"
 description-long: "ThreeDMation"
 image: /assets/images/exhibit-images/22-131-exhibit-threedmation-lightson002-large.jpg
@@ -29,8 +29,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2022-09-06 08:14:09"
-last-modified-jotform: "2022-10-09 14:20:36"
-last-exported: "2022-10-13 22:05:47"
+last-modified-jotform: "2022-10-15 20:34:53"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

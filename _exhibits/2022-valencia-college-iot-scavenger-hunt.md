@@ -6,7 +6,7 @@ slug: valencia-college-iot-scavenger-hunt
 permalink: /exhibits/valencia-college-iot-scavenger-hunt/
 exhibit-id: 22-101
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OA23"
 description: "Swipe your RFID card as you visit Maker Faire exhibits, and you COULD win a prize.....
 "
 description-long: "Visiting Maker Faire? Document your travels through Maker Faire by scanning your RFID card on the IoT node at each participating exhibit. Track your progress and compete to visit more exhibits than your friends in a set period of time. Win swag and get a certificate mapping your participation
@@ -36,8 +36,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-08-28 12:51:20"
-last-modified-jotform: "2022-10-09 14:21:34"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-15 20:22:52"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

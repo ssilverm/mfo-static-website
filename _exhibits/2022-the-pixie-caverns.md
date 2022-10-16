@@ -5,7 +5,8 @@ title: "The Pixie Caverns"
 slug: the-pixie-caverns
 permalink: /exhibits/the-pixie-caverns/
 exhibit-id: 22-36
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OD18"
 description: "Chain and scale maille, to jewlery, to crystal bracelets and even potions!"
 description-long: "Welcome to The Pixie Caverns! We sell the fun shiny objects! From Chain and scale maille, to jewlery, to crystal bracelets and even potions!"
 image: /assets/images/exhibit-images/22-36-exhibit-the-pixie-caverns-20220827-094801-large.jpg
@@ -59,8 +60,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2022-08-01 20:54:34"
-last-modified-jotform: "2022-09-26 18:07:49"
-last-exported: "2022-09-28 09:07:20"
+last-modified-jotform: "2022-10-15 20:45:36"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

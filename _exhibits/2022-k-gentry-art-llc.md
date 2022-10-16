@@ -6,7 +6,7 @@ slug: k-gentry-art-llc
 permalink: /exhibits/k-gentry-art-llc/
 exhibit-id: 22-14
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG17"
 description: "A Maker of character based designs and Illustrations."
 description-long: "I make character based Illustrations and character designs for sale in the book, print, and animation industries. "
 image: /assets/images/exhibit-images/22-14-exhibit-k-gentry-art-llc-octodancepartnerweb-large.jpg
@@ -38,8 +38,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2022-07-24 14:04:21"
-last-modified-jotform: "2022-10-09 14:23:02"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-15 19:56:28"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

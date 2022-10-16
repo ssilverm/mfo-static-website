@@ -6,7 +6,7 @@ slug: origami-shodo-art-of-japan
 permalink: /exhibits/origami-shodo-art-of-japan/
 exhibit-id: 22-164
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD12"
 description: "Origami paper craft workshop and Shodo brush calligraphy service to experience popular Japanese art"
 description-long: "Learn how to fold Origami;  animals, flowers, and holiday decorations out of paper following step-by-step instructions from experienced Origami artist. All materials are provided. 
 
@@ -40,8 +40,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-10-03 23:35:41"
-last-modified-jotform: "2022-10-09 17:14:47"
-last-exported: "2022-10-13 22:05:45"
+last-modified-jotform: "2022-10-15 20:24:50"
+last-exported: "2022-10-16 18:06:03"
 sitemap: false
 
 ---

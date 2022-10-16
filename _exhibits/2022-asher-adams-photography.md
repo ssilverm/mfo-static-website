@@ -6,7 +6,7 @@ slug: asher-adams-photography
 permalink: /exhibits/asher-adams-photography/
 exhibit-id: 22-141
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC24"
 description: "Astrophotography and Landscape photos for sale and for display."
 description-long: "Learn about Backyard Astrophotography, while browsing works of various Astronomy and Landscape Photographs."
 image: /assets/images/exhibit-images/22-141-exhibit-asher-adams-photography-3e8729a9-1426-48e0-88b5-8af6ec53b6d0-large.jpeg
@@ -27,8 +27,8 @@ categories:
   - slug: photography
     name: Photography
 created-jotform: "2022-09-16 15:36:04"
-last-modified-jotform: "2022-10-11 22:46:45"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-15 20:36:43"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

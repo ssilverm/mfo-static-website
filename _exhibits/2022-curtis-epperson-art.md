@@ -6,7 +6,7 @@ slug: curtis-epperson-art
 permalink: /exhibits/curtis-epperson-art/
 exhibit-id: 22-7
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG22"
 description: "I create art completely out of words, and use the words that tell the story of the art!"
 description-long: "With every piece I do, my goal is not only to entertain you,
 but also to inspire and educate you!
@@ -37,8 +37,8 @@ categories:
   - slug: art
     name: Art
 created-jotform: "2022-07-24 11:00:05"
-last-modified-jotform: "2022-10-11 21:56:20"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-15 19:55:32"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

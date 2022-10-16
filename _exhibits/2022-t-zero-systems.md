@@ -6,7 +6,7 @@ slug: t-zero-systems
 permalink: /exhibits/t-zero-systems/
 exhibit-id: 22-99
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OE29"
 description: "I make advanced model rockets that function using the same control systems as full size ones. "
 description-long: "I make model rockets that function using the same control systems as full size ones. I&#039;ve developed my own hardware, control software, and launch complex to fly them. I produce educational content on the theory and operation of these systems on my YouTube channel. The rockets I make use thrust vector control and active stabilization programmed in Arduino."
 image: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-large.jpg
@@ -80,8 +80,8 @@ categories:
   - slug: space
     name: Space
 created-jotform: "2022-08-27 22:40:58"
-last-modified-jotform: "2022-10-11 21:34:30"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-15 20:35:18"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

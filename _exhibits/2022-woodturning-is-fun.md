@@ -6,7 +6,7 @@ slug: woodturning-is-fun
 permalink: /exhibits/woodturning-is-fun/
 exhibit-id: 22-52
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG14"
 description: "Demos on how to turn simple items on lathes. Christmas ornaments, Wizard wands (!), tops, etc."
 description-long: "Woodturners will be at the fair on both days demonstrating how to turn simple items on lathes. Ornaments, wands, gnomes, toothpick holders, tops etc.  There also will be larger items on display. Bowls, vases, boxes and such."
 image: /assets/images/exhibit-images/22-52-exhibit-woodturning-is-fun-hand-turned-ornaments-large.jpg
@@ -42,8 +42,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-10 19:54:56"
-last-modified-jotform: "2022-10-11 22:42:58"
-last-exported: "2022-10-13 22:06:04"
+last-modified-jotform: "2022-10-15 21:00:13"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

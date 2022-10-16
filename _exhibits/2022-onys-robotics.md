@@ -5,7 +5,8 @@ title: "Ony's Robotics"
 slug: onys-robotics
 permalink: /exhibits/onys-robotics/
 exhibit-id: 22-139
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OA5"
 description: "Wearable technologies, robotics, 3D printers, and cyberpunk!"
 description-long: "Ony&#039;s Robotics will offer a place where people can learn and get into STEAM projects. We will be showcasing enticing robotics projects such as our various versions of Project Anita, a companion robot, or wearable technologies such as Project Alexandria, a wrist-mounted computer that allows you to control robots, store files, and view the internet!"
 image: /assets/images/exhibit-images/22-139-exhibit-onys-robotics-img-9131-large.JPG
@@ -39,8 +40,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-09-12 17:24:44"
-last-modified-jotform: "2022-09-21 07:32:27"
-last-exported: "2022-09-22 09:29:58"
+last-modified-jotform: "2022-10-15 20:29:52"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

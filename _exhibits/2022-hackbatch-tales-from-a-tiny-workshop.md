@@ -5,7 +5,8 @@ title: "Hackbatch: Tales from a tiny workshop"
 slug: hackbatch-tales-from-a-tiny-workshop
 permalink: /exhibits/hackbatch-tales-from-a-tiny-workshop/
 exhibit-id: 22-85
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OA7"
 description: "A robot on the rise and beams of fantastic LED light are on display at the Hackbatch exhibit!"
 description-long: "I make things in a tiny workshop tucked away in my bedroom closet. A single workbench and some basic tools are used to build robots, make art and videos, and all sorts of fun lights! 
 
@@ -71,8 +72,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-23 11:35:22"
-last-modified-jotform: "2022-09-17 14:39:23"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-15 20:29:12"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

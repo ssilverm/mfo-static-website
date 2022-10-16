@@ -6,7 +6,7 @@ slug: florida-odyssey-of-the-mind
 permalink: /exhibits/florida-odyssey-of-the-mind/
 exhibit-id: 22-28
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC7"
 description: "Participants will be able to complete hands-on activities while learning about Odyssey of the Mind."
 description-long: "Participants that come by the table will be able to create their own hands-on towers while meeting the requirements of the spontaneous activity.  Participants will walk away from the exhibit table with knowledge of how to start a team at their own schools or community groups. "
 image: /assets/images/exhibit-images/22-28-exhibit-florida-odyssey-of-the-mind-conference-table-setup-large.jpg
@@ -29,8 +29,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-07-28 11:19:48"
-last-modified-jotform: "2022-10-09 14:15:13"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-15 20:51:45"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

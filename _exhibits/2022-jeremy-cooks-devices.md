@@ -6,7 +6,7 @@ slug: jeremy-cooks-devices
 permalink: /exhibits/jeremy-cooks-devices/
 exhibit-id: 22-58
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC16"
 description: "Jeremy Cook makes a variety of devices, including stradbeests and electronics"
 description-long: "Jeremy Cook makes a variety of contraptions, including strandbeests, electronics, and much more!"
 image: /assets/images/exhibit-images/22-58-exhibit-jeremy-cooks-devices-43-logo-black1c-youtube-2-crop-stylized4-rounded-2645-large.png
@@ -30,8 +30,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-13 13:20:29"
-last-modified-jotform: "2022-10-09 14:21:08"
-last-exported: "2022-10-13 22:06:03"
+last-modified-jotform: "2022-10-15 20:31:09"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

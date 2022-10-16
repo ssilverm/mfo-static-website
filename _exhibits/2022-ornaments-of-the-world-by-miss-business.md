@@ -6,7 +6,7 @@ slug: ornaments-of-the-world-by-miss-business
 permalink: /exhibits/ornaments-of-the-world-by-miss-business/
 exhibit-id: 22-98
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD3"
 description: "Hand-painted flags of the world in ornament form."
 description-long: "Miss Business means business. She wanted to make a product for everyone. She did not want anyone to be left out. So she learned about all the countries of the world and made a product for each. Miss Business loves meeting new people. Where are you from?"
 image: /assets/images/exhibit-images/22-98-exhibit-ornaments-of-the-world-by-miss-business-exhibit-image-primary-large.png
@@ -60,8 +60,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-08-27 10:33:16"
-last-modified-jotform: "2022-10-09 14:17:06"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-15 20:54:29"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: silly-rabbit-crafts
 permalink: /exhibits/silly-rabbit-crafts/
 exhibit-id: 22-80
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD7"
 description: "Swing by any make a fun Pixelated item that you can take home with you!"
 description-long: "Join this silly Rabbit and she what&#039;s new. Lori is always updating her patterns for you to create items, and new pegboards and fun colors. If you do not have time to make something while in Maker Faire, She has kits to take home, and thousands of premade completed items for your collection, or a gift for a loved one!"
 image: /assets/images/exhibit-images/22-80-exhibit-silly-rabbit-crafts-10252141-640567822694418-7755115821529251756-n-large.jpg
@@ -32,8 +32,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-08-18 22:22:57"
-last-modified-jotform: "2022-10-11 22:46:20"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-15 20:41:02"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

@@ -5,6 +5,7 @@ title: "Adventures in Atari"
 slug: adventures-in-atari
 permalink: /exhibits/adventures-in-atari/
 exhibit-id: 22-171
+exhibit-zone: "The Dark Side (Spirit Building)"
 space-number: Unassigned
 description: "Learning to build an Atari 2600 game."
 description-long: "Try out this work in process shoot em up adventure featuring Makey on the Atari 2600 with an actual cartridge."
@@ -35,8 +36,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2022-10-13 20:49:33"
-last-modified-jotform: "2022-10-13 22:03:54"
-last-exported: "2022-10-13 22:05:24"
+last-modified-jotform: "2022-10-15 09:47:54"
+last-exported: "2022-10-16 18:06:03"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: project-p-u-r-s-e
 permalink: /exhibits/project-p-u-r-s-e/
 exhibit-id: 22-113
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OA10"
 description: "Programmable Unattended Retrieval and Storage Experience.
 An open source storage system for makers!"
 description-long: "Every maker ends up with extras after a project. Like hotdogs and hotdog buns, there always seem to be some spares left over. Over time, these spares piled up and I started buying parts I already had simply because I forgot I already had them. I tried many different approaches to organization from shoe boxes to storage totes, divider bins to tackle boxes. Finally, I decided I had to make my own storage system inspired by the best available: a purse.
@@ -77,8 +77,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2022-08-31 01:00:49"
-last-modified-jotform: "2022-10-11 22:44:32"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-15 20:36:02"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

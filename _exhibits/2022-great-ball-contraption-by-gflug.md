@@ -6,7 +6,7 @@ slug: great-ball-contraption-by-gflug
 permalink: /exhibits/great-ball-contraption-by-gflug/
 exhibit-id: 22-107
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OA25, OA26"
 description: "A Rube Goldberg collaborative contraption of LEGO, artfully passing balls from module to module.
 
 "
@@ -62,8 +62,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-29 22:41:28"
-last-modified-jotform: "2022-10-09 17:02:46"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-15 20:03:04"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

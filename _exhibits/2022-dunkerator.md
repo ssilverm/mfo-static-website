@@ -6,7 +6,7 @@ slug: dunkerator
 permalink: /exhibits/dunkerator/
 exhibit-id: 22-135
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC6"
 description: "Family friendly product that displays the benefits of rapid prototyping and entrepreneurship. "
 description-long: "The original device was made as a joke video, then received over 2 million views in 24 hours. The comments made it clear people wanted it to be real, so I started accepting preorders and got injection molds made and delivered a final product. Went from 3D printed gag to shipped product in about 4 months. "
 image: /assets/images/exhibit-images/22-135-exhibit-dunkerator-54b00a01-3f40-49b4-8b43-390d501039c4-large.jpeg
@@ -31,8 +31,8 @@ categories:
   - slug: tools
     name: Tools
 created-jotform: "2022-09-09 10:19:14"
-last-modified-jotform: "2022-10-11 22:44:39"
-last-exported: "2022-10-13 22:05:47"
+last-modified-jotform: "2022-10-15 20:32:56"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

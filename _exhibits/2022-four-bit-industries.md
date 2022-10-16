@@ -6,7 +6,7 @@ slug: four-bit-industries
 permalink: /exhibits/four-bit-industries/
 exhibit-id: 22-22
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD29"
 description: "We make learn to solder kits for hobbyists and makerspaces."
 description-long: "Four Bit Industries LLC produces educational and hobbyist electronics projects. It is located in Tampa, FL. If you are interested in bulk orders or a customized version of one of our products, please contact us!"
 image: /assets/images/exhibit-images/22-22-exhibit-four-bit-industries-43-logobwhires-316-large.png
@@ -47,8 +47,8 @@ categories:
   - slug: kits
     name: Kits
 created-jotform: "2022-07-24 22:18:00"
-last-modified-jotform: "2022-10-09 14:29:28"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-15 20:02:23"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

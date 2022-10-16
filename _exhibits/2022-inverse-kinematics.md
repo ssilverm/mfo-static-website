@@ -5,7 +5,8 @@ title: "Inverse Kinematics"
 slug: inverse-kinematics
 permalink: /exhibits/inverse-kinematics/
 exhibit-id: 22-32
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OD15"
 description: "Self-standing robots"
 description-long: "Have you ever balanced a broomstick from your hand? Robots are going to do the same thing!"
 image: /assets/images/exhibit-images/22-32-exhibit-inverse-kinematics-43-screenshot-20220731-164027-2-9922-large.png
@@ -29,8 +30,8 @@ categories:
   - slug: raspberry-pi
     name: Raspberry Pi
 created-jotform: "2022-07-31 16:52:01"
-last-modified-jotform: "2022-09-12 07:18:57"
-last-exported: "2022-09-22 09:30:01"
+last-modified-jotform: "2022-10-15 20:42:20"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

@@ -5,7 +5,8 @@ title: "NSB Maker Space"
 slug: nsb-maker-space
 permalink: /exhibits/nsb-maker-space/
 exhibit-id: 22-162
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OD16"
 description: "The New Smyrna Beach Maker Space is looking to network with makers and show off some of our projects"
 description-long: "The New Smyrna Maker Space is set to officially open in 2023. We are a non-profit and the only maker space of its kind in Volusia County.  We would like to be able to provide a great experience and value for makers in our community. 
 
@@ -68,8 +69,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-10-01 15:30:53"
-last-modified-jotform: "2022-10-01 16:44:26"
-last-exported: "2022-10-01 16:51:14"
+last-modified-jotform: "2022-10-15 20:29:20"
+last-exported: "2022-10-16 18:06:03"
 sitemap: false
 
 ---

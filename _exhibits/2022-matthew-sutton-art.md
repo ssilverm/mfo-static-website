@@ -6,7 +6,7 @@ slug: matthew-sutton-art
 permalink: /exhibits/matthew-sutton-art/
 exhibit-id: 22-60
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG18"
 description: "Matthew is a professional illustrator and comic book artist!"
 description-long: "Matthew is a professional illustrator and comic book artist! He has created licensed artwork for properties such as: Star Wars, Mandalorian, Spiderman Homecoming, Stranger Things, DC Bombshells, Adventure Time and many many more!"
 image: /assets/images/exhibit-images/22-60-exhibit-matthew-sutton-art-img-93841-large.jpg
@@ -28,8 +28,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2022-08-13 14:55:33"
-last-modified-jotform: "2022-10-09 14:23:57"
-last-exported: "2022-10-13 22:06:03"
+last-modified-jotform: "2022-10-15 19:56:51"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

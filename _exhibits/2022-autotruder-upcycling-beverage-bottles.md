@@ -6,7 +6,7 @@ slug: autotruder-upcycling-beverage-bottles
 permalink: /exhibits/autotruder-upcycling-beverage-bottles/
 exhibit-id: 22-108
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC4"
 description: "Transforming 2L bottles into 3D printer filament, and transforming that into almost anything"
 description-long: "Single-use plastic beverage bottles can be recycled by cutting them into long strips which can be used a number of ways. Pulling the strips through a heated die to make them into 3D printer filament not only recycles the bottle, but up-cycles it. We will exhibit the current state of the art, which is mostly a manual process whose resulting filament isn’t economically competitive. We envision an automated pultrusion process that accepts unwashed 2-liter bottles and produces quality filament with zero waste products. This is a multi-stage process, including bottle washing, bottle preparation, bottle cutting, strip pultrusion, filament winding, filament splicing, filament packaging and byproduct processing, Every stage is a candidate for automation. "
 image: /assets/images/exhibit-images/22-108-exhibit-autotruder-upcycling-beverage-bottles-257656102-4016050361829667-2278958245555388945-n-large.jpg
@@ -51,8 +51,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-08-29 23:21:15"
-last-modified-jotform: "2022-10-09 17:17:04"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-15 20:25:23"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

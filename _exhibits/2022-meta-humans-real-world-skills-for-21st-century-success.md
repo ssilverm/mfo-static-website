@@ -6,7 +6,7 @@ slug: meta-humans-real-world-skills-for-21st-century-success
 permalink: /exhibits/meta-humans-real-world-skills-for-21st-century-success/
 exhibit-id: 22-75
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OA18"
 description: "Entrepreneurs, Hackers, Makers, Producers, Gamers & Guardians - Which Tracks will you choose? "
 description-long: "Our exhibit features hydroponics, sensors/arduino, microscopes, 3D printer, Glowforge Laser, Vinyl Heat Press, Esports, lock picking and various items on display (custom PCB badges, cybersecurity board games, customized engraved acrylic/wood items). 
 Visitors will be able to practice lock-picking, interact with our equipment/projects and receive various customized items (made on-site): engraved pencils, heat-pressed bandanas with some design selection. 
@@ -53,8 +53,8 @@ categories:
   - slug: maker-community
     name: Maker Community
 created-jotform: "2022-08-16 16:33:00"
-last-modified-jotform: "2022-10-11 22:46:36"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-15 20:22:20"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---

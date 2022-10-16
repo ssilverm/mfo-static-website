@@ -6,7 +6,7 @@ slug: galactic-problems
 permalink: /exhibits/galactic-problems/
 exhibit-id: 22-20
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG19"
 description: "Comic creator and illustrator! "
 description-long: "Hello! I&#039;m Daniella, a full-time artist making comics and illustrations. While I make a variety of work, my current project is a webcomic called Galactic Problems. The series follows a group of misfit private investigators, solving mysteries in another galaxy. 
 While my main passion is original work with my own stories, I also enjoy drawing some fan-art! "
@@ -79,8 +79,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2022-07-24 21:44:30"
-last-modified-jotform: "2022-10-09 14:19:03"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-15 19:56:04"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

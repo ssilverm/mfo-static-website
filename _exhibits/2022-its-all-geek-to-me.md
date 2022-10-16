@@ -6,7 +6,7 @@ slug: its-all-geek-to-me
 permalink: /exhibits/its-all-geek-to-me/
 exhibit-id: 22-5
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD19"
 description: "At It&#039;s All Geek to Me we make affordable handmade goods from items that many people might discard."
 description-long: "Handmade nostalgia by fans for fans. At It&#039;s All Geek to Me we make affordable handmade goods from items that have been well loved and that many people might discard. We use comics, books, and other paper items to make one of a kind photo frames, notebooks, coasters, and jewelry. Those VHS cassettes you used to watch with your favorite movies? We turn those into pieces of functional lighted art. Even toys and building blocks get a second life in the form of shadow boxes, ornaments, keychains, and jewelry. Those who enjoy pop culture will also love our handmade mini VHS and banned book earrings and keychains."
 image: /assets/images/exhibit-images/22-5-exhibit-its-all-geek-to-me-pane-ad-large.PNG
@@ -84,8 +84,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-07-23 14:14:43"
-last-modified-jotform: "2022-10-11 22:47:37"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-15 20:46:41"
+last-exported: "2022-10-16 18:06:06"
 sitemap: false
 
 ---

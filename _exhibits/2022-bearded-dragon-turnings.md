@@ -5,7 +5,8 @@ title: "Bearded Dragon Turnings"
 slug: bearded-dragon-turnings
 permalink: /exhibits/bearded-dragon-turnings/
 exhibit-id: 22-115
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OD21"
 description: "Handcrafted wood products such as bowls, goblets and Christmas ornaments."
 description-long: "Our handcrafted wood products such as bowls, goblets and Christmas ornaments will make great gifts for this upcoming holiday season.  Made using a variety of wood species we have many different colors and styles to choose from.  As most of our products utilize reclaimed wood you can also feel good about being environmentally responsible."
 image: /assets/images/exhibit-images/22-115-exhibit-bearded-dragon-turnings-primary-exhibit-large.JPEG
@@ -24,8 +25,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-31 11:58:32"
-last-modified-jotform: "2022-10-08 13:05:48"
-last-exported: "2022-10-08 14:39:30"
+last-modified-jotform: "2022-10-15 20:50:47"
+last-exported: "2022-10-16 18:06:04"
 sitemap: false
 
 ---

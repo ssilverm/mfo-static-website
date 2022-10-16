@@ -6,7 +6,7 @@ slug: 3d-gloop
 permalink: /exhibits/3d-gloop/
 exhibit-id: 22-70
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OA8, OA9"
 description: "3D Gloop! manufactures specialty adhesives & coatings for additive manufacturing / 3D printing. "
 description-long: "3D Gloop! manufactures specialty adhesives & coatings for additive manufacturing / 3D printing. "
 image: /assets/images/exhibit-images/22-70-exhibit-3d-gloop-43-logo-final-nosplat-1-4939-large.png
@@ -29,8 +29,8 @@ categories:
   - slug: 3d-printing
     name: 3D Printing
 created-jotform: "2022-08-15 09:32:14"
-last-modified-jotform: "2022-10-09 14:15:28"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-15 20:29:45"
+last-exported: "2022-10-16 18:06:05"
 sitemap: false
 
 ---
