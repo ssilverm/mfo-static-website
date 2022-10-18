@@ -6,7 +6,7 @@ slug: piplay
 permalink: /exhibits/piplay/
 exhibit-id: 22-11
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SF4"
 description: "Welcome to PiPlay!
 
 Open Source Video Game & Fun Hardware for the Raspberry Pi!"
@@ -42,8 +42,8 @@ categories:
   - slug: raspberry-pi
     name: Raspberry Pi
 created-jotform: "2022-07-24 13:04:11"
-last-modified-jotform: "2022-10-09 13:41:55"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-17 21:03:33"
+last-exported: "2022-10-17 21:08:09"
 sitemap: false
 
 ---

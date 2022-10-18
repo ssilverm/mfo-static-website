@@ -6,7 +6,7 @@ slug: take-it-apart
 permalink: /exhibits/take-it-apart/
 exhibit-id: 22-134
 exhibit-zone: "Curiosity"
-space-number: Unassigned
+space-number: "CA3, CA4, CA5, CA6, CB5, CB4, CB6, CB3"
 description: "Learn about the different functions of tools and the innards of electronics as you take them apart!"
 description-long: "Makerspace? More like breakerspace! Get hands-on with tools and electronics as you meticulously take them apart bit by bit - and even learn about the different bits you&#039;ll use! "
 image: /assets/images/exhibit-images/22-134-exhibit-take-it-apart-mfo-large.PNG
@@ -32,8 +32,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-09-09 09:22:06"
-last-modified-jotform: "2022-10-09 13:53:38"
-last-exported: "2022-10-13 22:05:47"
+last-modified-jotform: "2022-10-17 21:42:42"
+last-exported: "2022-10-18 08:34:33"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: the-all-seeing-vibes
 permalink: /exhibits/the-all-seeing-vibes/
 exhibit-id: 22-121
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SH1"
 description: "A giant LED illuminati pyramid using a daisy-chainable LED control system."
 description-long: "Originally this was built for an outdoor camping festival as an art piece. Here not only is there spectacle in how large the piece came out, but several, multi-discipline engineering challenges were overcome to accomplish this exhibit. Elements of wood-working, lots of 3D printing, electrical engineering, PCB design, fiber arts and more were all integrated together in only under as much careful watch as the pyramid itself symbolizes"
 image: /assets/images/exhibit-images/22-121-exhibit-the-all-seeing-vibes-all-seeing-vibes-render-large.png
@@ -39,8 +39,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-31 20:54:06"
-last-modified-jotform: "2022-10-09 12:33:21"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-16 18:24:18"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

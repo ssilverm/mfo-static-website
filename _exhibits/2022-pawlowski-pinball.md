@@ -6,7 +6,7 @@ slug: pawlowski-pinball
 permalink: /exhibits/pawlowski-pinball/
 exhibit-id: 22-21
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SG4"
 description: "We will be showcasing our first pinball game built entirely on our own platform. "
 description-long: "We will be showcasing our first pinball game built entirely on our own platform. Pinball machines are becoming more popular and in demand. Prices can range from $7,000 to $15,000. We offer a fully functional game competitive to others at only $2,000."
 image: /assets/images/exhibit-images/22-21-exhibit-pawlowski-pinball-pinballexhibit-large.jpg
@@ -39,8 +39,8 @@ categories:
   - slug: manufacturing
     name: Manufacturing
 created-jotform: "2022-07-24 22:16:04"
-last-modified-jotform: "2022-10-09 13:40:30"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-17 21:03:17"
+last-exported: "2022-10-17 21:08:09"
 sitemap: false
 
 ---

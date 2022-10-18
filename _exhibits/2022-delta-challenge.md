@@ -6,7 +6,7 @@ slug: delta-challenge
 permalink: /exhibits/delta-challenge/
 exhibit-id: 22-94
 exhibit-zone: "Opportunity"
-space-number: "A13, A14"
+space-number: "OA13, OA14"
 description: "Delta challenge is both a tabletop and full size game designed to challenge your teamwork abilities."
 description-long: "Delta Challenge is a tabletop game prototype that we would like to show at Maker Faire.  To make it even more fun we are constructing a full size (human) version of the game just for Maker Faire.  On display will also be tabletop versions and examples of how it was prototyped and developed.
 
@@ -34,8 +34,8 @@ categories:
   - slug: invention
     name: Invention
 created-jotform: "2022-08-25 21:35:27"
-last-modified-jotform: "2022-10-15 20:44:13"
-last-exported: "2022-10-16 18:06:05"
+last-modified-jotform: "2022-10-17 21:15:37"
+last-exported: "2022-10-17 21:29:29"
 sitemap: false
 
 ---

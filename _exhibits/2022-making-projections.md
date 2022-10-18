@@ -6,7 +6,7 @@ slug: making-projections
 permalink: /exhibits/making-projections/
 exhibit-id: 22-166
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SI1, SJ1"
 description: "A projection mapping project is created and displayed live. "
 description-long: "A projection mapping project is created and displayed live. Attendees can watch the process, the end result, and ask questions."
 image: /assets/images/exhibit-images/22-166-exhibit-making-projections-70b1dffb-5d01-478a-9759-522bdbb1e6c0-large.jpeg
@@ -33,8 +33,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2022-10-07 11:47:22"
-last-modified-jotform: "2022-10-09 12:33:29"
-last-exported: "2022-10-13 22:05:45"
+last-modified-jotform: "2022-10-16 18:26:33"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

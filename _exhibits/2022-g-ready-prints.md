@@ -6,7 +6,7 @@ slug: g-ready-prints
 permalink: /exhibits/g-ready-prints/
 exhibit-id: 22-17
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SG33"
 description: "Hello everyone, I&#039;m new to 3d printing and working on The Paz Vizsla armor set from do3d.com. "
 description-long: "I&#039;ve been working on this project for months. With 2 3d printers &quot; ender 3 v2 and the Artillery sidewinder x2. I can&#039;t say I&#039;ve have done this alone my sponsor 3D Print Orlando has provided all the filament for this project. Big thanks to them :) we have every sing model completed and ready to be put together. This is my 1st time working with straps, leather, painting even editing my YouTube videos lol it&#039;s all new to me but I&#039;m having a blast my kids too lol. "
 image: /assets/images/exhibit-images/22-17-exhibit-g-ready-prints-20220710-121028-large.jpg
@@ -87,8 +87,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-07-24 20:45:33"
-last-modified-jotform: "2022-10-09 16:51:43"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-16 19:16:11"
+last-exported: "2022-10-17 20:54:01"
 sitemap: false
 
 ---

@@ -19,12 +19,43 @@ image-primary:
   medium: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-medium.jpg
   large: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-large.jpg
   full: /assets/images/exhibit-images/22-104-exhibit-dantroide-20220525-161511-full.jpg
-website: "https://sites.google.com/view/dantroide"
+additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/22-104-exhibit-addl1-dantroide-5cad056f-915f-437f-b83b-4fafbe94ffdf-1024x1024-small.jpg
+    medium: /assets/images/exhibit-images/22-104-exhibit-addl1-dantroide-5cad056f-915f-437f-b83b-4fafbe94ffdf-1024x1024-medium.jpg
+    large: /assets/images/exhibit-images/22-104-exhibit-addl1-dantroide-5cad056f-915f-437f-b83b-4fafbe94ffdf-1024x1024-large.jpg
+    full: /assets/images/exhibit-images/22-104-exhibit-addl1-dantroide-5cad056f-915f-437f-b83b-4fafbe94ffdf-1024x1024-full.jpg
+  - 2:
+    small: /assets/images/exhibit-images/22-104-exhibit-addl2-dantroide-img-0134-270x270-small.jpg
+    medium: /assets/images/exhibit-images/22-104-exhibit-addl2-dantroide-img-0134-270x270-medium.jpg
+    large: /assets/images/exhibit-images/22-104-exhibit-addl2-dantroide-img-0134-270x270-large.jpg
+    full: /assets/images/exhibit-images/22-104-exhibit-addl2-dantroide-img-0134-270x270-full.jpg
+  - 3:
+    small: /assets/images/exhibit-images/22-104-exhibit-addl3-dantroide-p1050743-270x270-small.jpg
+    medium: /assets/images/exhibit-images/22-104-exhibit-addl3-dantroide-p1050743-270x270-medium.jpg
+    large: /assets/images/exhibit-images/22-104-exhibit-addl3-dantroide-p1050743-270x270-large.jpg
+    full: /assets/images/exhibit-images/22-104-exhibit-addl3-dantroide-p1050743-270x270-full.jpg
+  - 4:
+    small: /assets/images/exhibit-images/22-104-exhibit-addl4-dantroide-p1050756-270x270-small.jpg
+    medium: /assets/images/exhibit-images/22-104-exhibit-addl4-dantroide-p1050756-270x270-medium.jpg
+    large: /assets/images/exhibit-images/22-104-exhibit-addl4-dantroide-p1050756-270x270-large.jpg
+    full: /assets/images/exhibit-images/22-104-exhibit-addl4-dantroide-p1050756-270x270-full.jpg
+  - 5:
+    small: /assets/images/exhibit-images/22-104-exhibit-addl5-dantroide-photo-2021-12-02-15-43-56-270x270-small.jpg
+    medium: /assets/images/exhibit-images/22-104-exhibit-addl5-dantroide-photo-2021-12-02-15-43-56-270x270-medium.jpg
+    large: /assets/images/exhibit-images/22-104-exhibit-addl5-dantroide-photo-2021-12-02-15-43-56-270x270-large.jpg
+    full: /assets/images/exhibit-images/22-104-exhibit-addl5-dantroide-photo-2021-12-02-15-43-56-270x270-full.jpg
+website: "https://dantroide.iti-marconi.edu.it/en/dantroide_en/"
+video: "https://www.youtube.com/watch?v=iWbNAwIfJeg"
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/iWbNAwIfJeg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Dantroide"></iframe>'
 maker: 
   name: "ITST Marconi"
-  description: "The group is made up of students aged between 15 and 17 enrolled in a technical institute (a secondary school) in Campobasso (Italy). The group has transversal skills as the students are enrolled in literature, computer science and electronics courses. In the project the students were followed and supported by their respective teachers."
+  description: "The maker group is made up of students aged between 15 and 17 enrolled in a technical institute (a secondary school) in Campobasso (Italy). The group has transversal skills as the students are enrolled in literature, computer science and electronics courses. In the project the students were followed and supported by their respective teachers."
   image-primary: /assets/images/exhibit-images/22-104-maker-dantroide-pddocnvu-400x400-medium.jpg
-  website: https://sites.google.com/view/dantroide
+  website: https://dantroide.iti-marconi.edu.it/en/dantroide_en/
+  instagram: https://www.instagram.com/dantroide/?igshid=YmMyMTA2M2Y%3D
+  facebook: https://www.facebook.com/profile.php?id=100086221402505
+  youtube: https://www.youtube.com/channel/UCg5wIZSRwho_fBfaVXFMmDA/videos
 categories: 
   - slug: arduino
     name: Arduino
@@ -35,8 +66,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-29 04:15:59"
-last-modified-jotform: "2022-10-15 20:55:36"
-last-exported: "2022-10-16 18:06:05"
+last-modified-jotform: "2022-10-17 16:17:27"
+last-exported: "2022-10-17 20:53:59"
 sitemap: false
 
 ---

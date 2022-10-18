@@ -6,7 +6,7 @@ slug: makerfx-makerspace
 permalink: /exhibits/makerfx-makerspace/
 exhibit-id: 22-47
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SG8, SG9"
 description: "MakerFX Makerspace, a local makerspace here in Orlando. The group that produces MakerFaire Orlando!"
 description-long: "MakerFX is a makerspace located in south Orlando and is the group that produces MakerFaire Orlando! Stop by and see the latest creations from MakerFX Makerspace, learn about the community efforts we participate in, and learn more about our makerspace."
 image: /assets/images/exhibit-images/22-47-exhibit-makerfx-makerspace-21-120-exhibit-makerfx-makerspace-51382000813-e8bbcb283f-c-large-large.jpg
@@ -74,8 +74,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-09 13:10:59"
-last-modified-jotform: "2022-10-09 13:52:29"
-last-exported: "2022-10-13 22:06:04"
+last-modified-jotform: "2022-10-17 20:52:17"
+last-exported: "2022-10-17 20:54:00"
 sitemap: false
 
 ---

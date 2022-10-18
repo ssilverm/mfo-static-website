@@ -6,7 +6,7 @@ slug: hand-painted-minis-by-bob-in-tv
 permalink: /exhibits/hand-painted-minis-by-bob-in-tv/
 exhibit-id: 22-93
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SG34"
 description: "Fantasy miniatures and Star Wars blaster 3D printed and professionally hand painted  and much more"
 description-long: "3D printed miniatures  Star Wars -stuff not seen in stores  _ unusual pieces all professionally hand painted  you can also find them unpainted for the do it yourselfers"
 image: /assets/images/exhibit-images/22-93-exhibit-hand-painted-minis-by-bob-in-tv-075-large.JPG
@@ -31,8 +31,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2022-08-25 12:52:51"
-last-modified-jotform: "2022-10-09 16:10:05"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-16 19:13:40"
+last-exported: "2022-10-17 20:53:59"
 sitemap: false
 
 ---

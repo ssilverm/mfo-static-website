@@ -6,7 +6,7 @@ slug: captain-van-plastic-propgunguru
 permalink: /exhibits/captain-van-plastic-propgunguru/
 exhibit-id: 22-9
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SH34"
 description: "I create prop weapons from toys to use for cosplaying, TV, movies, theater and larping."
 description-long: "My family and I have been creating Steampunk gadgets and Science Fiction type weapons for approximately 10 years. I have had my items used by YouTube layperson, several movies and people who wanted them for display."
 image: /assets/images/exhibit-images/22-9-exhibit-captain-van-plastic-propgunguru-20220508-083632-large.jpg
@@ -33,8 +33,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-07-24 11:51:21"
-last-modified-jotform: "2022-10-09 16:15:59"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-16 19:14:29"
+last-exported: "2022-10-17 20:54:01"
 sitemap: false
 
 ---

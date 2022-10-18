@@ -6,7 +6,7 @@ slug: central-florida-retro-computing-group
 permalink: /exhibits/central-florida-retro-computing-group/
 exhibit-id: 22-153
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SC1, SC2, SC3"
 description: "A group of retro-computing enthusiasts in Central Florida."
 description-long: "If you&#039;re an enthusiast of keeping older computers from the 80-90&#039;s or older alive, or just want to reminisce about computing back in those fun days, this is the group to be part of.  We&#039;re a casual no-fee club who meet casually to hang out and chat about and restore retro computers.
 Collectively, our members have a significant collection of everything from KIM-1&#039;s and ZX81&#039;s through VIC-20&#039;s, Cocos, and up to rack-mount PDP&#039;s, and more.
@@ -36,8 +36,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-09-21 10:18:34"
-last-modified-jotform: "2022-10-09 15:13:21"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-17 20:45:48"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: ali-wagner-sculpts
 permalink: /exhibits/ali-wagner-sculpts/
 exhibit-id: 22-62
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OC22"
 description: "Pop culture sculptures of your favorite characters!  "
 description-long: "Ali Wagner Sculpts is here again with pop culture sculptures of your favorite characters! Every piece is handmade, from the sculpting to the mold making to the painting, and they&#039;re the best gifts for yourself and all your friends. "
 image: /assets/images/exhibit-images/22-62-exhibit-ali-wagner-sculpts-46514464-2187085821532811-1753442418889326592-o-large.jpg
@@ -50,8 +50,8 @@ categories:
   - slug: craft
     name: Craft
 created-jotform: "2022-08-13 15:31:55"
-last-modified-jotform: "2022-10-09 14:14:47"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-17 21:20:11"
+last-exported: "2022-10-17 21:29:29"
 sitemap: false
 
 ---

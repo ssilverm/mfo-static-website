@@ -6,7 +6,7 @@ slug: the-dragons-horde
 permalink: /exhibits/the-dragons-horde/
 exhibit-id: 22-71
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SF5"
 description: "Handmade fantasy art sculptures."
 description-long: "Welcome to The Dragon’s Horde! An army of handmade dragons, fantasy creatures, and accessories specially and lovingly crafted by hand by artist Cid Snook.
 
@@ -50,8 +50,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-15 17:26:32"
-last-modified-jotform: "2022-10-09 12:33:12"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-17 20:53:41"
+last-exported: "2022-10-17 20:53:59"
 sitemap: false
 
 ---

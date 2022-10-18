@@ -6,7 +6,7 @@ slug: czartroniks
 permalink: /exhibits/czartroniks/
 exhibit-id: 22-167
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SF1"
 description: "Handmade digital musical instruments, audio and video. "
 description-long: "Czartroniks is a combination of Chuck E. Cheese, heavy metal and the Muppet Show.  "
 image: /assets/images/exhibit-images/22-167-exhibit-czartroniks-12030561-1492141614429817-2387662813479642395-o-large.jpg
@@ -31,8 +31,8 @@ categories:
   - slug: music
     name: Music
 created-jotform: "2022-10-07 16:44:05"
-last-modified-jotform: "2022-10-08 10:32:49"
-last-exported: "2022-10-08 12:59:41"
+last-modified-jotform: "2022-10-16 18:22:47"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

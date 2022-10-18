@@ -6,7 +6,7 @@ slug: barrel-of-kong-arcades
 permalink: /exhibits/barrel-of-kong-arcades/
 exhibit-id: 22-83
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SH4"
 description: "Vintage Arcade Games built inside of repurposed whiskey and wine barrels."
 description-long: "These are custom made Arcade Machine from repurposed Whiskey and Wine Barrels. 
 
@@ -54,8 +54,8 @@ categories:
   - slug: gaming
     name: Gaming
 created-jotform: "2022-08-20 17:51:56"
-last-modified-jotform: "2022-10-09 13:39:53"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-17 21:02:56"
+last-exported: "2022-10-17 21:08:08"
 sitemap: false
 
 ---

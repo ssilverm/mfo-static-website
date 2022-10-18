@@ -6,7 +6,7 @@ slug: aeo-studios
 permalink: /exhibits/aeo-studios/
 exhibit-id: 22-146
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SE33"
 description: "Creating Everything from Demons to Divas for 26+years!  Props, SFX, Prosthetics, Horror Art & More!"
 description-long: "AEO is Orlando&#039;s Oldest Theatrical Makeup/SFX Retailer & Production Center.  We specialize in custom-made props & Horror Art for Film, Theatre, Cosplay, Collectors & More.  We also stock many kinds of Theatrical Makeup to help with your character creations, as well as host workshops throughout the year on SFX Makeup, Mold-Making, Prop Fabrication & more.  Stop by & see what we can create for You."
 image: /assets/images/exhibit-images/22-146-exhibit-aeo-studios-wm-advert-web-2022-large.jpg
@@ -88,8 +88,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2022-09-18 13:18:10"
-last-modified-jotform: "2022-10-09 16:10:34"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-16 19:11:00"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

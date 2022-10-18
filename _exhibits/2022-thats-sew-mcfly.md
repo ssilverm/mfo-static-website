@@ -6,7 +6,7 @@ slug: thats-sew-mcfly
 permalink: /exhibits/thats-sew-mcfly/
 exhibit-id: 22-56
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SH31"
 description: "Nerdy handmade items to help comfort your life"
 description-long: "Handcrafted, high quality, unique, eco-friendly, and reusable items include coaster sets, microwave safe bowl cozies, hot/cold packs, eye masks, and reusable cotton face squares. Choose from dozens of styles in fun and fandom fabrics! A portion of all proceeds goes towards charity every month."
 image: /assets/images/exhibit-images/22-56-exhibit-thats-sew-mcfly-209965763-339074441135835-1797898230532479337-n-large.jpg
@@ -37,8 +37,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-08-13 10:45:55"
-last-modified-jotform: "2022-10-11 21:48:59"
-last-exported: "2022-10-13 22:06:04"
+last-modified-jotform: "2022-10-16 18:59:28"
+last-exported: "2022-10-17 20:54:00"
 sitemap: false
 
 ---

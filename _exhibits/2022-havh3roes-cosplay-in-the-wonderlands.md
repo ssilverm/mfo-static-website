@@ -6,7 +6,7 @@ slug: havh3roes-cosplay-in-the-wonderlands
 permalink: /exhibits/havh3roes-cosplay-in-the-wonderlands/
 exhibit-id: 22-151
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SJ32, SJ33, SJ34"
 description: "Follow us into The Wonderlands as HavH3roes? Cosplay takes on our biggest builds yet!"
 description-long: "Welcome, Fatemaker! Watch as HavH3roes? Cosplay brings to life two beloved characters from Tiny Tina&#039;s Wonderlands: Dragon Lord and Queen Butt Stallion! We will also be showcasing some pieces from our award-winning Borderlands cosplays. "
 image: /assets/images/exhibit-images/22-151-exhibit-havh3roes-cosplay-in-the-wonderlands-20220612-182957-large.jpg
@@ -39,8 +39,8 @@ categories:
   - slug: upcycling
     name: Upcycling
 created-jotform: "2022-09-20 22:46:59"
-last-modified-jotform: "2022-10-09 12:34:27"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-16 19:17:07"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: duinokit-learn-coding-and-electronics
 permalink: /exhibits/duinokit-learn-coding-and-electronics/
 exhibit-id: 22-150
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OE22"
 description: "Learn about STEM Coding and Electronics with our non-consumable learning kits."
 description-long: "DuinoKits will help to introduce Arduino based electronics and programming (C++). 
 
@@ -82,8 +82,8 @@ categories:
   - slug: makerspace
     name: Makerspace
 created-jotform: "2022-09-20 21:41:27"
-last-modified-jotform: "2022-10-09 12:33:55"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-17 21:16:07"
+last-exported: "2022-10-17 21:29:28"
 sitemap: false
 
 ---

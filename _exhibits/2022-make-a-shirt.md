@@ -6,7 +6,7 @@ slug: make-a-shirt
 permalink: /exhibits/make-a-shirt/
 exhibit-id: 22-41
 exhibit-zone: "Curiosity"
-space-number: Unassigned
+space-number: "CE1, CF1, CG1, CH1, CI1"
 description: "Print your own T-Shirt!"
 description-long: "Learn the process of screen printing and print your own commemorative 2022 MakerFaire Orlando T-Shirt. Note: There is an additional charge for this activity. Part of the proceeds from this activity will benefit the FIRST Robotics club that is running the exhibit. "
 image: /assets/images/exhibit-images/22-41-exhibit-make-a-shirt-51179764687-4ee841920c-c-large.jpg
@@ -48,8 +48,8 @@ categories:
   - slug: screen-printing
     name: Screen Printing
 created-jotform: "2022-08-03 14:28:56"
-last-modified-jotform: "2022-10-09 12:34:02"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-17 21:41:15"
+last-exported: "2022-10-18 08:34:33"
 sitemap: false
 
 ---

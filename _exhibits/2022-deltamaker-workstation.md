@@ -6,7 +6,7 @@ slug: deltamaker-workstation
 permalink: /exhibits/deltamaker-workstation/
 exhibit-id: 22-120
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SE30, SE31"
 description: "A professionally-crafted motion system for large-format 3D printing and 3D wood-carving. "
 description-long: "The DeltaMaker Workstation is a professionally-crafted motion system which is at the heart of our large-format 3D printers and 3D wood-carving machines. The Workstation features a large work area, and interchangeable tools, allowing the machine to quickly change from 3D printing to CNC wood carving and a variety of other fabrication tasks."
 image: /assets/images/exhibit-images/22-120-exhibit-deltamaker-workstation-mfo2021-large.jpg
@@ -44,8 +44,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-31 20:19:51"
-last-modified-jotform: "2022-10-09 13:49:12"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-16 18:58:07"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

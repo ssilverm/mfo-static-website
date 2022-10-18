@@ -6,7 +6,7 @@ slug: ailuros
 permalink: /exhibits/ailuros/
 exhibit-id: 22-96
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OG10"
 description: "Handmade bags and accessories from your favorite fandoms."
 description-long: "We offer a decent selection of bags and accessories in a long range of custom prints and take custom orders as well. "
 image: /assets/images/exhibit-images/22-96-exhibit-ailuros-ailuros-large.jpg
@@ -51,8 +51,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-08-26 09:48:34"
-last-modified-jotform: "2022-10-11 22:45:30"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-17 21:22:28"
+last-exported: "2022-10-17 21:29:29"
 sitemap: false
 
 ---

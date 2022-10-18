@@ -6,7 +6,7 @@ slug: merlin-and-mim
 permalink: /exhibits/merlin-and-mim/
 exhibit-id: 22-125
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SH33"
 description: "Merlin and Mim creates customizable and adaptive children&#039;s costumes so all kids can play dress up."
 description-long: "Merlin and Mim costumes are made from 100% cotton, feature reversible mix and match components, and are designed to incorporate adaptive features. All children should be able to experience the joy of playing dress up without a health condition limiting what they can wear. Alternate openings and access points are disguised in the seams, so all styles are the same, with or without adaptive modifications. "
 image: /assets/images/exhibit-images/22-125-exhibit-merlin-and-mim-13e009b4-d12d-40c1-849a-451d931e1e5a-large.jpeg
@@ -68,8 +68,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-08-31 22:24:41"
-last-modified-jotform: "2022-10-11 21:52:51"
-last-exported: "2022-10-13 22:05:59"
+last-modified-jotform: "2022-10-16 19:13:59"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

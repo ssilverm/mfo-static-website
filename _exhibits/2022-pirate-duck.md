@@ -6,7 +6,7 @@ slug: pirate-duck
 permalink: /exhibits/pirate-duck/
 exhibit-id: 22-102
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OE19"
 description: "Showcasing unique designs that reflect pop culture. "
 description-long: "Showcasing unique and fun designs that reflect pop culture. The designs range from mashups to humor designs. Individuals can create there own garment that allows them to repress their inner nerdiness. "
 image: /assets/images/exhibit-images/22-102-exhibit-pirate-duck-04987e7f-6d9c-4dfb-8aea-8586a73162c3-large.jpeg
@@ -42,8 +42,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2022-08-28 15:54:49"
-last-modified-jotform: "2022-10-11 22:45:07"
-last-exported: "2022-10-13 22:06:01"
+last-modified-jotform: "2022-10-17 21:23:40"
+last-exported: "2022-10-17 21:29:29"
 sitemap: false
 
 ---

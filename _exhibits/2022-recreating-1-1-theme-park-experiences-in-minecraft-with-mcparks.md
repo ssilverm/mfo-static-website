@@ -6,7 +6,7 @@ slug: recreating-1-1-theme-park-experiences-in-minecraft-with-mcparks
 permalink: /exhibits/recreating-1-1-theme-park-experiences-in-minecraft-with-mcparks/
 exhibit-id: 22-116
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SE4"
 description: "Learn how a Minecraft server uses familiar maker techniques recreating beloved theme parks virtually"
 description-long: "For almost 10 years, MCParks has been dedicated to faithfully recreating theme parks such as Walt Disney World, Universal Orlando, Disneyland, and more in Minecraft at a 1:1 scale. 
 Along the way, we&#039;ve learned a variety of techniques 
@@ -49,8 +49,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-08-31 16:35:33"
-last-modified-jotform: "2022-10-09 17:13:56"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-17 20:53:15"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---

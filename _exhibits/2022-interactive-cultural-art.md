@@ -5,8 +5,8 @@ title: "Interactive Cultural Art"
 slug: interactive-cultural-art
 permalink: /exhibits/interactive-cultural-art/
 exhibit-id: 22-128
-exhibit-zone: "Opportunity"
-space-number: Unassigned
+exhibit-zone: "The Dark Side (Spirit Building)"
+space-number: "SG5"
 description: "Interactive Cultural Art consists of 2 experiences celebrating culture through interactivity. "
 description-long: "Interactive Cultural Art Exhibit consists of two experiences, Black History Radio and Bachata Hero.
 
@@ -50,8 +50,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-09-02 01:31:21"
-last-modified-jotform: "2022-10-15 10:04:05"
-last-exported: "2022-10-16 18:06:04"
+last-modified-jotform: "2022-10-17 21:13:46"
+last-exported: "2022-10-17 21:29:28"
 sitemap: false
 
 ---

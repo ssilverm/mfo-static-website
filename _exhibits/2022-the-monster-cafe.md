@@ -6,7 +6,7 @@ slug: the-monster-cafe
 permalink: /exhibits/the-monster-cafe/
 exhibit-id: 22-112
 exhibit-zone: "Opportunity"
-space-number: Unassigned
+space-number: "OD13"
 description: "Fantastically bright and colorful tiny monsters in all shapes and sizes.  Handmade and unique."
 description-long: "Two sisters with a love for monsters and fun embarked on a journey to share their creativity and imagination with others.  The Monster Cafe started as a birthday gift given to a beloved sister and blossomed into a wonderful outlet for our imagination.  We enjoy coming up with new creatures to share with others and ways to push our art.  Welcome to The Monster Cafe."
 image: /assets/images/exhibit-images/22-112-exhibit-the-monster-cafe-09af1286-3423-4dee-bb98-747b4d4a4f99-large.jpeg
@@ -66,8 +66,8 @@ categories:
   - slug: sewing
     name: Sewing
 created-jotform: "2022-08-31 00:04:51"
-last-modified-jotform: "2022-10-09 14:22:27"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-17 21:17:36"
+last-exported: "2022-10-17 21:29:29"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: brassroots-leather
 permalink: /exhibits/brassroots-leather/
 exhibit-id: 22-67
 exhibit-zone: "Spirit"
-space-number: Unassigned
+space-number: "SE34"
 description: "Steampunk and Pop Culture Inspired Leather Accessories and more. "
 description-long: "Taking a childhood hobby, and an adult interest in the marvelous genre that is Steampunk, created a hobby business that creates one of a kind, customized leather crafted items. Additionally, props, and 3D printed items have been added to the lineup of items in inventory and made to order. "
 image: /assets/images/exhibit-images/22-67-exhibit-brassroots-leather-43-26225928989-928dd84777-k-1409-large.jpg
@@ -36,8 +36,8 @@ categories:
   - slug: steampunk
     name: SteamPunk
 created-jotform: "2022-08-13 21:59:26"
-last-modified-jotform: "2022-10-11 21:30:27"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-16 19:11:14"
+last-exported: "2022-10-17 20:53:59"
 sitemap: false
 
 ---

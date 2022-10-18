@@ -6,7 +6,7 @@ slug: nerf-animatronic-shooting-gallery
 permalink: /exhibits/nerf-animatronic-shooting-gallery/
 exhibit-id: 22-57
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SC7, SC8"
 description: "A new take on the amusement park shooting gallery of old. "
 description-long: "A new take on the amusement park shooting gallery of old. Test your skill at Enlightened Monkey Art Nerf Animation Shooting Gallery. Over thirty targets will test your skill and make you laugh. Targets include signing fish, dancing robots, banging drums, the Abominable Snowman, bubbles and more. Appropriate of all ages and all skill levels. Everyone wins a prize."
 image: /assets/images/exhibit-images/22-57-exhibit-nerf-animatronic-shooting-gallery-nerf-shooting-range-photo-with-words-large.JPG
@@ -43,8 +43,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2022-08-13 12:10:03"
-last-modified-jotform: "2022-10-09 12:33:24"
-last-exported: "2022-10-13 22:06:04"
+last-modified-jotform: "2022-10-16 18:30:33"
+last-exported: "2022-10-17 20:54:00"
 sitemap: false
 
 ---

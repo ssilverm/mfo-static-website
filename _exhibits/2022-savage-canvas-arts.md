@@ -6,7 +6,7 @@ slug: savage-canvas-arts
 permalink: /exhibits/savage-canvas-arts/
 exhibit-id: 22-10
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SE5"
 description: "Glow in the dark paintings and t-shirts."
 description-long: "Hundreds of designs on dual image glow in the dark paintings and t-shirts. The background image is both glow in the dark and black light glow. Shirts are machine washable with dark colors and can be machine or hung dried. Custom/Pre-orders are available on the website, or by phone. We offer canvas sizes of 12x12 at shows, though larger sizes can be ordered. Shirts run from Kid sizes S-XL, Women&#039;s XS-3XL, and  Men&#039;s S-5XL. "
 image: /assets/images/exhibit-images/22-10-exhibit-savage-canvas-arts-booth-set-up-large.jpg
@@ -27,8 +27,8 @@ categories:
   - slug: art
     name: Art
 created-jotform: "2022-07-24 12:47:29"
-last-modified-jotform: "2022-10-09 17:14:36"
-last-exported: "2022-10-13 22:06:06"
+last-modified-jotform: "2022-10-17 20:53:27"
+last-exported: "2022-10-17 20:54:01"
 sitemap: false
 
 ---

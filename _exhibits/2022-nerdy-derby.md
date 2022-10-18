@@ -6,7 +6,7 @@ slug: nerdy-derby
 permalink: /exhibits/nerdy-derby/
 exhibit-id: 22-39
 exhibit-zone: "Curiosity"
-space-number: Unassigned
+space-number: "CD4, CD5, CE4, CE5, CF4, CF5, CG4, CG5, CH4, CH5"
 description: "Make your own individual race car!"
 description-long: "Use a shared set of materials and make your own individual race car. You can them race it against two other cars!"
 image: /assets/images/exhibit-images/22-39-exhibit-nerdy-derby-21-149-exhibit-nerdy-derby-44146489990-e297d06ac1-c-large-large.jpg
@@ -51,8 +51,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-08-03 14:07:20"
-last-modified-jotform: "2022-10-09 12:33:50"
-last-exported: "2022-10-13 22:06:05"
+last-modified-jotform: "2022-10-17 21:40:43"
+last-exported: "2022-10-18 08:34:34"
 sitemap: false
 
 ---

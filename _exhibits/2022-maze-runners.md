@@ -6,7 +6,7 @@ slug: maze-runners
 permalink: /exhibits/maze-runners/
 exhibit-id: 22-123
 exhibit-zone: "Robot Ruckus (Spirit Building)"
-space-number: Unassigned
+space-number: "SA21"
 description: "This exhibit will be a reconfigurable maze with small robots that attempt to solve the maze. "
 description-long: "The maze will be a pegboard with a series of small pieces of corregated plastic that can be placed on the pegboard using small pins on the bottom of the board pieces. Once a valid maze is created, a series of small robots will attempt to solve the maze using an array of sensors to map their surroundings. The maze exhibits adaptive autonomy and decision-making in robotic applications."
 image: /assets/images/exhibit-images/22-123-exhibit-maze-runners-120220520152111-img-0669-large.JPG
@@ -57,8 +57,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-08-31 21:12:15"
-last-modified-jotform: "2022-10-15 09:58:07"
-last-exported: "2022-10-16 18:06:04"
+last-modified-jotform: "2022-10-17 20:39:01"
+last-exported: "2022-10-17 20:53:56"
 sitemap: false
 
 ---
