@@ -14,6 +14,11 @@ sponsors:
   - name: Sundance
     url: https://www.sundanceusa.com
     logo: Sundance-Logo-Final_horz_CMYK.png
+    level: 4
+    active: true
+  - name: Universal Creative
+    url: https://jobs.universalparks.com/universal-creative/
+    logo: universal-creative.png
     level: 3
     active: true
   - name: Prusa Reseach
@@ -105,11 +110,11 @@ sponsors:
     url: https://www.betafpv.com
     logo: beta-fpv-transparent.png
     level: 4
-    active: false
+    active: true
   - name: Fulament
     url: https://www.fulament.com
     logo: fulament .png
-    level: 4
+    level: 5
     active: false
   - name: Wiring Technologies
     url: https://wiringtech.com/
