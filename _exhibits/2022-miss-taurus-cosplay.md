@@ -6,7 +6,7 @@ slug: miss-taurus-cosplay
 permalink: /exhibits/miss-taurus-cosplay/
 exhibit-id: 22-155
 exhibit-zone: "Spirit"
-space-number: "SJ30, SJ31"
+space-number: " SJ31,SJ32"
 description: "I make cosplays and jewelry."
 description-long: "I would like to show my work to everyone and help them answer their questions!"
 image: /assets/images/exhibit-images/22-155-exhibit-miss-taurus-cosplay-inbound967881834-large.jpg
@@ -52,8 +52,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-09-22 22:59:32"
-last-modified-jotform: "2022-10-16 19:16:44"
-last-exported: "2022-10-17 20:53:56"
+last-modified-jotform: "2022-10-19 20:57:54"
+last-exported: "2022-10-19 20:58:02"
 sitemap: false
 
 ---

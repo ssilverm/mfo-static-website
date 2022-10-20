@@ -6,7 +6,7 @@ slug: making-foam-props-and-armor
 permalink: /exhibits/making-foam-props-and-armor/
 exhibit-id: 22-156
 exhibit-zone: "Spirit"
-space-number: "SJ28, SJ29"
+space-number: "SI36, SJ36, SJ35"
 description: "Fred will be building and painting a prop from start to finish"
 description-long: "Armed only with foam,  simple tools, paint and a hvy dose of imagination watch Fred create a prop from start to finish. No idea what it&#039;ll be.... depends on his mood. "
 image: /assets/images/exhibit-images/22-156-exhibit-making-foam-props-and-armor-fb-img-1659701086773-large.jpg
@@ -57,8 +57,8 @@ categories:
   - slug: props
     name: Props
 created-jotform: "2022-09-23 16:32:45"
-last-modified-jotform: "2022-10-16 19:16:27"
-last-exported: "2022-10-17 20:53:56"
+last-modified-jotform: "2022-10-19 20:52:27"
+last-exported: "2022-10-19 20:56:52"
 sitemap: false
 
 ---
