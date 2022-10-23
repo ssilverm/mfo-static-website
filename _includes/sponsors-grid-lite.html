@@ -6,8 +6,16 @@
       <div class="col-xs-12">
           <div class="faire-sponsors-box">
           {% for sponsor in sponsors %}
-            <div class="sponsors-box-lg" style="width: 200px; border-right: none; margin-top: none;" id="{{sponsor.name}}">
-              <a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:150px; max-height:150px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a>
+          {% if sponsor.level < 4 %}
+              <div class="sponsors-box-lg" style="width: 350px; border-right: none; margin-top: none;" id="{{sponsor.name}}">
+                <a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:300px; max-height:300px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a>
+
+              {% else %}
+              <div class="sponsors-box-lg" style="width: 200px; border-right: none; margin-top: none;" id="{{sponsor.name}}">
+                <a href="{{sponsor.url}}" target="_blank"><img src="/assets/images/sponsors/{{sponsor.logo}}" class="img-responsive" style="max-width:150px; max-height:150px; margin-left: auto; margin-right:auto;" alt="{{sponsor.name}}"></a>
+
+          {% endif %}
+
             </div>
           {% endfor %}
           </div>
