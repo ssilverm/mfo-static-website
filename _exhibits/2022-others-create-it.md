@@ -5,7 +5,8 @@ title: "Others Create It!"
 slug: others-create-it
 permalink: /exhibits/others-create-it/
 exhibit-id: 22-157
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OD12"
 description: "Fanfiction: Young author Novel copies, art, jewelry, bookmarks, cosplay
 
 Paracords: popular design
@@ -43,8 +44,8 @@ categories:
   - slug: vex-robotics
     name: VEX Robotics
 created-jotform: "2022-09-25 14:54:07"
-last-modified-jotform: "2022-09-28 08:42:54"
-last-exported: "2022-09-28 09:07:04"
+last-modified-jotform: "2022-10-23 16:39:02"
+last-exported: "2022-10-23 16:41:15"
 sitemap: false
 
 ---

@@ -5,7 +5,8 @@ title: "Coruscate Leather and Co."
 slug: coruscate-leather-and-co
 permalink: /exhibits/coruscate-leather-and-co/
 exhibit-id: 22-73
-space-number: Unassigned
+exhibit-zone: "Spirit"
+space-number: "SF33"
 description: "Locally made leather handbags and accessories."
 description-long: "Located in Ocoee FL, Coruscate Leather Co. has been hand crafting fine leather goods since 2020.
 
@@ -92,8 +93,8 @@ categories:
   - slug: handmade
     name: Handmade
 created-jotform: "2022-08-15 21:42:11"
-last-modified-jotform: "2022-08-21 08:37:28"
-last-exported: "2022-09-22 09:30:00"
+last-modified-jotform: "2022-10-23 16:32:55"
+last-exported: "2022-10-23 16:41:16"
 sitemap: false
 
 ---

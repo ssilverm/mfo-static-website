@@ -5,7 +5,8 @@ title: "FIRST Robotics Team 386 Voltage"
 slug: first-robotics-team-386-voltage
 permalink: /exhibits/first-robotics-team-386-voltage/
 exhibit-id: 22-68
-space-number: Unassigned
+exhibit-zone: "Robot Ruckus (Spirit Building)"
+space-number: "CB1"
 description: "FRC Robot demo/display
 Craft table for make-and-take STEM crafts"
 description-long: "We will display our 2022 FIRST Robotics robot which won the Tallahassee regional competition and also competed at the Orlando regional and World Championships in Houston.  If space permits we can demonstrate it&#039;s ability to drive, track vision targets, collect balls and shoot. If not, we can just explain the operation and have a video display.
@@ -50,8 +51,8 @@ categories:
   - slug: robotics
     name: Robotics
 created-jotform: "2022-08-14 11:51:48"
-last-modified-jotform: "2022-10-08 10:53:30"
-last-exported: "2022-10-08 12:59:47"
+last-modified-jotform: "2022-10-23 16:59:17"
+last-exported: "2022-10-23 16:59:27"
 sitemap: false
 
 ---

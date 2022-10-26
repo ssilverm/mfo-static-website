@@ -6,7 +6,7 @@ slug: ionox-media
 permalink: /exhibits/ionox-media/
 exhibit-id: 22-86
 exhibit-zone: "Opportunity"
-space-number: "OE16"
+space-number: "OE21"
 description: "Geekery/Fandom collection of &#039;maker-made&#039; art and decorum."
 description-long: "IONOX specializes in pop culture inspired art.  From sci-fi to fantasy, and even your favorite video games, we create beautiful forms of art that are sure to spark nostalgia.  We use a range of medium, from layered wood to resin,  leather to canvas, and we are always expanding and trying new things.  We love traveling all over the nation to appear at comic conventions, art festivals, and gallery showings.  Maker-Faire Orlando, is one of our home shows, and a staple for us to attend every year.  If you&#039;ve got a design you&#039;ve always dreamt of having in hand or on your wall, let us make your dream a reality."
 image: /assets/images/exhibit-images/22-86-exhibit-ionox-media-299189204-582318406875763-8888364146213403508-n-large.jpg
@@ -41,8 +41,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-23 14:56:46"
-last-modified-jotform: "2022-10-15 20:41:36"
-last-exported: "2022-10-16 18:06:05"
+last-modified-jotform: "2022-10-24 21:24:19"
+last-exported: "2022-10-25 06:31:29"
 sitemap: false
 
 ---

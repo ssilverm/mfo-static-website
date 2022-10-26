@@ -6,7 +6,7 @@ slug: allison-chase-cosplay
 permalink: /exhibits/allison-chase-cosplay/
 exhibit-id: 22-74
 exhibit-zone: "Spirit"
-space-number: "SI27, SJ27, SJ28"
+space-number: "SI27, SJ27, SJ28, SJ29"
 description: "Large Cosplay Design"
 description-long: "When your character is bigger than you, sometimes you have to get creative about how to make them come to life.   Come find ways to work around your humanness and create something larger than life, through puppetry, illusion, PVC, harnesses and a lot of expanding foam!"
 image: /assets/images/exhibit-images/22-74-exhibit-allison-chase-cosplay-apcl8153-large.JPG
@@ -34,8 +34,8 @@ categories:
   - slug: cosplay
     name: Cosplay
 created-jotform: "2022-08-16 10:25:59"
-last-modified-jotform: "2022-10-19 20:52:08"
-last-exported: "2022-10-19 20:56:53"
+last-modified-jotform: "2022-10-23 16:50:36"
+last-exported: "2022-10-23 16:59:27"
 sitemap: false
 
 ---

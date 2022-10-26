@@ -5,7 +5,8 @@ title: "A and M Boutique"
 slug: a-and-m-boutique
 permalink: /exhibits/a-and-m-boutique/
 exhibit-id: 22-33
-space-number: Unassigned
+exhibit-zone: "Spirit"
+space-number: "SH36"
 description: "I will.be selling embroidered goods as well as demonstrating sewing and embroidery  for attendees"
 description-long: "I will have embroidered purses, bags keychains, patches and vinyl jewelry.  I will.bring my sewing machine and demonstrate how to make products as well as showing how I add hardware to keychains and  jewelry. "
 image: /assets/images/exhibit-images/22-33-exhibit-a-and-m-boutique-20220602-213845-large.jpg
@@ -40,8 +41,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-01 01:29:12"
-last-modified-jotform: "2022-09-26 18:07:25"
-last-exported: "2022-09-28 09:07:20"
+last-modified-jotform: "2022-10-23 16:53:37"
+last-exported: "2022-10-23 16:59:28"
 sitemap: false
 
 ---

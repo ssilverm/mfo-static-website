@@ -6,7 +6,7 @@ slug: makerlog
 permalink: /exhibits/makerlog/
 exhibit-id: 22-26
 exhibit-zone: "Opportunity"
-space-number: "OC13"
+space-number: "OA10, OA11"
 description: "Toy log constructor set"
 description-long: "Toy log set, utilizing floor/windows/doors inserts, stairs, railing, 35+ unique log types and 85+ unique roof plank variety for more realistic toy log cabin builds. Be sure to veiw my Utube channel for the best description."
 image: /assets/images/exhibit-images/22-26-exhibit-makerlog-43-dsc-0307s-1305-large.JPG
@@ -84,8 +84,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-07-26 14:48:37"
-last-modified-jotform: "2022-10-15 20:49:40"
-last-exported: "2022-10-16 18:06:06"
+last-modified-jotform: "2022-10-24 21:21:26"
+last-exported: "2022-10-25 06:31:46"
 sitemap: false
 
 ---

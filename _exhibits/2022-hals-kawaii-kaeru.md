@@ -5,8 +5,8 @@ title: "Hal's Kawaii Kaeru"
 slug: hals-kawaii-kaeru
 permalink: /exhibits/hals-kawaii-kaeru/
 exhibit-id: 22-138
-exhibit-zone: "Opportunity"
-space-number: "OE13"
+exhibit-zone: "Spirit"
+space-number: "SF36"
 description: "Handmade crochet pieces, art prints and stickers, handmade jewelry and more!"
 description-long: "Hal&#039;s Kawaii Kaeru is run by a 20 year old artist named Hal from Orlando, FL. They create crochet pieces, art prints and pieces, stickers to decorate your stuff with! They also love making jewelry you can wear everywhere! Everything is drawn, made or designed by Hal themselves and is meant for anyone and everyone."
 image: /assets/images/exhibit-images/22-138-exhibit-hals-kawaii-kaeru-image-large.jpeg
@@ -66,8 +66,8 @@ categories:
   - slug: jewelry
     name: Jewelry
 created-jotform: "2022-09-12 15:03:57"
-last-modified-jotform: "2022-10-17 21:19:48"
-last-exported: "2022-10-17 21:29:28"
+last-modified-jotform: "2022-10-23 16:37:30"
+last-exported: "2022-10-23 16:41:15"
 sitemap: false
 
 ---

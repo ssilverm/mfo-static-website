@@ -6,7 +6,7 @@ slug: ham-radio-and-short-wave-listener-for-beginners
 permalink: /exhibits/ham-radio-and-short-wave-listener-for-beginners/
 exhibit-id: 22-117
 exhibit-zone: "Opportunity"
-space-number: "OE15"
+space-number: "OC21"
 description: "This Ham radio & electronics exhibit is an introduction to the whole exciting field of electronics."
 description-long: "Ham radio and electronics of all sorts, is a great hobby, and for many a wonderful career choice.
 The whole engineering and technology field is going straight up, tremendous opportunities abound, but the time to start in this techie field is now.
@@ -42,8 +42,8 @@ categories:
   - slug: manufacturing
     name: Manufacturing
 created-jotform: "2022-08-31 17:58:41"
-last-modified-jotform: "2022-10-17 21:15:16"
-last-exported: "2022-10-17 21:29:29"
+last-modified-jotform: "2022-10-23 16:02:41"
+last-exported: "2022-10-23 16:04:35"
 sitemap: false
 
 ---

@@ -6,7 +6,7 @@ slug: button-maker
 permalink: /exhibits/button-maker/
 exhibit-id: 22-87
 exhibit-zone: "Curiosity"
-space-number: Unassigned
+space-number: "CH6"
 description: "Learn to make your own button from custom artwork you create or from exiting artwork we will have."
 description-long: "Learn to make your own button from custom artwork you create or from exiting artwork we will have. Note: There is an additional charge for this activity. Part of the proceeds from this activity will benefit the FIRST Robotics club that is running the exhibit."
 image: /assets/images/exhibit-images/22-87-exhibit-button-maker-20211114-120447-large.jpg
@@ -44,8 +44,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-08-23 18:45:22"
-last-modified-jotform: "2022-10-09 13:54:11"
-last-exported: "2022-10-13 22:06:02"
+last-modified-jotform: "2022-10-23 16:11:35"
+last-exported: "2022-10-23 16:27:52"
 sitemap: false
 
 ---

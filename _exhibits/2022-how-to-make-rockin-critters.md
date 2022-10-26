@@ -6,7 +6,7 @@ slug: how-to-make-rockin-critters
 permalink: /exhibits/how-to-make-rockin-critters/
 exhibit-id: 22-140
 exhibit-zone: "Curiosity"
-space-number: "CF6"
+space-number: "CC1"
 description: "In this exhibit, students will assemble their very own Rockin&#039; critter. This is a dancing robot."
 description-long: "Rockin&#039; Critters will rock your world! These tiny robots are super easy to assemble, with little instruction. This take home souvenir is the the life of party! You&#039;ll love your Rockin&#039; Critter. "
 image: /assets/images/exhibit-images/22-140-exhibit-how-to-make-rockin-critters-dancing-robot-large.png
@@ -32,8 +32,8 @@ categories:
   - slug: first-robotics
     name: FIRST Robotics
 created-jotform: "2022-09-15 19:58:13"
-last-modified-jotform: "2022-10-17 21:43:23"
-last-exported: "2022-10-18 08:34:33"
+last-modified-jotform: "2022-10-23 16:59:01"
+last-exported: "2022-10-23 16:59:27"
 sitemap: false
 
 ---

@@ -5,7 +5,8 @@ title: "AnimalOrnaments.com"
 slug: animalornaments-com
 permalink: /exhibits/animalornaments-com/
 exhibit-id: 22-100
-space-number: Unassigned
+exhibit-zone: "Opportunity"
+space-number: "OE13"
 description: "Display of handmade animal Christmas ornaments"
 description-long: "Booth with a small tent and table with display of animal ornaments.  Some ornaments will be displayed on a small Christmas tree and others will be on platforms of various heights.  Some ornaments will be hanging.  We will have a banner on the front of the tent. "
 image: /assets/images/exhibit-images/22-100-exhibit-animalornaments-com-guys-large.jpg
@@ -42,8 +43,8 @@ categories:
   - slug: woodworking
     name: Woodworking
 created-jotform: "2022-08-28 11:19:36"
-last-modified-jotform: "2022-09-26 18:11:45"
-last-exported: "2022-09-28 09:07:20"
+last-modified-jotform: "2022-10-23 16:38:43"
+last-exported: "2022-10-23 16:41:16"
 sitemap: false
 
 ---

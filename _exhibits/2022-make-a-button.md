@@ -6,7 +6,7 @@ slug: make-a-button
 permalink: /exhibits/make-a-button/
 exhibit-id: 22-45
 exhibit-zone: "Curiosity"
-space-number: "CH6, CI6"
+space-number: "CI6"
 description: "Make your own button!"
 description-long: "Learn to make your own button from custom artwork you create or from exiting artwork we will have. Note: There is an additional charge for this activity. Part of the proceeds from this activity will benefit the FIRST Robotics club that is running the exhibit."
 image: /assets/images/exhibit-images/22-45-exhibit-make-a-button-21-141-exhibit-make-a-button-32092104028-71840caa30-c-large-large.jpg
@@ -44,8 +44,8 @@ categories:
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-08-08 10:29:45"
-last-modified-jotform: "2022-10-17 21:41:35"
-last-exported: "2022-10-18 08:34:33"
+last-modified-jotform: "2022-10-23 16:11:40"
+last-exported: "2022-10-23 16:42:03"
 sitemap: false
 
 ---

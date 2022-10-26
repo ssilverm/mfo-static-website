@@ -6,7 +6,7 @@ slug: christmas-lights
 permalink: /exhibits/christmas-lights/
 exhibit-id: 22-130
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: Unassigned
+space-number: "SJ5"
 description: "Ever wonder how people make their Christmas Lights dance to music?"
 description-long: "Ever wonder how people make their Christmas Lights dance to music?"
 image: /assets/images/exhibit-images/22-130-exhibit-christmas-lights-43-261335926-128204649642040-5868732420577011714-n-8291-large.jpg
@@ -28,8 +28,8 @@ categories:
   - slug: special-effects
     name: Special Effects
 created-jotform: "2022-09-04 08:42:42"
-last-modified-jotform: "2022-10-09 12:33:34"
-last-exported: "2022-10-13 22:05:47"
+last-modified-jotform: "2022-10-23 16:20:45"
+last-exported: "2022-10-23 16:27:52"
 sitemap: false
 
 ---
