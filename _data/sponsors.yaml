@@ -121,3 +121,8 @@ sponsors:
     logo: WTI_Logo.png
     level: 5
     active: true
+  - name: Remix
+    url: https://remixed.net
+    logo: remixed-logo.png
+    level: 5
+    active: true
