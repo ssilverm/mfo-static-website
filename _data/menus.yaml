@@ -92,16 +92,16 @@ footernav:
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaireorlando/
-        icon: fa fa-facebook
+        icon: fa-brands fa-facebook
       - title: Twitter
         url: https://twitter.com/orlmakerfaire
-        icon: fa fa-twitter
+        icon: fa-brands fa-twitter
       - title: Instagram
         url: https://www.instagram.com/makerfaireorlando/
-        icon: fa fa-instagram
+        icon: fa-brands fa-instagram
       - title: YouTube
         url: https://www.youtube.com/channel/UCXGb__jIZ6vlAcqoePyX5lg
-        icon: fa fa-youtube
+        icon: fa-brands fa-youtube
 
   - title: Maker Faire
     image: https://global.makerfaire.com/wp-content/themes/MiniMakerFaire/img/Maker-Faire-Logo.png
@@ -126,13 +126,13 @@ footernav:
     socialitems:
       - title: Facebook
         url: https://www.facebook.com/makerfaire/
-        icon: fa fa-facebook
+        icon: fa-brands fa-facebook
       - title: Twitter
         url: https://twitter.com/makerfaire
-        icon: fa fa-twitter
+        icon: fa-brands fa-twitter
       - title: Instagram
         url: https://www.instagram.com/makerfaire/
-        icon: fa fa-instagram
+        icon: fa-brands fa-instagram
       - title: Pinterest
         url: https://www.pinterest.com/makemagazine/maker-faire/
-        icon: fa fa-pinterest
+        icon: fa-brands fa-pinterest
