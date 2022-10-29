@@ -16,7 +16,7 @@ image-primary:
   large: /assets/images/exhibit-images/22R-21-exhibit-honker-honkersghost-sm-large.jpg
   full: /assets/images/exhibit-images/22R-21-exhibit-honker-honkersghost-sm-full.jpg
 video: "https://youtu.be/chB5aPXM9-4?t=489"
-video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/chB5aPXM9-4?start=489&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Honkers Ghost goes to Norwalk!"></iframe>'
+video-embed: '<iframe width="1024" height="576" src="https://www.youtube.com/embed/chB5aPXM9-4?start=489&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Honker&#39;s Ghost goes to Norwalk!"></iframe>'
 maker: 
   name: "Team Tired"
   description: "A family of makers with robot carnage as a hobby"
@@ -26,8 +26,8 @@ categories:
   - slug: combat-robots
     name: Combat Robots
 created-jotform: "2022-09-22 09:58:49"
-last-modified-jotform: "2022-09-26 18:34:25"
-last-exported: "2022-09-28 09:06:48"
+last-modified-jotform: "2022-10-28 16:25:23"
+last-exported: "2022-10-29 09:42:53"
 sitemap: false
 
 ---

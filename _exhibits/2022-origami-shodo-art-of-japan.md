@@ -8,9 +8,9 @@ exhibit-id: 22-164
 exhibit-zone: "Spirit"
 space-number: "SG36"
 description: "Origami paper craft workshop and Shodo brush calligraphy service to experience popular Japanese art"
-description-long: "Learn how to fold Origami;  animals, flowers, and holiday decorations out of paper following step-by-step instructions from experienced Origami artist. All materials are provided. 
+description-long: "Learn how to fold Origami, animals, flowers, and holiday decorations out of paper following step-by-step instructions from experienced Origami artists. All materials are provided. 
 
-Your names and favorite words are translated into Japanese and written in brush calligraphy. Option to be printed on a tote bag on site."
+Your names and favorite words are translated into Japanese and written in brush calligraphy. "
 image: /assets/images/exhibit-images/22-164-exhibit-origami-shodo-art-of-japan-9764de46-28dc-4425-b3a1-d17b1e17a22b-large.jpeg
 image-primary: 
   small: /assets/images/exhibit-images/22-164-exhibit-origami-shodo-art-of-japan-9764de46-28dc-4425-b3a1-d17b1e17a22b-small.jpeg
@@ -35,13 +35,11 @@ categories:
     name: Art
   - slug: education
     name: Education
-  - slug: fabric-arts
-    name: Fabric Arts
   - slug: hands-on-workshop
     name: Hands-On Workshop
 created-jotform: "2022-10-03 23:35:41"
-last-modified-jotform: "2022-10-23 16:36:59"
-last-exported: "2022-10-23 16:41:15"
+last-modified-jotform: "2022-10-29 09:23:38"
+last-exported: "2022-10-29 09:43:19"
 sitemap: false
 
 ---

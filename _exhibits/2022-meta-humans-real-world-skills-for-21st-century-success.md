@@ -8,15 +8,18 @@ exhibit-id: 22-75
 exhibit-zone: "Opportunity"
 space-number: "OA18"
 description: "Entrepreneurs, Hackers, Makers, Producers, Gamers & Guardians - Which Tracks will you choose? "
-description-long: "Our exhibit features hydroponics, sensors/arduino, microscopes, 3D printer, Glowforge Laser, Vinyl Heat Press, Esports, lock picking and various items on display (custom PCB badges, cybersecurity board games, customized engraved acrylic/wood items). 
-Visitors will be able to practice lock-picking, interact with our equipment/projects and receive various customized items (made on-site): engraved pencils, heat-pressed bandanas with some design selection. 
+description-long: "Experience firsthand Orlando’s first, innovative, immersive educational program utilizing STEM, the Arts and Entrepreneurship. 
+Ideal for students ages 7-17, META HUMANS prepares students for the challenges and opportunities of the 21st century and provides hands-on activities outside a traditional classroom setting. 
+
+Our exhibit features hydroponics, sensors/arduino, microscopes, 3D printer, Glowforge Laser, Vinyl Heat Press, Esports, lock picking and various items on display (custom PCB badges, cybersecurity board games, customized engraved acrylic/wood items). 
+Visitors will be able to practice lock-picking, interact with our equipment/projects and receive various customized items (made on-site): engraved pencils, heat-pressed items with some design selection. 
 Also featuring OpenOcular (3D printed phone adapter for microscopes) and its founder/maker."
-image: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-screen-shot-2022-08-16-at-4-23-46-pm-large.png
+image: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-booth-concept-large.jpg
 image-primary: 
-  small: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-screen-shot-2022-08-16-at-4-23-46-pm-small.png
-  medium: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-screen-shot-2022-08-16-at-4-23-46-pm-medium.png
-  large: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-screen-shot-2022-08-16-at-4-23-46-pm-large.png
-  full: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-screen-shot-2022-08-16-at-4-23-46-pm-full.png
+  small: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-booth-concept-small.jpg
+  medium: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-booth-concept-medium.jpg
+  large: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-booth-concept-large.jpg
+  full: /assets/images/exhibit-images/22-75-exhibit-meta-humans-real-world-skills-for-21st-century-success-booth-concept-full.jpg
 additional-images: 
   - 1:
     small: /assets/images/exhibit-images/22-75-exhibit-addl1-meta-humans-real-world-skills-for-21st-century-success-openocular-small.png
@@ -35,7 +38,7 @@ additional-images:
     full: /assets/images/exhibit-images/22-75-exhibit-addl3-meta-humans-real-world-skills-for-21st-century-success-booth-mockup-full.jpg
 maker: 
   name: "Meta Humans"
-  description: "Meta Humans is an in-person center in Winter Park FL offering after school programs, homeschool support, camps and workshops in technology, science and business. Meta Humans shapes future leaders through critical thinking strategies and a STEAM based educational approach. Preparing children ages 7-17 for 21st century opportunities."
+  description: "Meta Humans is an in-person center in Winter Park FL offering after school programs, homeschool supplemental, camps and workshops in technology, science and business. Meta Humans shapes future leaders through critical thinking strategies and a STEAM based educational approach. Preparing children ages 7-17 for 21st century opportunities."
   image-primary: /assets/images/exhibit-images/22-75-maker-meta-humans-real-world-skills-for-21st-century-success-logo-metahumans-vertical-2019-rgb-transparent-medium.png
   website: https://winterpark.metahumans.com
   twitter: https://www.twitter.com/meta_humans
@@ -53,8 +56,8 @@ categories:
   - slug: maker-community
     name: Maker Community
 created-jotform: "2022-08-16 16:33:00"
-last-modified-jotform: "2022-10-15 20:22:20"
-last-exported: "2022-10-16 18:06:05"
+last-modified-jotform: "2022-10-29 09:24:36"
+last-exported: "2022-10-29 09:43:19"
 sitemap: false
 
 ---
