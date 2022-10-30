@@ -3,7 +3,7 @@ title: Event Program
 layout: default
 permalink: /program/
 image: /assets/images/program/MFO_2022_Program_Page_2-web.jpg
-
+description: Plan your Maker Faire Orlando weekend with our event program!
 ---
 # Maker Faire Orlando Event Program
 
