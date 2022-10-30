@@ -5,6 +5,7 @@ title: "Arduino powered drift car"
 slug: arduino-powered-drift-car
 permalink: /exhibits/arduino-powered-drift-car/
 exhibit-id: 22-181
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "This car uses a custom pcb to control the CAN bus functions onboard."
 description-long: "Telemetry, IO, and body control functions are handled by a custom CAN enabled atmega pcb."
@@ -28,8 +29,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-10-25 21:47:25"
-last-modified-jotform: "2022-10-29 09:19:04"
-last-exported: "2022-10-29 09:43:09"
+last-modified-jotform: "2022-10-29 14:10:23"
+last-exported: "2022-10-29 14:18:56"
 sitemap: false
 
 ---

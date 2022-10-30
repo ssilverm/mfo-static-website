@@ -5,6 +5,7 @@ title: "Steamroller Printing"
 slug: steamroller-printing
 permalink: /exhibits/steamroller-printing/
 exhibit-id: 22-178
+exhibit-zone: "Outside"
 space-number: Unassigned
 description: "Come print a 2022 MakerFaire Orlando poster. Using a Steamroller!"
 description-long: "In this free hands-on exhibit, you can ink your own plate, assemble it into the printing structure, and watch a full-size road construction steamroller press it!"
@@ -36,8 +37,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-10-25 10:03:59"
-last-modified-jotform: "2022-10-29 09:15:07"
-last-exported: "2022-10-29 09:43:14"
+last-modified-jotform: "2022-10-29 14:10:51"
+last-exported: "2022-10-29 14:18:56"
 sitemap: false
 
 ---

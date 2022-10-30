@@ -5,6 +5,7 @@ title: "Tokyo Drift"
 slug: tokyo-drift
 permalink: /exhibits/tokyo-drift/
 exhibit-id: 22-176
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "Power Racing Series Entry"
 description-long: "Racing in Power Racing Series to demonstrate low budget racing with off the shelf and recycled parts."
@@ -22,8 +23,8 @@ categories:
   - slug: electric-vehicles
     name: Electric Vehicles
 created-jotform: "2022-10-24 16:46:45"
-last-modified-jotform: "2022-10-29 09:22:39"
-last-exported: "2022-10-29 09:43:18"
+last-modified-jotform: "2022-10-29 14:11:12"
+last-exported: "2022-10-29 14:18:56"
 sitemap: false
 
 ---
