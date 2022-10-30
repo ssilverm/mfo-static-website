@@ -67,24 +67,31 @@ carousel-slides:
 {% endcomment %}
 
 
-{% comment %}
+
 <section class="content-panel">
 <div class="container">
+
+
+    <div class="row text-center">
+      <div class="title-w-border-y">
+      <h2>Maker Faire Orlando 2022 Program</h2>
+      </div>
+    </div>
+
 <div class="row">
-<div class="col-xs-12 text-center ">
-<h2>2020 - Community Impact</h2>
+
+<div class="col-sm-6 text-center">
+<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_1-web.jpg" alt="Maker Faire Orlando 2022 event program page 1" width="400" /></a>
 </div>
-</div>
-<div class="row">
-<div class="col-sm-2"></div>
-<div class="col-sm-8 text-center">
-<p style="margin: 20px 30px 5px 30px">2020 was a year of unprecedented challenges that affected all facets of life including our maker events and gatherings. The Maker Faire Orlando team was heartbroken that we were not able to gather together for our annual tradition, but that didn't stop the maker spirit which led to a year spent making emergency PPE, hosting small socially-distanced outdoor events, forming a new partnership with Boys & Girls Clubs of Central Florida, and much more.</p>
-<p style="margin: 5px 30px 5px 30px;font-weight: bold;text-align: center"><a href="/2020-Community-Impact/">Read more about the impact of Central Florida Makers in 2020 ></a></p>
+
+<div class="col-sm-6 text-center">
+<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_2-web.jpg" alt="Maker Faire Orlando 2022 event program page 2" width="400" /></a>
+
 </div>
 </div>
 </div>
 <div class="flag-banner"></div>
 </section>
-{% endcomment %}
+
 
 {% include sponsors-carousel.html %}
