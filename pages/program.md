@@ -11,11 +11,11 @@ Check out the Maker Faire Orlando event program to plan your time at Maker Faire
 
 <br><br>
 
-<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_1.jpg" alt="Maker Faire Orlando 2022 event program page 1" width="800" /></a>
+<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_1-web.jpg" alt="Maker Faire Orlando 2022 event program page 1" width="800" /></a>
 
 <br>
 
-<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_2.jpg" alt="Maker Faire Orlando 2022 event program page 2" width="800" /></a>
+<a href="/assets/images/program/MFO_2022_Program.pdf"><img src="/assets/images/program/MFO_2022_Program_Page_2-web.jpg" alt="Maker Faire Orlando 2022 event program page 2" width="800" /></a>
 
 ---
 
