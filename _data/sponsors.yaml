@@ -25,7 +25,7 @@ sponsors:
     url: https://www.prusa3d.com/
     logo: prusaresearch.png
     level: 3
-    active: false
+    active: true
   - name: Boca Bearing
     url: https://www.bocabearings.com/
     logo: BB-logo-full-color-small.png
@@ -115,7 +115,7 @@ sponsors:
     url: https://www.fulament.com
     logo: fulament .png
     level: 5
-    active: false
+    active: true
   - name: Wiring Technologies
     url: https://wiringtech.com/
     logo: WTI_Logo.png
