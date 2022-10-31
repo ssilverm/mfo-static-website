@@ -5,7 +5,7 @@ title: "Raphael"
 slug: raphael
 permalink: /exhibits/raphael/
 exhibit-id: 22-110
-exhibit-zone: "Outside"
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "Raphael, the meanest of the turtles and fastest of the Power Wheels Racers!"
 description-long: "Raphael is coming back out to race!"
@@ -39,8 +39,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2022-08-30 14:33:58"
-last-modified-jotform: "2022-10-09 13:51:26"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:30"
 sitemap: false
 
 ---

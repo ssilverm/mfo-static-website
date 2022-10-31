@@ -28,8 +28,8 @@ categories:
   - slug: battlebot
     name: BattleBot
 created-jotform: "2022-09-16 19:19:10"
-last-modified-jotform: "2022-10-09 12:36:48"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:29"
 sitemap: false
 
 ---

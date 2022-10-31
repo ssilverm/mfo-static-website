@@ -5,7 +5,7 @@ title: "Gecko Kart"
 slug: gecko-kart
 permalink: /exhibits/gecko-kart/
 exhibit-id: 22-111
-exhibit-zone: "Outside"
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "Return of the store brand.... Gecko Kart"
 description-long: "Return of the store brand.... Gecko Kart"
@@ -39,8 +39,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2022-08-30 14:38:16"
-last-modified-jotform: "2022-10-09 14:36:12"
-last-exported: "2022-10-13 22:06:00"
+last-modified-jotform: "2022-10-31 11:07:16"
+last-exported: "2022-10-31 11:40:30"
 sitemap: false
 
 ---

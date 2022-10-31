@@ -5,7 +5,7 @@ title: "Driftie Monster"
 slug: driftie-monster
 permalink: /exhibits/driftie-monster/
 exhibit-id: 22-168
-exhibit-zone: "Outside"
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "Driftie Monster is a Power Racer with an addiction to cookies."
 description-long: "Driftie Monster has been a staple of the Power Racing Series for 6 years now, winning a plethora....ok a handful...ok a couple, of medals over the years.  This machine is all about having fun, covered in blue fur and powered by an 1800w scooter motor imported directly from alibaba and juiced by a battery from a Chevy Volt...and Cookies, come out an vote for Driftie Monster at the power racing track!"
@@ -25,8 +25,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2022-10-08 21:07:14"
-last-modified-jotform: "2022-10-09 13:34:53"
-last-exported: "2022-10-13 22:05:45"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:28"
 sitemap: false
 
 ---

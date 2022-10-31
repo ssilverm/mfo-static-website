@@ -80,7 +80,7 @@ Join me at this booth as I fuddle my way through using AI art generators, and le
 
 *I have no control groups, so I cannot claim mad scientist."
   image-primary: /assets/images/exhibit-images/22-183-maker-ai-art-101-interactive-demo-booth-8047fb4f-768f-44e2-a3db-7d499f81f43a-medium.jpeg
-  website: https://www.machinelearningart.com
+  website: https://machinelearningart.com
   twitter: https://www.twitter.com/PabloPAIccaso
   facebook: https://www.facebook.com/machinelearningarts
   youtube: https://www.youtube.com/channel/UCEBWoRpW8x3n6Z7drE3I2kg
@@ -97,8 +97,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-10-26 20:56:31"
-last-modified-jotform: "2022-10-29 14:06:02"
-last-exported: "2022-10-29 14:18:56"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:28"
 sitemap: false
 
 ---

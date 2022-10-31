@@ -5,6 +5,7 @@ title: "CottonSwirl Artwork"
 slug: cottonswirl-artwork
 permalink: /exhibits/cottonswirl-artwork/
 exhibit-id: 22-177
+exhibit-zone: "Opportunity"
 space-number: "OG13"
 description: "Chibi characters on t-shirts, prints, backpacks etc."
 description-long: "Characters that have been drawn in a chibi art style, then put on various items."
@@ -35,8 +36,8 @@ categories:
   - slug: illustration
     name: Illustration
 created-jotform: "2022-10-24 23:34:16"
-last-modified-jotform: "2022-10-29 14:09:25"
-last-exported: "2022-10-29 14:18:56"
+last-modified-jotform: "2022-10-31 11:31:50"
+last-exported: "2022-10-31 11:40:28"
 sitemap: false
 
 ---

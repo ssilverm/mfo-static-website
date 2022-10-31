@@ -9,12 +9,12 @@ exhibit-zone: "Opportunity"
 space-number: "OE29"
 description: "I make advanced model rockets that function using the same control systems as full size ones. "
 description-long: "I make model rockets that function using the same control systems as full size ones. I&#039;ve developed my own hardware, control software, and launch complex to fly them. I produce educational content on the theory and operation of these systems on my YouTube channel. The rockets I make use thrust vector control and active stabilization programmed in Arduino."
-image: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-large.jpg
+image: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-mf-banner-large.jpg
 image-primary: 
-  small: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-small.jpg
-  medium: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-medium.jpg
-  large: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-large.jpg
-  full: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-20220827-214300-full.jpg
+  small: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-mf-banner-small.jpg
+  medium: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-mf-banner-medium.jpg
+  large: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-mf-banner-large.jpg
+  full: /assets/images/exhibit-images/22-99-exhibit-t-zero-systems-mf-banner-full.jpg
 additional-images: 
   - 1:
     small: /assets/images/exhibit-images/22-99-exhibit-addl1-t-zero-systems-20190731-175506-small.jpg
@@ -65,6 +65,7 @@ maker:
   name: "Robert Cook"
   description: "I make model rockets that function using the same control systems as full size ones. I work at Kennedy Space Center on spacecraft operations by day and develop my own small scale rocket tech by night."
   image-primary: /assets/images/exhibit-images/22-99-maker-t-zero-systems-z8p2kikq-400x400-medium.jpg
+  website: https://runrmc94.wixsite.com/t-zero
   twitter: https://www.twitter.com/systems_zero
   instagram: https://www.instagram.com/makofpv
   youtube: https://www.youtube.com/c/TZeroSystems
@@ -80,8 +81,8 @@ categories:
   - slug: space
     name: Space
 created-jotform: "2022-08-27 22:40:58"
-last-modified-jotform: "2022-10-15 20:35:18"
-last-exported: "2022-10-16 18:06:05"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:32"
 sitemap: false
 
 ---

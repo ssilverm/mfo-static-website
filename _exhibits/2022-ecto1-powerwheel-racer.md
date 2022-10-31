@@ -5,7 +5,7 @@ title: "Ecto1 Powerwheel Racer"
 slug: ecto1-powerwheel-racer
 permalink: /exhibits/ecto1-powerwheel-racer/
 exhibit-id: 22-143
-exhibit-zone: "Outside"
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "Ecto-1 Ghostbusters Powerwheels Racer built for less than $500!"
 description-long: "Ecto-1 Ghostbusters Powerwheels Racer built for less than $500 and competes in the national PRS Racing Series!"
@@ -27,8 +27,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2022-09-16 19:15:25"
-last-modified-jotform: "2022-10-09 13:34:49"
-last-exported: "2022-10-13 22:05:46"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:29"
 sitemap: false
 
 ---

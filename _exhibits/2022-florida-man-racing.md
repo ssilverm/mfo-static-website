@@ -5,7 +5,7 @@ title: "Florida Man Racing"
 slug: florida-man-racing
 permalink: /exhibits/florida-man-racing/
 exhibit-id: 22-169
-exhibit-zone: "Outside"
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "A power racer based on the Florida man character, it&#039;s a simple cart to have fun in and go racing."
 description-long: "A power racer based on the Florida man character that I built with my dad to race in the Power Racing Series. This project taught me more about welding, electric motors, and building something within rules of a class"
@@ -29,8 +29,8 @@ categories:
   - slug: power-racing
     name: Power Racing
 created-jotform: "2022-10-09 10:07:38"
-last-modified-jotform: "2022-10-09 13:50:46"
-last-exported: "2022-10-13 22:05:42"
+last-modified-jotform: "2022-10-31 11:07:15"
+last-exported: "2022-10-31 11:40:28"
 sitemap: false
 
 ---
