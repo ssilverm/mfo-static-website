@@ -26,6 +26,12 @@ image-primary:
   medium: /assets/images/exhibit-images/22-7-exhibit-curtis-epperson-art-img-1659-medium.jpg
   large: /assets/images/exhibit-images/22-7-exhibit-curtis-epperson-art-img-1659-large.jpg
   full: /assets/images/exhibit-images/22-7-exhibit-curtis-epperson-art-img-1659-full.jpg
+additional-images: 
+  - 1:
+    small: /assets/images/exhibit-images/22-7-exhibit-addl1-curtis-epperson-art-slothdonutwatermark-1024x1024-2x-small.webp
+    medium: /assets/images/exhibit-images/22-7-exhibit-addl1-curtis-epperson-art-slothdonutwatermark-1024x1024-2x-medium.webp
+    large: /assets/images/exhibit-images/22-7-exhibit-addl1-curtis-epperson-art-slothdonutwatermark-1024x1024-2x-large.webp
+    full: /assets/images/exhibit-images/22-7-exhibit-addl1-curtis-epperson-art-slothdonutwatermark-1024x1024-2x-full.webp
 maker: 
   name: "Curtis Epperson Art"
   description: "I make art out of words! (I did last year&#039;s Maker Faire logo, but I did it under the name Tyled Art. I have started going by my name instead, Curtis Epperson Art.)"
@@ -37,8 +43,8 @@ categories:
   - slug: art
     name: Art
 created-jotform: "2022-07-24 11:00:05"
-last-modified-jotform: "2022-10-31 11:07:16"
-last-exported: "2022-10-31 11:40:35"
+last-modified-jotform: "2022-10-31 20:38:26"
+last-exported: "2022-10-31 20:38:51"
 sitemap: false
 
 ---
