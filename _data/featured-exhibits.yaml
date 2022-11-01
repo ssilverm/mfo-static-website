@@ -2,16 +2,19 @@
 #override the exhibit data by specifying any of title, description, image
 
 homepage:
-  - exhibit-id: 22-151 #HavH3roes? Cosplay in The Wonderlands
-  - exhibit-id: 22-74 #allison chase
-    description: When your character is bigger than you, sometimes you have to get creative about how to make them come to life!
+  - exhibit-id: 22-8
+  - exhibit-id: 22-7
+    image: assets/images/exhibit-images/22-7-exhibit-addl1-curtis-epperson-art-slothdonutwatermark-1024x1024-2x-medium.webp
+  - exhibit-id: 22-138
+  - exhibit-id: 22-20
+  - exhibit-id: 22-14
+  - exhibit-id: 22-183
+    image: assets/images/exhibit-images/22-183-exhibit-addl5-ai-art-101-interactive-demo-booth-b1601aa5-353f-4cda-80d2-0dd340403bbb-medium.jpeg
+  - exhibit-id: 22-16
+    description: I make spray paint art right on the the spot!
+  - exhibit-id: 22-30
+    image: assets/images/exhibit-images/22-30-exhibit-addl1-shananigans-124932823-3792738624092152-1548716412694157583-n-medium.jpg
 
-  - exhibit-id: 22-155 #Miss Taurus Cosplay
-    description: Meet award-winning Cosplayer, Costume Designer, Prop Maker, and Concept Artist Miss Taurus
-
-  - exhibit-id: 22-156 #fred & elle
-    title: Fred & Elle Designs
-    description: See award-winning cosplay creator Fred of Fred & Elle Designs build and paint a prop from start to finish!
 
 
 
