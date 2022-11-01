@@ -18,31 +18,31 @@ carousel-slides:
 scrolltop: true
 ---
 
-# Attend Maker Faire Orlando {{site.event_year}} - {{site.event_date_descr_month_day}}
-Maker Faire Orlando is a non-profit, community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more. It’s an event where people show what they are making and share what they are learning. The individuals behind these exhibits are known as “Makers” and they range from tech enthusiasts to crafters to homesteaders to scientists to garage tinkerers. They are of all ages and backgrounds. The aim of Maker Faire is to entertain, inform, connect and grow this community.
+# Maker Faire Orlando {{site.event_year}} - {{site.event_date_descr_month_day}}
+#### Maker Faire Orlando is a non-profit, community-organized, family-friendly celebration featuring local do-it-yourself science, art, rockets, robots, crafts, technology, music, hands-on-activities, and more.
 
----
-{%comment%}
-## Win a Professional 3D Printer!
-By purchasing a ticket to Maker Faire Orlando online by November 12th, 2021, you are automatically entered to win a DeltaMaker 3D Printer!*  
 
-![3D Printer giveaway](/assets/images/deltamaker-giveaway.jpg)
-
----
-{%endcomment%}
-## Maker Faire Orlando {{site.event_year}} + Robot Ruckus Tournament
-
-Saturday, November 5 & Sunday, November 6  10AM to 5PM Both Days
+Saturday, November 5 & Sunday, November 6  10AM to 5PM (Both Days)
 
 Central Florida Expo Center & Fairgrounds
 4603 W Colonial Dr, Orlando, FL 32808
 
 **Parking is FREE!**
 
----
-**Robot Ruckus** The [Robot Ruckus](https://www.robotruckus.org) Tournament at Maker Faire Orlando runs the entire length of the event in two arenas. For more information on the [Robot Ruckus](https://www.robotruckus.org) Combat Robotics tournament & [VIP Fundraiser event](https://events.humanitix.com/mfo2022-vip-fundraiser) featuring teams from the BattleBots TV series, visit the [Robot Ruckus website](https://www.robotruckus.org)
+Explore more than [200 Exhibits and Hands-on Activities](/makers) to find your favorites!
+
+Check out the [Event Program, Map & Schedule](/program) to plan your weekend!
 
 ---
+
+## Win a Professional 3D Printer!
+By purchasing a ticket to Maker Faire Orlando online **by November 4th, 2022**, you are automatically entered to win a DeltaMaker 3D Printer!*  
+
+![3D Printer giveaway](/assets/images/deltamaker-giveaway.jpg)
+
+---
+
+## Tickets
 Tickets available on [Humanitix](https://events.humanitix.com/makerfaireorlando) or use the ticket form below - Humanitix donates 100% of profits to children's charities!
 
 
@@ -133,6 +133,5 @@ Please see our [Educators page](/educators) for more information.
 **Questions? Email <makers@makerfaireorlando.com>**
 
 ---
-{%comment%}
-*No Purchase Necessary. Tickets must be purchased by 11/12/2021. To receive a single entry for the DeltaMaker 3D Printer giveaway, mail your contact information (name, email address and phone number) to Maker Faire Orlando 3D Printer Giveaway c/o The Maker Effect Foundation, PO Box 3142, Windermere, FL 34786. Entries must be postmarked no later than 11/12/2021.
-{%endcomment%}
+
+*No Purchase Necessary. Tickets must be purchased by 11/4/2021. To receive a single entry for the DeltaMaker 3D Printer giveaway, mail your contact information (name, email address and phone number) to Maker Faire Orlando 3D Printer Giveaway c/o The Maker Effect Foundation, PO Box 3142, Windermere, FL 34786. Entries must be postmarked no later than 11/4/2021.
