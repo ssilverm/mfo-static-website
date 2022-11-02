@@ -111,6 +111,11 @@ sponsors:
     logo: beta-fpv-transparent.png
     level: 4
     active: true
+  - name: SainSmart
+    url: https://www.sainsmart.com
+    logo: sainsmart.jpg
+    level: 4
+    active: true
   - name: Fulament
     url: https://www.fulament.com
     logo: fulament.png
