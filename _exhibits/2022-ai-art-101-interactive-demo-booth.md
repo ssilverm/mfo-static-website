@@ -6,7 +6,7 @@ slug: ai-art-101-interactive-demo-booth
 permalink: /exhibits/ai-art-101-interactive-demo-booth/
 exhibit-id: 22-183
 exhibit-zone: "The Dark Side (Spirit Building)"
-space-number: "SE1"
+space-number: "SC8"
 description: "Show up to use simple browser-based AI art generator tools, and contribute to a larger art project!"
 description-long: "We will be demonstrating simple browser-based AI image generators that anyone can use - type in text describing an image that you want to see, and AI will try to make it for you!
 
@@ -97,8 +97,8 @@ categories:
   - slug: software
     name: Software
 created-jotform: "2022-10-26 20:56:31"
-last-modified-jotform: "2022-10-31 11:07:15"
-last-exported: "2022-10-31 11:40:28"
+last-modified-jotform: "2022-11-02 21:15:58"
+last-exported: "2022-11-02 21:16:09"
 sitemap: false
 
 ---

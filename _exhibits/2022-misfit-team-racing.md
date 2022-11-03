@@ -5,6 +5,7 @@ title: "Misfit Team Racing"
 slug: misfit-team-racing
 permalink: /exhibits/misfit-team-racing/
 exhibit-id: 22-190
+exhibit-zone: "Power Racing Track"
 space-number: Unassigned
 description: "We decided... on a whim to carpool from NY/NJ all the way to Orlando to race!"
 description-long: "We are 3 separate power racing teams all mixed together.
@@ -32,8 +33,8 @@ categories:
   - slug: vehicles
     name: Vehicles
 created-jotform: "2022-11-02 13:28:24"
-last-modified-jotform: "2022-11-02 13:44:38"
-last-exported: "2022-11-02 13:44:48"
+last-modified-jotform: "2022-11-02 21:15:18"
+last-exported: "2022-11-02 21:16:09"
 sitemap: false
 
 ---
