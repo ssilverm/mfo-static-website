@@ -29,7 +29,7 @@ carousel-slides:
     url:
 ---
 
-{% capture cta_event_text %}{{ site.event_date_descr }} – {{ site.event_location_descr }}{% endcapture %} {% include cta-panel-widget.html cta_text=cta_event_text cta_url=site.cta_event_url %}
+{% capture cta_event_text %}{{ site.event_date_descr }} – 10am to 5pm – {{ site.event_location_descr }}{% endcapture %} {% include cta-panel-widget.html cta_text=cta_event_text cta_url=site.cta_event_url %}
 
 {% include what-is-maker-faire.html %}
 
