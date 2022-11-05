@@ -12,15 +12,17 @@ carousel-slides:
     caption: Learn-To-Solder
     url:
 ---
-{%comment%}
+
 # Thanks for Volunteering for Maker Faire Orlando 2022
 The event is now underway and we have closed volunteer registration. If you've already registered and have questions, please email us at <makers@makerfaireorlando.com>
-{%endcomment%}
 
+
+{%comment%}
 # We Need You!
 Volunteering at Maker Faire Orlando is a great way to give back to your local community AND to attend the event without needing to buy a ticket!
 
 Volunteers who work at least a 4 hour shift will receive free admission for the day they volunteer (if you volunteer late in the day, you are welcome to enjoy the event before your volunteer shift, and if you volunteer for setup day, you can come back for a full day on either Saturday or Sunday). Volunteers also receive a Maker Faire Orlando volunteer t-shirt.
+{%endcomment%}
 
 {%comment%}
 Check back later this summer to volunteer for Maker Faire Orlando 2022 and follow-us on social media for announcements!
@@ -34,7 +36,7 @@ Check back later this summer to volunteer for Maker Faire Orlando 2022 and follo
 * If you have any questions about volunteering at Maker Faire Orlando, or if you have a specific skill-set (especially photography/videography) not listed below, please email us at <makers@makerfaireorlando.com>
 
 ---
-
+{%comment%}
 ### Sign up to Volunteer
 You can register for open volunteer shifts by scrolling to the list of available shifts (General Volunteer, Greeter, etc.) at the bottom of this page. If you have any challenges registering, or if your availability changes, email us at <makers@makerfaireorlando.com>.
 
@@ -72,3 +74,6 @@ Notes:
       }
 
     }, false);</script>
+
+
+    {%endcomment%}
