@@ -1,25 +1,18 @@
 name: Manual Build
 on: [workflow_dispatch]
-
 env:
   JOTFORM_API_KEY: ${{ secrets.JOTFORM_API_KEY }}
-
+  
 jobs:
   build:
-
-
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Get secret from base64
-
+      
       - name: Build
         run: |
           echo "Building Container"
           docker-compose build
-          
-      - name: Update Exhibits
-        run: |          
           echo "Updating Exhibits"
           docker-compose run update-exhibits
