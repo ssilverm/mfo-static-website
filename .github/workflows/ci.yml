@@ -8,10 +8,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       
-      - run: |
+      - name: Build
+        run: |
         echo "Building Container"
         docker-compose build
         echo "Updating Exhibits"
         docker-compose run update-exhibits
-      - run: echo "One last message"
+
       
