@@ -191,6 +191,7 @@ def export(outputAll):
     spaceplanList = []
 
     jotform = os.environ.get('JOTFORM_API_KEY')
+    print(os.environ.get('JOTFORM_API_KEY'))
     print(jotform)
     token = jotform
     # if path.exists('private.yaml'):
