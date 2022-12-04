@@ -190,8 +190,8 @@ def export(outputAll):
 
     spaceplanList = []
 
-    jotform-api-key = os.environ.get('jotform-api-key', 'abcd')
-    token = jotform-api-key
+    jotform = os.environ.get('jotform-api-key', 'abcd')
+    token = jotform
     # if path.exists('private.yaml'):
     #   yamlFile = 'private.yaml'
     # else:
