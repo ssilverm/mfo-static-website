@@ -190,18 +190,20 @@ def export(outputAll):
 
     spaceplanList = []
 
-    if path.exists('private.yaml'):
-      yamlFile = 'private.yaml'
-    else:
-      print("Error: Cannot locate settings file")
-      sys.exit(1)
+    jotform-api-key = os.environ.get('jotform-api-key', 'abcd')
+    token = jotform-api-key
+    # if path.exists('private.yaml'):
+    #   yamlFile = 'private.yaml'
+    # else:
+    #   print("Error: Cannot locate settings file")
+    #   sys.exit(1)
 
-    with open(yamlFile) as settingsFile:
-      settings = yaml.load(settingsFile, Loader = yaml.FullLoader)
-      #print (settings)
+    # with open(yamlFile) as settingsFile:
+    #   settings = yaml.load(settingsFile, Loader = yaml.FullLoader)
+    #   #print (settings)
 
-      token = settings['jotform-api-key']
-      print ('API Key:  ', token)
+    #   token = settings['jotform-api-key']
+    #   print ('API Key:  ', token)
 
     jotformAPIClient = JotformAPIClient(token)
 
