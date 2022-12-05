@@ -1,4 +1,4 @@
-name: Manual Build
+name: Update Exhibits
 on: [workflow_dispatch]
 env:
   JOTFORM_API_KEY: ${{ secrets.JOTFORM_API_KEY }}
