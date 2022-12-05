@@ -9,10 +9,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      
-      - name: Echo ENV
-        run: echo $JOTFORM_API_KEY
-      
+            
       - name: Build
         run: |
           echo "Updating Exhibits"
