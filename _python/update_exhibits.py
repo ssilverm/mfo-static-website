@@ -30,8 +30,6 @@ import datetime
 import os.path
 from os import path
 
-print(os.environ)
-
 #settings
 eventYear = 2022
 formCFM = "Call For Makers MFO2022"
@@ -193,8 +191,6 @@ def export(outputAll):
     spaceplanList = []
 
     jotform = os.environ.get('JOTFORM_API_KEY')
-    print(os.environ.get('JOTFORM_API_KEY'))
-    print(jotform)
     token = jotform
     # if path.exists('private.yaml'):
     #   yamlFile = 'private.yaml'
