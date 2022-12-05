@@ -30,6 +30,8 @@ import datetime
 import os.path
 from os import path
 
+print(os.environ)
+
 #settings
 eventYear = 2022
 formCFM = "Call For Makers MFO2022"
