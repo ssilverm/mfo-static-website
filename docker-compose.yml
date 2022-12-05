@@ -15,4 +15,4 @@ services:
     volumes:
       - .:/site
     environment:
-      - JOTFORM_API_KEY: ${JOTFORM_API_KEY}
+      - JOTFORM_API_KEY: '${JOTFORM_API_KEY}'
