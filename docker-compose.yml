@@ -14,3 +14,5 @@ services:
     working_dir: /site/_python/
     volumes:
       - .:/site
+    environment:
+      - JOTFORM_API_KEY: ${JOTFORM_API_KEY}
