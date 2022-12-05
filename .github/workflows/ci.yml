@@ -12,10 +12,12 @@ jobs:
       
       - name: Echo ENV
         run: echo $JOTFORM_API_KEY
-        
+      
       - name: Build
         run: |
           echo "Building Container"
           docker-compose build
           echo "Updating Exhibits"
           docker-compose run update-exhibits
+        env:
+          JOTFORM_API_KEY: ${{ secrets.JOTFORM_API_KEY }}
