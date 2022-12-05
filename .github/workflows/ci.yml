@@ -15,8 +15,6 @@ jobs:
       
       - name: Build
         run: |
-          echo "Building Container"
-          docker-compose build
           echo "Updating Exhibits"
           docker-compose run update-exhibits
         env:
