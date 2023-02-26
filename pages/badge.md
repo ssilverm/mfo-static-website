@@ -10,6 +10,8 @@ Thanks for scanning that handy QR code on your badge! Your reward is this handy 
 ### Event Hours
 Maker Check-in and setup is from 10am to 8pm on Friday, November 4.<br>
 
+The Maker Mixer (during setup) is from 6pm to 7pm on Friday, November 4.
+
 Maker Check-in resumes from 8am to 9am on Saturday, November 5.<br>
 
 Maker Faire Orlando 2022 is open to attendees from 10am to 5pm on November 5 and 6.<br>
