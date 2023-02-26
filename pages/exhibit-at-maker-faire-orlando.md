@@ -22,9 +22,9 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 ---
 
 ## Exhibit Applications
-{%comment%}
-**We have not yet opened the Call For Makers exhibit application process for 2022. Check back later this summer and follow us on social media for announcements!**
-{%endcomment%}
+
+#### We have not yet opened the Call For Makers exhibit application process for 2023. Check back later this summer and follow us on social media for announcements!
+
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Startup businesses are encouraged to contact us at <makers@makerfaireorlando.com
 &nbsp;
 {%endcomment%}
 
-
+{%comment%}
 Our application deadline has passed. **You are welcome to continue to submit applications and they will be added to our waitlist in the event we have exhibit cancellations.** Interior space will be most limited, indicating flexibility on location (indoor / outdoor) will increase your odds of being accepted.
 
 &nbsp;
@@ -64,5 +64,6 @@ Exhibits are not approved in the order received, and are reviewed and approved i
 
 Unfortunately, we do not have space at the event for all exhibit applications. Please ensure that you highlight your exhibit with good photos / video / description when you submit. We also maintain a balance between selling / non-selling exhibits and a good mix of the type of exhibits.
 
+{%endcomment%}
 ---
 ***Have any questions? Email us at <makers@makerfaireorlando.com>***

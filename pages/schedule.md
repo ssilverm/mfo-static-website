@@ -9,7 +9,13 @@ redirect_from: "/event-schedule/"
 # Event Schedule
 
 
+
+#### Check back later this summer for more information about Maker Faire Orlando 2023!
+
+{%comment%}
+
 Most exhibits and hands-on experiences at Maker Faire Orlando run continuously throughout the event.
+
 
 For competition times and more, check out our [event program](/program) below which has additional details. Click the images below for a PDF version of the program.
 
@@ -37,3 +43,5 @@ Check out the [Maker Faire Orlando & VIP Fundraiser](https://events.humanitix.co
 ---
 
 Exhibiting makers and available experiences are subject to change based on community availablity.
+
+{%endcomment%}

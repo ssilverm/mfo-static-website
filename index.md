@@ -35,9 +35,10 @@ carousel-slides:
 
 {% include makey-border.html %}
 
-
+{% comment %}
 {% include featured-makers-grid.html %}
 {% include explore-meet-makers.html %}
+{% endcomment %}
 
 
 {% comment %}
@@ -67,7 +68,7 @@ carousel-slides:
 {% endcomment %}
 
 
-
+{% comment %}
 <section class="content-panel">
 <div class="container">
 
@@ -92,6 +93,6 @@ carousel-slides:
 </div>
 <div class="flag-banner"></div>
 </section>
-
+{% endcomment %}
 
 {% include sponsors-carousel.html %}
