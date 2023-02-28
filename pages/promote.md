@@ -23,8 +23,7 @@ Twitter [@orlmakerfaire](https://twitter.com/makerfaire)
 Suggested and Common Maker Faire Hashtags
 
 #MFO2023\
-#MakerFaire
-
+#MakerFaire\
 #RobotRuckus\
 #OrlandoMakers\
 #Makers\
