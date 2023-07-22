@@ -51,36 +51,34 @@ Tickets available on [Humanitix](https://events.humanitix.com/makerfaireorlando)
 
 ---
 
-<iframe id="iframe-container" src="https://events.humanitix.com/maker-faire-orlando-2023/tickets?w=true&p=%23353337" width="100%" height="600px" frameborder="0"></iframe>
-
+<iframe id="iframe-container" src="https://events.humanitix.com/makerfaireorlando/tickets?w=true&p=%23353337" width="100%" height="600px" frameborder="0"></iframe>
 <script>
-    var humanitix = {
-        findPos: function(obj) {
-            var curtop = 0;
-            if (obj.offsetParent) {
-            do {
-                curtop += obj.offsetTop;
-            } while ((obj = obj.offsetParent));
-            return [curtop];
-            }
-        }
-    };
-    window.addEventListener('message', function (e) {
-        if (e.origin !== "https://events.humanitix.com"){
-            return;
-        }   
-        var messageData = e.data;
-        var iframeEl = document.getElementById('iframe-container');
-        if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){
-            iframeEl.style.height = messageData.scrollHeight + 'px';
-        }
-        if (iframeEl && messageData && messageData.pageChange) {
-          window.scroll(0, humanitix.findPos(iframeEl));
+  var humanitix = {
+      findPos: function(obj) {
+          var curtop = 0;
+          if (obj.offsetParent) {
+          do {
+              curtop += obj.offsetTop;
+          } while ((obj = obj.offsetParent));
+          return [curtop];
+          }
       }
+  };
+  window.addEventListener('message', function (e) {
+      if (e.origin !== "https://events.humanitix.com"){
+          return;
+      }   
+      var messageData = e.data;
+      var iframeEl = document.getElementById('iframe-container');
+      if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){
+          iframeEl.style.height = messageData.scrollHeight + 'px';
+      }
+      if (iframeEl && messageData && messageData.pageChange) {
+        window.scroll(0, humanitix.findPos(iframeEl));
+    }
 
-    }, false);
+  }, false);
 </script>
-
 
 ---
 {%comment%}
