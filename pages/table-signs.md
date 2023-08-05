@@ -8,8 +8,14 @@ sitemap: false
 
 {% for exhibit in site.exhibits limit: page.limit %}
 
+{%comment%}
+{% if exhibit.exhibit-zone != "Robot Ruckus (Spirit Building)" %} {% continue %} {%endif%}
+
+{% if exhibit.exhibit-zone == "Power Racing Track" %} {% continue %} {%endif%}
+{%endcomment%}
+
 <div style="page-break-after: always">
-<img style="margin-bottom:20px;" src="/assets/images/site-branding/2021/mfo_table_sign_header_2021_v1_1000.jpg" alt="Maker Faire Orlando">
+<img style="margin-bottom:20px;" src="/assets/images/site-branding/2022/mfo_table_sign_header_2022_v1_1000.jpg" alt="Maker Faire Orlando">
   <div style="margin-bottom:20px; font-family:lato; font-weight:bold; font-size:50px">{{exhibit.title}}</div>
   <table>
     <tr>
